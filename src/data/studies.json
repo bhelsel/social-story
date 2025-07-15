@@ -1,0 +1,17 @@
+[
+  {
+    "id": "BrainPower",
+    "title": "Promotion of Physical Activity for Adults with Down Syndrome",
+    "image": "exercise.jpeg"
+  },
+  {
+    "id": "BOLD",
+    "title": "Brain Outcomes for Healthy Diets",
+    "image": "healthy-eating.jpeg"
+  },
+  {
+    "id": "ABC-DS",
+    "title": "Alzheimer's Biomarkers Consortium - Down Syndrome",
+    "image": "brain.jpeg"
+  }
+]

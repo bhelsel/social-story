@@ -1,46 +1,43 @@
-import { RouterProvider, createBrowserRouter } from 'react-router-dom';
+import { RouterProvider, createBrowserRouter } from "react-router-dom";
 
-import EditEventPage from './pages/EditEvent';
-import ErrorPage from './pages/Error';
-import EventDetailPage from './pages/EventDetail';
-import EventsPage from './pages/Events';
-import EventsRootLayout from './pages/EventsRoot';
-import HomePage from './pages/Home';
-import NewEventPage from './pages/NewEvent';
-import RootLayout from './pages/Root';
+import ErrorPage from "./pages/Error";
+import AssessmentDetailPage from "./pages/AssessmentDetail";
+import PresentationDetailPage from "./pages/PresentationDetail";
+import StudiesPage from "./pages/Studies";
+import HomePage from "./pages/Home";
+import RootLayout from "./pages/Root";
 
 const router = createBrowserRouter([
   {
-    path: '/social-story',
+    path: "/social-story",
     element: <RootLayout />,
     errorElement: <ErrorPage />,
     children: [
-      { index: true, element: <HomePage /> },
       {
-        path: 'events',
-        element: <EventsRootLayout />,
+        index: true,
+        element: <HomePage />,
+      },
+      {
+        path: "studies",
         children: [
           {
             index: true,
-            element: <EventsPage />,
+            element: <StudiesPage />,
           },
           {
-            path: ':eventId',
-            id: 'event-detail',
+            path: ":studyId",
+            id: "study-detail",
             children: [
               {
                 index: true,
-                element: <EventDetailPage />,
+                path: "presentations",
+                element: <PresentationDetailPage />,
               },
               {
-                path: 'edit',
-                element: <EditEventPage />,
+                path: "assessments",
+                element: <AssessmentDetailPage />,
               },
             ],
-          },
-          {
-            path: 'new',
-            element: <NewEventPage />,
           },
         ],
       },

@@ -16,6 +16,7 @@ const router = createBrowserRouter([
       {
         index: true,
         element: <HomePage />,
+        errorElement: <ErrorPage />,
       },
       {
         path: "studies",
@@ -23,6 +24,7 @@ const router = createBrowserRouter([
           {
             index: true,
             element: <StudiesPage />,
+            errorElement: <ErrorPage />,
           },
           {
             path: ":studyId",
@@ -32,10 +34,12 @@ const router = createBrowserRouter([
                 index: true,
                 path: "presentations",
                 element: <PresentationDetailPage />,
+                errorElement: <ErrorPage />,
               },
               {
                 path: "assessments",
                 element: <AssessmentDetailPage />,
+                errorElement: <ErrorPage />,
               },
             ],
           },

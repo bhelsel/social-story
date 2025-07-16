@@ -1,17 +1,20 @@
 [
   {
-    "id": "BrainPower",
-    "title": "Promotion of Physical Activity for Adults with Down Syndrome",
+    "id": "SPARTANS",
+    "title": "Finding better ways to measure movement in adults with Down syndrome",
+    "description": "SPARTANS will collect physical activity measures to help find better ways to measure movement in adults with Down syndrome. Volunteers will attend a single study visit lasting about two hours",
     "image": "exercise.jpeg"
   },
   {
     "id": "BOLD",
-    "title": "Brain Outcomes for Healthy Diets",
+    "title": "Brain Outcomes and Lifestyle in Down syndrome (BOLD)",
+    "description": "Adults with Down syndrome will either follow a weight loss program or receive general health information. The 12-month study includes monthly virtual meetings and up to 5 visits to KU Medical Center, with no cost for participation and compensation provided.",
     "image": "healthy-eating.jpeg"
   },
   {
     "id": "ABC-DS",
     "title": "Alzheimer's Biomarkers Consortium - Down Syndrome",
+    "description": "Active involvement in this observational study empowers individuals with Down syndrome to play a pivotal role in uncovering who is more likely to develop Alzheimer’s disease. Findings from this study aim to drive progress in developing treatments and potentially slowing the progression of Alzheimer’s disease.",
     "image": "brain.jpeg"
   }
 ]

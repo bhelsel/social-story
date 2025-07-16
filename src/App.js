@@ -1,15 +1,16 @@
-import { RouterProvider, createBrowserRouter } from "react-router-dom";
+import { RouterProvider, createHashRouter } from "react-router-dom";
 
 import ErrorPage from "./pages/Error";
+import StudyDetailPage from "./pages/StudyDetailPage";
 import AssessmentDetailPage from "./pages/AssessmentDetail";
 import PresentationDetailPage from "./pages/PresentationDetail";
 import StudiesPage from "./pages/Studies";
 import HomePage from "./pages/Home";
 import RootLayout from "./pages/Root";
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
-    path: "/social-story",
+    path: "/",
     element: <RootLayout />,
     errorElement: <ErrorPage />,
     children: [
@@ -29,6 +30,7 @@ const router = createBrowserRouter([
           {
             path: ":studyId",
             id: "study-detail",
+            element: <StudyDetailPage />,
             children: [
               {
                 index: true,

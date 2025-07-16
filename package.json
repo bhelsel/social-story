@@ -1,7 +1,7 @@
 {
   "name": "social-story",
   "version": "0.1.0",
-  "homepage": "./social-story/",
+  "homepage": "https://bhelsel.github.io/social-story/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",

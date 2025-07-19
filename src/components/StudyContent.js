@@ -13,7 +13,6 @@ function StudyContent({ study }) {
       </header>
 
       <nav className={classes.navigation}>
-        {/* Option 1: Card-style navigation (recommended) */}
         <ul className={classes.studyContent}>
           <li>
             <Link to={`/studies/${study.id}/presentations`}>

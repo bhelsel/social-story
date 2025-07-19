@@ -1,6 +1,4 @@
-// import Reveal from "reveal.js";
 import Slide from "../components/Slide";
-// import Deck from "../components/SlideDeck";
 import SlideDeck from "../components/SlideDeck";
 import TitleSlide from "../slides/TitleSlide";
 

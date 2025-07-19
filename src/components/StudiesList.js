@@ -13,7 +13,7 @@ function StudyList() {
         {studies.map((study) => (
           <li key={study.id}>
             <img src={study.image} alt={study.id} />
-            <Link to={`${study.id}/presentations`}>
+            <Link to={`${study.id}`}>
               <h2>{study.id}</h2>
             </Link>
             <p>{study.title}</p>

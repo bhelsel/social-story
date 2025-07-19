@@ -30,6 +30,9 @@ function MainNavigation() {
           </li>
         </ul>
       </nav>
+      <div className={classes.logoRight}>
+        <img src="logo256.png" alt="Logo" />
+      </div>
     </header>
   );
 }

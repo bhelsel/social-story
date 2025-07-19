@@ -1,25 +1,260 @@
+/* StudyContent.module.css */
+
 .content {
-  text-align: center;
+  max-width: 1200px;
   margin: 0 auto;
-  padding-bottom: 10px;
-  height: 500px;
-  width: 50%;
+  padding: 2rem;
+  /* Removed min-height and background to not interfere with child components */
 }
 
-.item {
-  background-color: #1d1a16;
+.header {
+  text-align: center;
+  margin-bottom: 3rem;
+  padding: 2rem 0;
+  background: rgba(255, 255, 255, 0.9);
   border-radius: 1rem;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+.studyId {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #2c3e50;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+.studyTitle {
+  font-size: 1.5rem;
+  color: #34495e;
+  margin-bottom: 1.5rem;
+  font-weight: 300;
+}
+
+.studyDescription {
+  font-size: 1.1rem;
+  color: #7f8c8d;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.navigation {
+  margin: 3rem 0;
+}
+
+.studyContent {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  padding: 0;
+  list-style: none;
+  margin: 0;
+}
+
+.studyContent li {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  border-radius: 1rem;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
   overflow: hidden;
+  position: relative;
+}
+
+.studyContent li::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(255, 255, 255, 0.2),
+    transparent
+  );
+  transition: left 0.5s ease;
+}
+
+.studyContent li:hover::before {
+  left: 100%;
+}
+
+.studyContent li:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.25);
+}
+
+.studyContent a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+  color: white;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1.2rem;
+  min-height: 120px;
   text-align: center;
-  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.3);
-  vertical-align: top;
-  display: inline-block;
-  text-align: center;
-  padding: 12px;
-  margin-left: 10px;
-  margin-right: 10px;
-  margin-bottom: 20px;
-  height: auto;
-  width: 250px;
-  height: 50px;
+  transition: all 0.3s ease;
+  position: relative;
+  z-index: 1;
+}
+
+.studyContent a:visited {
+  color: white;
+}
+
+.studyContent a:hover {
+  color: white;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Add icons for visual appeal */
+.studyContent li:first-child a::before {
+  content: "📖";
+  font-size: 2rem;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+.studyContent li:last-child a::before {
+  content: "📊";
+  font-size: 2rem;
+  display: block;
+  margin-bottom: 0.5rem;
+}
+
+/* Alternative button style option */
+.studyContentButtons {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  padding: 0;
+  list-style: none;
+  margin: 0;
+}
+
+.studyContentButtons li {
+  flex: 0 1 auto;
+}
+
+.studyContentButtons a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 1rem 2rem;
+  background: #3498db;
+  color: white;
+  text-decoration: none;
+  border-radius: 50px;
+  font-weight: 600;
+  font-size: 1.1rem;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 16px rgba(52, 152, 219, 0.3);
+  border: 2px solid transparent;
+}
+
+.studyContentButtons a:visited {
+  color: white;
+}
+
+.studyContentButtons a:hover {
+  background: #2980b9;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 24px rgba(52, 152, 219, 0.4);
+  color: white;
+}
+
+.studyContentButtons a:active {
+  transform: translateY(0);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .content {
+    padding: 1rem;
+  }
+
+  .header {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+  }
+
+  .studyId {
+    font-size: 1.8rem;
+    letter-spacing: 1px;
+  }
+
+  .studyTitle {
+    font-size: 1.2rem;
+  }
+
+  .studyDescription {
+    font-size: 1rem;
+  }
+
+  .studyContent {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .studyContent a {
+    padding: 1.5rem;
+    font-size: 1.1rem;
+    min-height: 100px;
+  }
+
+  .studyContentButtons {
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  .studyContentButtons a {
+    width: 100%;
+    max-width: 300px;
+    justify-content: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .content {
+    padding: 0.5rem;
+  }
+
+  .header {
+    padding: 1rem;
+  }
+
+  .studyId {
+    font-size: 1.5rem;
+  }
+
+  .studyTitle {
+    font-size: 1.1rem;
+  }
+
+  .studyContent a {
+    padding: 1.25rem;
+    font-size: 1rem;
+    min-height: 80px;
+  }
+}
+
+/* Outlet container for child components like RevealJS */
+.outletContainer {
+  /* Reset any potential styling conflicts */
+  width: 100%;
+  height: 650px;
+  position: relative;
+}
+
+/* Ensure RevealJS presentations display properly */
+.outletContainer .reveal {
+  width: 100% !important;
+  height: 100vh !important;
 }

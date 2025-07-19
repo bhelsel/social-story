@@ -8,10 +8,10 @@ function StudyList() {
   // const events = useLoaderData();
 
   return (
-    <div>
-      <ul className={classes.list}>
+    <div className={classes.studyList}>
+      <ul>
         {studies.map((study) => (
-          <li key={study.id} className={classes.item}>
+          <li key={study.id}>
             <img src={study.image} alt={study.id} />
             <Link to={`${study.id}/presentations`}>
               <h2>{study.id}</h2>

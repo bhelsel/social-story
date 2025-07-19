@@ -2,6 +2,7 @@ import { useEffect, useRef } from "react";
 import Reveal from "reveal.js";
 import "reveal.js/dist/reveal.css";
 import "reveal.js/dist/theme/dracula.css";
+import "./SlideDeck.module.css"; // Custom styles for Reveal.js
 
 const RevealPresentation = ({ children }) => {
   const deck = useRef(null); // Ref to store the Reveal.js instance

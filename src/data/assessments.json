@@ -1,0 +1,248 @@
+[
+  {
+    "id": "cognitive-testing",
+    "title": "Cognitive Testing",
+    "description": "Computer-based tasks to assess thinking and memory",
+    "icon": "🧠",
+    "duration": "45-60 minutes",
+    "difficulty": "Moderate",
+    "tags": ["Computer", "Memory", "Thinking"],
+    "video": "",
+    "procedures": [
+      {
+        "title": "Welcome & Setup",
+        "icon": "👋",
+        "description": "We'll greet you and get you settled in a comfortable chair at a computer",
+        "details": [
+          "You'll sit in a quiet, well-lit room",
+          "The computer screen will be at eye level",
+          "We'll adjust the chair height for comfort"
+        ],
+        "duration": "5 minutes"
+      },
+      {
+        "title": "Instructions",
+        "icon": "📋",
+        "description": "We'll explain each task before you start, and you can practice first",
+        "details": [
+          "Clear, simple instructions for each activity",
+          "Practice rounds so you feel confident",
+          "No time pressure during explanations"
+        ],
+        "duration": "10 minutes"
+      },
+      {
+        "title": "Memory Tasks",
+        "icon": "🔤",
+        "description": "You'll see words, numbers, or pictures and try to remember them",
+        "details": [
+          "Items appear on screen one at a time",
+          "Some tasks ask you to remember order",
+          "Others ask you to recognize what you've seen before"
+        ],
+        "duration": "15 minutes"
+      },
+      {
+        "title": "Attention Tasks",
+        "icon": "🎯",
+        "description": "Simple activities that test your focus and concentration",
+        "details": [
+          "You might press keys when you see certain shapes",
+          "Or follow moving objects on screen",
+          "Tasks are like simple computer games"
+        ],
+        "duration": "15 minutes"
+      },
+      {
+        "title": "Wrap Up",
+        "icon": "✅",
+        "description": "We'll thank you and answer any questions you have",
+        "details": [
+          "Brief discussion about how it went",
+          "Information about next steps (if any)",
+          "Contact information for follow-up questions"
+        ],
+        "duration": "5 minutes"
+      }
+    ]
+  },
+  {
+    "id": "brain-imaging",
+    "title": "Brain Imaging (MRI)",
+    "description": "Safe, non-invasive brain scan to see brain structure and activity",
+    "icon": "🧲",
+    "duration": "60-90 minutes",
+    "difficulty": "Moderate",
+    "tags": ["MRI", "Brain Scan", "Lying Still"],
+    "video": "vI09g5zoeXQ?si=BBF2vm-KHNoCYRfY",
+    "procedures": [
+      {
+        "title": "Preparation",
+        "icon": "👕",
+        "description": "You'll change into comfortable clothes without metal",
+        "details": [
+          "Hospital gown or metal-free clothing provided",
+          "Remove jewelry, watches, and metal objects",
+          "Secure storage provided for your belongings"
+        ],
+        "duration": "15 minutes"
+      },
+      {
+        "title": "Safety Check",
+        "icon": "🛡️",
+        "description": "We'll review safety questions and explain the MRI process",
+        "details": [
+          "Questions about medical implants or metal in body",
+          "Explanation of loud noises you'll hear",
+          "Emergency button you can press anytime"
+        ],
+        "duration": "10 minutes"
+      },
+      {
+        "title": "Getting Positioned",
+        "icon": "🛏️",
+        "description": "You'll lie on a comfortable table that slides into the MRI machine",
+        "details": [
+          "Padded table with pillow and blanket",
+          "Head coil positioned around your head",
+          "Earplugs and headphones for noise protection"
+        ],
+        "duration": "10 minutes"
+      },
+      {
+        "title": "The Scan",
+        "icon": "📸",
+        "description": "You'll need to stay still while the machine takes pictures of your brain",
+        "details": [
+          "Loud knocking and buzzing sounds are normal",
+          "Each scan sequence lasts 2-10 minutes",
+          "We can talk to you between sequences"
+        ],
+        "duration": "45-60 minutes"
+      },
+      {
+        "title": "Finishing Up",
+        "icon": "🏁",
+        "description": "The table slides out and you can get up and get dressed",
+        "details": [
+          "No side effects from the scan",
+          "You can resume normal activities immediately",
+          "Results will be shared with your doctor"
+        ],
+        "duration": "10 minutes"
+      }
+    ]
+  },
+  {
+    "id": "blood-draw",
+    "title": "Blood Sample Collection",
+    "description": "Quick and simple blood draw for research analysis",
+    "icon": "🩸",
+    "duration": "15-20 minutes",
+    "difficulty": "Easy",
+    "tags": ["Blood Test", "Quick", "Lab Work"],
+    "video": "UMoSnfFzAHw?si=kr4JUAnOkXkGGo35",
+    "procedures": [
+      {
+        "title": "Check-in",
+        "icon": "📝",
+        "description": "We'll verify your information and have you sit in a comfortable chair",
+        "details": [
+          "Confirm your identity and study participation",
+          "Review any medications you're taking",
+          "Comfortable chair with arm support"
+        ],
+        "duration": "5 minutes"
+      },
+      {
+        "title": "Preparation",
+        "icon": "🧼",
+        "description": "The phlebotomist will clean the area and prepare the equipment",
+        "details": [
+          "Alcohol wipe to clean your arm",
+          "Sterile needle and collection tubes",
+          "Tourniquet to make veins more visible"
+        ],
+        "duration": "3 minutes"
+      },
+      {
+        "title": "Blood Draw",
+        "icon": "💉",
+        "description": "Quick needle stick to collect the blood sample",
+        "details": [
+          "Brief pinch when needle goes in",
+          "You might feel slight pressure",
+          "Usually takes less than 2 minutes"
+        ],
+        "duration": "2 minutes"
+      },
+      {
+        "title": "Aftercare",
+        "icon": "🩹",
+        "description": "We'll apply pressure and a bandage to the site",
+        "details": [
+          "Direct pressure to prevent bleeding",
+          "Small bandage or cotton ball with tape",
+          "Instructions for care over next few hours"
+        ],
+        "duration": "5 minutes"
+      }
+    ]
+  },
+  {
+    "id": "survey-interview",
+    "title": "Survey & Interview",
+    "description": "Conversation about your health, lifestyle, and experiences",
+    "icon": "💬",
+    "duration": "30-45 minutes",
+    "difficulty": "Easy",
+    "tags": ["Questions", "Conversation", "Personal"],
+    "video": "UMoSnfFzAHw?si=kr4JUAnOkXkGGo35",
+    "procedures": [
+      {
+        "title": "Welcome",
+        "icon": "🤝",
+        "description": "We'll introduce ourselves and explain the interview process",
+        "details": [
+          "Comfortable, private room for talking",
+          "Explanation of confidentiality",
+          "Permission to record (if applicable)"
+        ],
+        "duration": "5 minutes"
+      },
+      {
+        "title": "Background Questions",
+        "icon": "📊",
+        "description": "Questions about your basic information and health history",
+        "details": [
+          "Age, education, and occupation",
+          "General health and medical history",
+          "Family health background"
+        ],
+        "duration": "10 minutes"
+      },
+      {
+        "title": "Specific Topics",
+        "icon": "🎯",
+        "description": "Detailed questions related to the research study",
+        "details": [
+          "Questions specific to the study focus",
+          "Your experiences and opinions",
+          "No right or wrong answers"
+        ],
+        "duration": "20 minutes"
+      },
+      {
+        "title": "Wrap Up",
+        "icon": "📋",
+        "description": "Final questions and opportunity for you to ask anything",
+        "details": [
+          "Review of key points discussed",
+          "Your questions about the study",
+          "Information about next steps"
+        ],
+        "duration": "10 minutes"
+      }
+    ]
+  }
+]

@@ -1,21 +1,22 @@
-import { useParams } from "react-router-dom";
-
 import Slide from "../components/Slide";
-import studies from "../data/studies.json";
+import classes from "./TitleSlide.module.css";
 
-function TitleSlide() {
-  const { studyId } = useParams();
-
-  // Find the study with the matching id
-  const study = studies.find((s) => s.id === studyId);
+function TitleSlide({ title, text, image }) {
   return (
     <Slide
       style={{ backgroundColor: "#f3f4f6", fontSize: "1.2rem" }}
       textColor="#1f2937"
       padding="1rem"
     >
-      <h1>{study.id}</h1>
-      <img src={study.image} alt={study.id}></img>
+      <div className={classes.titleSlide}>
+        <h2>{title}</h2>
+        {text ? (
+          <p>{text}</p>
+        ) : (
+          <p>{`A Social Story for the ${title} study.`}</p>
+        )}
+        <img src={image} alt={title}></img>
+      </div>
     </Slide>
   );
 }

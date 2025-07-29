@@ -1,12 +1,9 @@
-// import { useLoaderData } from 'react-router-dom';
 import { Link } from "react-router-dom";
 
 import classes from "./StudiesList.module.css";
 import studies from "../data/studies.json";
 
 function StudyList() {
-  // const events = useLoaderData();
-
   return (
     <div className={classes.studyList}>
       <ul>

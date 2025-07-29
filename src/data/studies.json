@@ -4,14 +4,55 @@
     "title": "Finding better ways to measure movement in adults with Down syndrome",
     "description": "SPARTANS will collect physical activity measures to help find better ways to measure movement in adults with Down syndrome. Volunteers will attend a single study visit lasting about two hours",
     "image": "exercise.jpeg",
-    "assessments": ["cognitive-testing", "survey-interview"]
+    "assessments": ["cognitive-testing", "survey-interview"],
+    "team": [
+      "Brian Helsel",
+      "Keri Cox",
+      "Joseph Sherman",
+      "Annie Rice",
+      "Julianne Clina"
+    ],
+    "social-story": {
+      "TitleSlide": {
+        "title": "SPARTANS",
+        "text": "Social Story Part 1"
+      },
+      "AboutSlide": {
+        "title": "SPARTANS",
+        "text": "Social Story Part 2"
+      },
+      "TeamSlide": {
+        "title": "Meet our team",
+        "text": "A physical activity measurement study led by Dr. Brian Helsel, PhD"
+      }
+    }
   },
   {
     "id": "BOLD",
     "title": "Brain Outcomes and Lifestyle in Down syndrome (BOLD)",
     "description": "Adults with Down syndrome will either follow a weight loss program or receive general health information. The 12-month study includes monthly virtual meetings and up to 5 visits to KU Medical Center, with no cost for participation and compensation provided.",
     "image": "healthy-eating.jpeg",
-    "assessments": ["brain-imaging", "blood-draw"]
+    "assessments": ["brain-imaging", "blood-draw"],
+    "team": [
+      "Lauren Ptomey",
+      "Keri Cox",
+      "Joseph Sherman",
+      "Brian Helsel",
+      "Jessica Danon"
+    ],
+    "social-story": {
+      "Panopto": {
+        "videoId": "0583cb9c-2609-4eb5-9ba3-b2440150255e"
+      },
+      "TitleSlide": {
+        "title": "BOLD",
+        "text": "Social Story Part 1"
+      },
+      "AboutSlide": {
+        "title": "BOLD",
+        "text": "Social Story Part 2"
+      }
+    }
   },
   {
     "id": "ABC-DS",
@@ -23,6 +64,26 @@
       "brain-imaging",
       "blood-draw",
       "survey-interview"
-    ]
+    ],
+    "team": [
+      "Lauren Ptomey",
+      "Keri Cox",
+      "Joseph Sherman",
+      "Brian Helsel",
+      "Jessica Danon"
+    ],
+    "social-story": {
+      "TitleSlide": {
+        "title": "Alzheimer's Biomarkers Consortium - Down Syndrome"
+      },
+      "AboutSlide": {
+        "title": "ABC-DS",
+        "text": "Social Story Part 2"
+      },
+      "TeamSlide": {
+        "title": "Meet our team",
+        "text": "A longitudinal study of Alzheimer's biomarkers led by Dr. Lauren Ptomey, PhD"
+      }
+    }
   }
 ]

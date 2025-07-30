@@ -1,13 +1,17 @@
 import TitleSlide from "../slides/TitleSlide";
-import GradientSlide from "../slides/GradientSlide";
+import PurposeSlide from "../slides/PurposeSlide";
 import TeamSlide from "../slides/TeamSlide";
-
-// import PanoptoPlayer from "../components/PanoptoEmbed.js";
+import InclusionCriteriaSlide from "../slides/InclusionCriteriaSlide";
+import StudyLocationSlide from "../slides/StudyLocationSlide";
 
 function SocialStoryRenderer({ data }) {
   const TitleSlideData = data["social-story"].TitleSlide;
-  const AboutSlideData = data["social-story"].AboutSlide;
+  const PurposeSlideData = data["social-story"].PurposeSlide;
   const TeamSlideData = data["social-story"].TeamSlide;
+  const InclusionCriteriaSlideData =
+    data["social-story"].InclusionCriteriaSlide;
+  const StudyLocationSlideData = data["social-story"].StudyLocationSlide;
+
   return (
     <>
       {TitleSlideData ? (
@@ -17,10 +21,10 @@ function SocialStoryRenderer({ data }) {
           image={data.image}
         />
       ) : null}
-      {AboutSlideData ? (
-        <GradientSlide
-          title={AboutSlideData.title}
-          text={AboutSlideData.text}
+      {PurposeSlideData ? (
+        <PurposeSlide
+          title={PurposeSlideData.title}
+          text={PurposeSlideData.text}
         />
       ) : null}
       {TeamSlideData ? (
@@ -28,6 +32,18 @@ function SocialStoryRenderer({ data }) {
           title={TeamSlideData.title}
           text={TeamSlideData.text}
           team={TeamSlideData.team}
+        />
+      ) : null}
+      {InclusionCriteriaSlideData ? (
+        <InclusionCriteriaSlide
+          title={InclusionCriteriaSlideData.title}
+          criteria={InclusionCriteriaSlideData.criteria}
+        />
+      ) : null}
+      {StudyLocationSlideData ? (
+        <StudyLocationSlide
+          title={StudyLocationSlideData.title}
+          location={StudyLocationSlideData.location}
         />
       ) : null}
     </>

@@ -1,0 +1,10 @@
+.slideStyling h2 {
+  color: white;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  margin: auto;
+  min-height: 200px;
+  font-size: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

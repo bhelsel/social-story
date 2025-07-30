@@ -1,20 +1,6 @@
-function Slide({
-  children,
-  transition = "slide",
-  style = {},
-  background = "",
-  textColor = "",
-  padding = "",
-}) {
-  const slideStyle = {
-    ...style,
-    ...(background && { background }),
-    ...(textColor && { color: textColor }),
-    ...(padding && { padding }),
-  };
-
+function Slide({ children, transition = "slide", className, ...props }) {
   return (
-    <section data-transition={transition} style={slideStyle}>
+    <section data-transition={transition} className={className} {...props}>
       {children}
     </section>
   );

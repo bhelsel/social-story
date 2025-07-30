@@ -14,16 +14,28 @@
     ],
     "social-story": {
       "TitleSlide": {
-        "title": "SPARTANS",
-        "text": "Social Story Part 1"
+        "title": "SPARTANS"
       },
-      "AboutSlide": {
-        "title": "SPARTANS",
-        "text": "Social Story Part 2"
+      "PurposeSlide": {
+        "title": "What is the purpose of this study?",
+        "text": "This study aims to find better ways to measure movement in adults with Down syndrome using wearable devices."
       },
       "TeamSlide": {
         "title": "Meet our team",
         "text": "A physical activity measurement study led by Dr. Brian Helsel, PhD"
+      },
+      "InclusionCriteriaSlide": {
+        "title": "Inclusion Criteria",
+        "criteria": [
+          "Diagnosis of Down syndrome",
+          "Greater than 18 years of age",
+          "Able to walk independently",
+          "Medical clearance to participate in physical activity"
+        ]
+      },
+      "StudyLocationSlide": {
+        "title": "Where is the study located?",
+        "location": "Fairway Clinical Research Center"
       }
     }
   },

@@ -1,0 +1,373 @@
+/* Default (not reveal.js styling */
+
+/* Modal Styles */
+.modalOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(0px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 1rem;
+  opacity: 0;
+  animation: fadeIn 0.3s ease forwards;
+}
+
+.modalContent {
+  background: linear-gradient(135deg, #280a48, #20043d);
+  border: 1px solid rgba(196, 181, 253, 0.3);
+  border-radius: 1rem;
+  max-width: 90vw;
+  max-height: 90vh;
+  width: 100%;
+  max-width: 600px;
+  overflow: hidden;
+  transform: scale(0.9);
+  animation: scaleIn 0.3s ease forwards;
+}
+
+.modalHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem;
+  border-bottom: 1px solid rgba(196, 181, 253, 0.2);
+}
+
+.modalTitle {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: white;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.modalCloseButton {
+  background: none;
+  border: none;
+  color: #c084fc;
+  font-size: 1.5rem;
+  cursor: pointer;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  transition: background-color 0.2s;
+}
+
+.modalCloseButton:hover {
+  background-color: rgba(196, 181, 253, 0.1);
+}
+
+.modalBody {
+  padding: 1.5rem;
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.modalDescription {
+  color: #d8b4fe;
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+.modalMeta {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.modalMetaItem {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.modalProceduresTitle {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 1rem;
+}
+
+.modalProcedureItem {
+  background-color: rgba(255, 255, 255, 0.05);
+  border-radius: 0.75rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid rgba(196, 181, 253, 0.1);
+}
+
+/* Tags - Fixed spacing and wrapping */
+.cardTags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+  margin-top: auto; /* Push to bottom */
+}
+
+.tag {
+  padding: 0.25rem 0.75rem;
+  border-radius: 0.5rem;
+  font-size: 0.75rem;
+  font-weight: 500;
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #d8b4fe;
+  white-space: nowrap;
+}
+
+.modalProcedureHeader {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.75rem;
+}
+
+.modalProcedureIcon {
+  font-size: 1.5rem;
+}
+
+.modalProcedureInfo h4 {
+  font-weight: 600;
+  color: white;
+  margin-bottom: 0.25rem;
+}
+
+.modalProcedureInfo span {
+  font-size: 0.875rem;
+  color: #c084fc;
+}
+
+.modalProcedureDescription {
+  color: #d8b4fe;
+  line-height: 1.5;
+  margin-bottom: 0.5rem;
+}
+
+.modalProcedureDetails {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.modalProcedureDetails li {
+  color: #d8b4fe;
+  font-size: 0.875rem;
+  margin-bottom: 0.25rem;
+  padding-left: 1rem;
+  position: relative;
+}
+
+.modalProcedureDetails li::before {
+  content: "•";
+  color: #c084fc;
+  position: absolute;
+  left: 0;
+}
+
+/* Scrollbar Styling */
+.proceduresList::-webkit-scrollbar,
+.modalBody::-webkit-scrollbar {
+  width: 6px;
+}
+
+.proceduresList::-webkit-scrollbar-track,
+.modalBody::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 3px;
+}
+
+.proceduresList::-webkit-scrollbar-thumb,
+.modalBody::-webkit-scrollbar-thumb {
+  background: rgba(196, 181, 253, 0.5);
+  border-radius: 3px;
+}
+
+.proceduresList::-webkit-scrollbar-thumb:hover,
+.modalBody::-webkit-scrollbar-thumb:hover {
+  background: rgba(196, 181, 253, 0.7);
+}
+
+/* Animations */
+@keyframes fadeIn {
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes scaleIn {
+  to {
+    transform: scale(1);
+  }
+}
+
+/* Reveal.js styling */
+
+/* Reveal.js specific sizing for 736x650 container */
+.modalOverlayReveal {
+  position: absolute; /* Changed from fixed to absolute for reveal.js */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.8);
+  backdrop-filter: blur(0px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 0.5rem;
+  opacity: 0;
+  animation: fadeIn 0.3s ease forwards;
+}
+
+.modalContentReveal {
+  background: linear-gradient(135deg, #280a48, #20043d);
+  border: 1px solid rgba(196, 181, 253, 0.3);
+  border-radius: 0.75rem;
+  width: 100%;
+  max-width: 680px; /* Fit within 736px with padding */
+  max-height: 580px; /* Fit within 650px with padding */
+  overflow: hidden;
+  transform: scale(0.9);
+  animation: scaleIn 0.3s ease forwards;
+  display: flex;
+  flex-direction: column;
+}
+
+.modalOverlayReveal .modalHeader {
+  padding: 1rem 1rem 0.25rem;
+  border-bottom: 1px solid rgba(196, 181, 253, 0.2);
+  flex-shrink: 0;
+}
+
+.modalOverlayReveal .modalTitle {
+  font-size: 2.5rem;
+  font-weight: bold;
+  color: white;
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.modalOverlayReveal .modalCloseButton {
+  background: none;
+  border: none;
+  color: #c084fc;
+  font-size: 2.5rem;
+  cursor: pointer;
+  padding: 0.25rem;
+  border-radius: 0.25rem;
+  transition: background-color 0.2s;
+}
+
+.modalOverlayReveal .modalBody {
+  padding: 1rem;
+  max-height: 480px; /* Leave room for header */
+  overflow-y: auto;
+  flex: 1;
+}
+
+.modalOverlayReveal .modalDescription {
+  color: #d8b4fe;
+  margin-bottom: 1rem;
+  line-height: 1.4;
+  font-size: 1.5rem;
+  text-align: left;
+}
+
+.modalOverlayReveal .modalMeta {
+  display: flex;
+  gap: 5rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+  font-size: 1rem;
+}
+
+.modalOverlayReveal .modalProceduresTitle {
+  font-size: 1rem;
+  font-weight: bold;
+  color: white;
+  margin-bottom: 0.75rem;
+  text-align: left;
+}
+
+.modalOverlayReveal .modalProcedureItem {
+  background-color: rgba(255, 255, 255, 0.05);
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+  margin-bottom: 0.75rem;
+  border: 1px solid rgba(196, 181, 253, 0.1);
+}
+
+.modalOverlayReveal .modalProcedureHeader {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.modalOverlayReveal .modalProcedureIcon {
+  font-size: 2.5rem;
+}
+
+.modalOverlayReveal .modalProcedureInfo {
+  min-width: 550px;
+  margin-top: 1.5rem;
+  text-align: right;
+}
+
+.modalOverlayReveal .modalProcedureInfo h4 {
+  font-weight: 600;
+  color: white;
+  font-size: 1.5rem;
+  margin-bottom: 0px;
+}
+
+.modalOverlayReveal .modalProcedureInfo span {
+  font-size: 1rem;
+  color: #c084fc;
+}
+
+.modalOverlayReveal .modalProcedureDescription {
+  color: #d8b4fe;
+  line-height: 1.4;
+  margin-bottom: 0.5rem;
+  font-size: 1rem;
+  text-align: left;
+}
+
+.modalOverlayReveal .modalProcedureDetails {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  min-width: 600px;
+}
+
+.modalOverlayReveal .modalProcedureDetails li {
+  color: #d8b4fe;
+  font-size: 1rem;
+  margin-bottom: 0.25rem;
+  position: relative;
+}
+
+/* Scrollbar styling for reveal.js */
+.modalOverlayReveal .modalBody::-webkit-scrollbar {
+  width: 4px;
+}
+
+.modalOverlayReveal .modalBody::-webkit-scrollbar-track {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 2px;
+}
+
+.modalOverlayReveal .modalBody::-webkit-scrollbar-thumb {
+  background: rgba(196, 181, 253, 0.5);
+  border-radius: 2px;
+}

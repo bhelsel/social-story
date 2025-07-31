@@ -1,3 +1,5 @@
-[class*="slide-background"] {
+[class*="slide-background"],
+[class*="slide"],
+[class*="background"] {
   background: linear-gradient(135deg, #280a48 0%, #20043d 100%) !important;
 }

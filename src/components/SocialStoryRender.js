@@ -3,6 +3,7 @@ import PurposeSlide from "../slides/PurposeSlide";
 import TeamSlide from "../slides/TeamSlide";
 import InclusionCriteriaSlide from "../slides/InclusionCriteriaSlide";
 import StudyLocationSlide from "../slides/StudyLocationSlide";
+import AssessmentSlides from "../slides/AssessmentSlide";
 
 function SocialStoryRenderer({ data }) {
   const TitleSlideData = data["social-story"].TitleSlide;
@@ -11,6 +12,7 @@ function SocialStoryRenderer({ data }) {
   const InclusionCriteriaSlideData =
     data["social-story"].InclusionCriteriaSlide;
   const StudyLocationSlideData = data["social-story"].StudyLocationSlide;
+  const assessments = data.assessments;
 
   return (
     <>
@@ -46,6 +48,7 @@ function SocialStoryRenderer({ data }) {
           location={StudyLocationSlideData.location}
         />
       ) : null}
+      <AssessmentSlides study={data} studyAssessments={assessments} />
     </>
   );
 }

@@ -6,9 +6,15 @@
     "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3099.427938241084!2d-94.63901412405691!3d39.0283612716965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c0effe462a5831%3A0x5adb7eea72f81eb2!2sFairway%20North%2C%20The%20University%20of%20Kansas%20Health%20System%20Neuropsychology!5e0!3m2!1sen!2sus!4v1753895687910!5m2!1sen!2sus"
   },
   {
-    "location": "Fairway Clinical Research Center",
+    "location": "Clinical Research Center",
     "address": "4350 Shawnee Mission Parkway, Fairway, KS 66205",
     "image": "https://www.kucancercenter.org/-/media/cancer-center-website/hero/clinicalresearchcenter_1_hero.jpeg?la=en&h=350&w=464&hash=C2409CDC0B4F16E1AA0042336DFA850F",
     "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1287.4615742186122!2d-94.63803986334304!3d39.028172556303815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c0ee7bc36535ff%3A0xd88902fc8848c591!2sThe%20University%20of%20Kansas%20Clinical%20Research%20Center!5e0!3m2!1sen!2sus!4v1753898359010!5m2!1sen!2sus"
+  },
+  {
+    "location": "Kirmayer Fitness Center",
+    "address": "2141 Olathe Blvd, Kansas City, KS 66103",
+    "image": "https://www.kansashealthsystem.com/-/media/project/website/locations-hero-images/location_kirmayerweightmanagement_minorc.jpg",
+    "link": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1576.2327359029066!2d-94.6122672977747!3d39.053907958166185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c0ef00763a1b4d%3A0xe137c38daaf2fb5f!2sKirmayer%20Fitness%20Center!5e0!3m2!1sen!2sus!4v1753923981204!5m2!1sen!2sus"
   }
 ]

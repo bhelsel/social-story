@@ -45,11 +45,8 @@ function AssessmentSlides({ studyAssessments }) {
 
   return (
     <>
-      <Slide>
-        <h2>Assessments</h2>
-      </Slide>
       {customStudyAssessments.map((test) => (
-        <Slide>
+        <Slide key={test.title}>
           <div className={classes.cardContainer}>
             <div className={classes.cardHeader}>
               <div className={classes.cardIcon}>{test.icon}</div>
@@ -65,8 +62,8 @@ function AssessmentSlides({ studyAssessments }) {
               ) : null}
               <div className={classes.proceduresContainer}>
                 <ul className={classes.procedureList}>
-                  {test.procedures.map((procedure, index) => (
-                    <li key={index}>
+                  {test.procedures.map((procedure) => (
+                    <li key={procedure.title}>
                       <div className={classes.procedureHeader}>
                         <div>{procedure.icon}</div>
                         <p>{procedure.title}</p>

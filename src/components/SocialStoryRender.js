@@ -1,3 +1,4 @@
+import Slide from "./Slide";
 import TitleSlide from "../slides/TitleSlide";
 import PurposeSlide from "../slides/PurposeSlide";
 import TeamSlide from "../slides/TeamSlide";
@@ -48,6 +49,9 @@ function SocialStoryRenderer({ data }) {
           location={StudyLocationSlideData.location}
         />
       ) : null}
+      <Slide>
+        <h2>Assessments</h2>
+      </Slide>
       <AssessmentSlides study={data} studyAssessments={assessments} />
     </>
   );

@@ -1,3 +1,4 @@
+import { useState } from "react";
 import Slide from "./Slide";
 import TitleSlide from "../slides/TitleSlide";
 import PurposeSlide from "../slides/PurposeSlide";
@@ -5,6 +6,7 @@ import TeamSlide from "../slides/TeamSlide";
 import InclusionCriteriaSlide from "../slides/InclusionCriteriaSlide";
 import StudyLocationSlide from "../slides/StudyLocationSlide";
 import AssessmentSlides from "../slides/AssessmentSlide";
+import assessments from "../data/assessments.json";
 
 function SocialStoryRenderer({ data }) {
   const TitleSlideData = data["social-story"].TitleSlide;
@@ -13,7 +15,19 @@ function SocialStoryRenderer({ data }) {
   const InclusionCriteriaSlideData =
     data["social-story"].InclusionCriteriaSlide;
   const StudyLocationSlideData = data["social-story"].StudyLocationSlide;
-  const assessments = data.assessments;
+  const studyAssessments = data.assessments;
+
+  // const [customStudyAssessments, setCustomStudyAssessments] = useState([]);
+
+  // useEffect(() => {
+  //   setCustomStudyAssessments(
+  //     assessments.filter((x) => studyAssessments.includes(x.id))
+  //   );
+  // }, [studyAssessments]);
+
+  const [customStudyAssessments] = useState(() =>
+    assessments.filter((x) => studyAssessments.includes(x.id))
+  );
 
   return (
     <>
@@ -52,7 +66,13 @@ function SocialStoryRenderer({ data }) {
       <Slide>
         <h2>Assessments</h2>
       </Slide>
-      <AssessmentSlides study={data} studyAssessments={assessments} />
+      {customStudyAssessments
+        ? customStudyAssessments.map((assessment) => (
+            <Slide key={assessment.id}>
+              <AssessmentSlides study={data} assessment={assessment} />
+            </Slide>
+          ))
+        : null}
     </>
   );
 }

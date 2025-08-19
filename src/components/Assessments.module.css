@@ -25,7 +25,7 @@
   color: transparent;
 }
 
-@media (min-width: 768px) {
+@media (max-width: 767px) {
   .pageTitle {
     font-size: 2.5rem;
   }
@@ -54,10 +54,13 @@
   }
 }
 
-/* Card Container - Increased height to prevent cutoff */
+/* Card Container - Better mobile handling */
 .cardContainer {
   perspective: 1000px;
-  height: 400px; /* Increased from 320px */
+  height: 400px;
+  /* Ensure proper stacking context */
+  position: relative;
+  z-index: 1;
 }
 
 .cardFlipper {
@@ -67,31 +70,53 @@
   transition: transform 0.7s;
   transform-style: preserve-3d;
   cursor: pointer;
+  /* Better mobile support */
+  -webkit-transform-style: preserve-3d;
 }
 
 .cardFlipper.flipped {
   transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
 }
 
-/* Card Faces */
+/* Card Faces - Fixed positioning and z-index */
 .cardFace {
   position: absolute;
-  inset: 0;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
   width: 100%;
   height: 100%;
   backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
   border-radius: 1rem;
   border: 1px solid rgba(196, 181, 253, 0.2);
   overflow: hidden;
   transition: border-color 0.3s ease;
+  /* Explicit z-index for better layering */
+  z-index: 2;
 }
 
 .cardFace:hover {
   border-color: rgba(196, 181, 253, 0.4);
 }
 
+/* Back face specific styling */
 .cardBack {
   transform: rotateY(180deg);
+  -webkit-transform: rotateY(180deg);
+  /* Ensure back is behind front when not flipped */
+  z-index: 1;
+}
+
+/* When flipped, back should be on top */
+.cardFlipper.flipped .cardBack {
+  z-index: 3;
+}
+
+.cardFlipper.flipped .cardFace:not(.cardBack) {
+  z-index: 1;
 }
 
 /* Card Content */
@@ -102,12 +127,43 @@
   backdrop-filter: blur(0px);
   display: flex;
   flex-direction: column;
+  /* Prevent text from showing through */
+  background: rgba(0, 0, 0, 0.1);
+  z-index: 10;
+}
+
+/* Mobile specific adjustments */
+@media (max-width: 767px) {
+  .cardContent {
+    padding: 1.5rem;
+  }
+
+  .cardContainer {
+    height: 350px;
+  }
+
+  /* Force hardware acceleration on mobile */
+  .cardFlipper {
+    transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+  }
+
+  .cardFace {
+    transform: translateZ(0);
+    -webkit-transform: translateZ(0);
+  }
+
+  .cardBack {
+    transform: rotateY(180deg) translateZ(0);
+    -webkit-transform: rotateY(180deg) translateZ(0);
+  }
 }
 
 .cardOverlay {
   position: absolute;
   inset: 0;
   background: linear-gradient(135deg, rgba(255, 255, 255, 0.05), transparent);
+  z-index: 1;
 }
 
 .cardInner {
@@ -128,6 +184,12 @@
 
 .cardIcon {
   font-size: 3rem;
+}
+
+@media (max-width: 767px) {
+  .cardIcon {
+    font-size: 2.5rem;
+  }
 }
 
 .difficultyBadge {
@@ -156,6 +218,12 @@
   font-weight: bold;
   margin-bottom: 0.75rem;
   color: white;
+}
+
+@media (max-width: 767px) {
+  .cardTitle {
+    font-size: 1.1rem;
+  }
 }
 
 /* Duration Info */
@@ -190,7 +258,7 @@
   flex-wrap: wrap;
   gap: 0.5rem;
   margin-bottom: 1rem;
-  margin-top: auto; /* Push to bottom */
+  margin-top: auto;
 }
 
 .tag {
@@ -202,6 +270,13 @@
   color: #d8b4fe;
   backdrop-filter: blur(0px);
   white-space: nowrap;
+}
+
+@media (max-width: 767px) {
+  .tag {
+    font-size: 0.7rem;
+    padding: 0.2rem 0.6rem;
+  }
 }
 
 /* Bottom Section */
@@ -231,6 +306,13 @@
   background: rgba(124, 58, 237, 0.3);
   border-color: rgba(124, 58, 237, 0.6);
   transform: translateY(-2px);
+}
+
+@media (max-width: 767px) {
+  .expandButton {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.8rem;
+  }
 }
 
 /* Flip Indicator - Improved with arrow */
@@ -283,11 +365,13 @@
   }
 }
 
-/* Back Card Content */
+/* Back Card Content - Better isolation */
 .cardBackContent {
   height: 100%;
   display: flex;
   flex-direction: column;
+  position: relative;
+  z-index: 15;
 }
 
 .backHeader {
@@ -301,6 +385,12 @@
   font-size: 1.125rem;
   font-weight: bold;
   color: white;
+}
+
+@media (max-width: 767px) {
+  .backTitle {
+    font-size: 1rem;
+  }
 }
 
 .detailsButton {
@@ -318,14 +408,33 @@
   background-color: #6d28d9;
 }
 
+@media (max-width: 767px) {
+  .detailsButton {
+    padding: 0.2rem 0.6rem;
+    font-size: 0.8rem;
+  }
+}
+
 /* Description on the Back of Card */
 .cardDescriptionBack {
   color: #d8b4fe;
   flex: 1;
   overflow-y: auto;
   gap: 0.75rem;
-  padding-right: 10px;
+  padding: 1rem;
   text-align: center;
+  background: rgba(0, 0, 0, 0.15);
+  border-radius: 0.5rem;
+  margin: 0.5rem 0;
+  /* Add a subtle border for better definition */
+  border: 1px solid rgba(196, 181, 253, 0.1);
+}
+
+@media (max-width: 767px) {
+  .cardDescriptionBack {
+    font-size: 0.9rem;
+    padding: 0.8rem;
+  }
 }
 
 /* Back Instruction */
@@ -355,23 +464,27 @@
 
 /* Scrollbar Styling */
 .proceduresList::-webkit-scrollbar,
-.modalBody::-webkit-scrollbar {
+.modalBody::-webkit-scrollbar,
+.cardDescriptionBack::-webkit-scrollbar {
   width: 6px;
 }
 
 .proceduresList::-webkit-scrollbar-track,
-.modalBody::-webkit-scrollbar-track {
+.modalBody::-webkit-scrollbar-track,
+.cardDescriptionBack::-webkit-scrollbar-track {
   background: rgba(255, 255, 255, 0.1);
   border-radius: 3px;
 }
 
 .proceduresList::-webkit-scrollbar-thumb,
-.modalBody::-webkit-scrollbar-thumb {
+.modalBody::-webkit-scrollbar-thumb,
+.cardDescriptionBack::-webkit-scrollbar-thumb {
   background: rgba(196, 181, 253, 0.5);
   border-radius: 3px;
 }
 
 .proceduresList::-webkit-scrollbar-thumb:hover,
-.modalBody::-webkit-scrollbar-thumb:hover {
+.modalBody::-webkit-scrollbar-thumb:hover,
+.cardDescriptionBack::-webkit-scrollbar-thumb:hover {
   background: rgba(196, 181, 253, 0.7);
 }

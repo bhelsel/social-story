@@ -152,21 +152,10 @@
 
 /* Card Text */
 .cardTitle {
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: bold;
   margin-bottom: 0.75rem;
   color: white;
-}
-
-.cardDescription {
-  color: #d8b4fe;
-  margin-bottom: 1.5rem;
-  display: -webkit-box;
-  -webkit-line-clamp: 3;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  line-height: 1.5;
-  flex: 1; /* Allow it to grow */
 }
 
 /* Duration Info */
@@ -329,53 +318,14 @@
   background-color: #6d28d9;
 }
 
-/* Procedures List */
-.proceduresList {
+/* Description on the Back of Card */
+.cardDescriptionBack {
+  color: #d8b4fe;
   flex: 1;
   overflow-y: auto;
-  display: flex;
-  flex-direction: column;
   gap: 0.75rem;
-}
-
-.procedureItem {
-  background-color: rgba(255, 255, 255, 0.1);
-  border-radius: 0.5rem;
-  padding: 0.75rem;
-  backdrop-filter: blur(0px);
-}
-
-.procedureHeader {
-  display: flex;
-  align-items: center;
-  gap: 0.75rem;
-  margin-bottom: 0.5rem;
-}
-
-.procedureIcon {
-  font-size: 1.25rem;
-}
-
-.procedureInfo {
-  flex: 1;
-}
-
-.procedureTitle {
-  font-weight: 500;
-  color: white;
-  font-size: 0.875rem;
-  margin-bottom: 0.25rem;
-}
-
-.procedureDuration {
-  font-size: 0.75rem;
-  color: #d8b4fe;
-}
-
-.procedureDescription {
-  font-size: 0.75rem;
-  color: #d8b4fe;
-  line-height: 1.4;
+  padding-right: 10px;
+  text-align: center;
 }
 
 /* Back Instruction */

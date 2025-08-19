@@ -101,10 +101,6 @@ function AssessmentPage() {
                       </div>
 
                       <h3 className={classes.cardTitle}>{study.title}</h3>
-                      <p className={classes.cardDescription}>
-                        {study.description}
-                      </p>
-
                       <div className={classes.cardMeta}>
                         <div className={classes.durationInfo}>
                           <div className={classes.durationDot}></div>
@@ -165,32 +161,8 @@ function AssessmentPage() {
                       {study.video ? (
                         <YouTubeEmbed videoId={study.video} />
                       ) : (
-                        <div className={classes.proceduresList}>
-                          {study.procedures
-                            .slice(0, 4)
-                            .map((procedure, index) => (
-                              <div
-                                key={index}
-                                className={classes.procedureItem}
-                              >
-                                <div className={classes.procedureHeader}>
-                                  <span className={classes.procedureIcon}>
-                                    {procedure.icon}
-                                  </span>
-                                  <div className={classes.procedureInfo}>
-                                    <h5 className={classes.procedureTitle}>
-                                      {procedure.title}
-                                    </h5>
-                                    <span className={classes.procedureDuration}>
-                                      {procedure.duration}
-                                    </span>
-                                  </div>
-                                </div>
-                                <p className={classes.procedureDescription}>
-                                  {procedure.description}
-                                </p>
-                              </div>
-                            ))}
+                        <div className={classes.cardDescriptionBack}>
+                          {study.description}
                         </div>
                       )}
 

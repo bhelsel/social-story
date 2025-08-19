@@ -1,248 +1,464 @@
 [
   {
-    "id": "cognitive-testing",
-    "title": "Cognitive Testing",
-    "description": "Computer-based tasks to assess thinking and memory",
-    "icon": "🧠",
-    "duration": "45-60 minutes",
-    "difficulty": "Moderate",
-    "tags": ["Computer", "Memory", "Thinking"],
+    "id": "height-weight",
+    "title": "Height and Weight",
+    "summary": "Measuring your height and weight",
+    "description": "We will take two simple measurements to learn about your body. First, we check how tall you are. Then, we check how much you weigh. These steps are quick, safe, and will only take a few minutes. We use your height and weight together to figure out something called Body Mass Index (BMI), which helps us understand your overall health.",
+    "icon": "⚖️",
+    "duration": "5-10 minutes",
+    "difficulty": "Easy",
+    "tags": ["Height", "Weight", "Body", "BMI"],
     "video": "",
-    "image": "https://ca-times.brightspotcdn.com/dims4/default/f1dacc0/2147483647/strip/false/crop/3200x2032+0+0/resize/1486x944!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F41%2F65%2F33544635465085cb14782c46b2d7%2Fhealthbeat-alzheimers-implant.JPEG",
+    "image": "https://www.indosurgicals.com/images/products/height-scale-with-model.jpg",
     "procedures": [
       {
-        "title": "Welcome & Setup",
-        "icon": "👋",
-        "description": "We'll greet you and get you settled in a comfortable chair at a computer",
+        "title": "Height",
+        "icon": "📏",
+        "description": "We will see how tall you are using a special measuring stick.",
         "details": [
-          "You'll sit in a quiet, well-lit room",
-          "The computer screen will be at eye level",
-          "We'll adjust the chair height for comfort"
+          "You will stand up straight without shoes",
+          "A bar will gently rest on top of your head",
+          "We may measure twice to be sure"
         ],
-        "duration": "5 minutes"
+        "duration": "3 minutes"
       },
       {
-        "title": "Instructions",
-        "icon": "📋",
-        "description": "We'll explain each task before you start, and you can practice first",
+        "title": "Weight",
+        "icon": "⚖️",
+        "description": "We will check how much you weigh using a scale.",
         "details": [
-          "Clear, simple instructions for each activity",
-          "Practice rounds so you feel confident",
-          "No time pressure during explanations"
+          "You will stand on the scale with both feet",
+          "The numbers may change while we write them down",
+          "We may check more than once to be accurate"
         ],
-        "duration": "10 minutes"
+        "duration": "3 minutes"
+      }
+    ]
+  },
+  {
+    "id": "cosmed-resting-energy",
+    "title": "Resting Energy Expenditure",
+    "summary": "Measuring the energy your body needs at rest",
+    "description": "We want to learn how your body uses energy when you are resting. This is called Resting Energy Expenditure (REE). Knowing your REE helps us understand how many calories your body burns when you are not moving. People with Down syndrome may use a little less energy at rest compared to other adults. We measure this using a clear hood that goes over your head while you relax quietly. The test takes about 20 minutes and is safe and comfortable.",
+    "icon": "💤",
+    "duration": "35-40 minutes (including rest time)",
+    "difficulty": "Easy",
+    "tags": ["Energy", "Metabolism", "Rest"],
+    "video": "",
+    "image": "https://live.staticflickr.com/3676/12585871325_b38772ac31_b.jpg",
+    "procedures": [
+      {
+        "title": "Rest Before the Test",
+        "icon": "🛌",
+        "description": "Before we measure, you will rest quietly in a comfortable bed.",
+        "details": [
+          "The room will be quiet and calm",
+          "The temperature will be comfortable (not too hot or cold)",
+          "You will sit and relax for about 15–20 minutes"
+        ],
+        "duration": "15-20 minutes"
       },
       {
-        "title": "Memory Tasks",
-        "icon": "🔤",
-        "description": "You'll see words, numbers, or pictures and try to remember them",
+        "title": "Breathing Under a Clear Hood",
+        "icon": "😮‍💨",
+        "description": "We will gently place a clear hood over your head to measure your breathing.",
         "details": [
-          "Items appear on screen one at a time",
-          "Some tasks ask you to remember order",
-          "Others ask you to recognize what you've seen before"
+          "The hood feels like a light cover but you can see through it",
+          "You will breathe normally while sitting still",
+          "We measure how much oxygen your body uses when resting"
         ],
-        "duration": "15 minutes"
+        "duration": "20 minutes"
       },
       {
-        "title": "Attention Tasks",
-        "icon": "🎯",
-        "description": "Simple activities that test your focus and concentration",
-        "details": [
-          "You might press keys when you see certain shapes",
-          "Or follow moving objects on screen",
-          "Tasks are like simple computer games"
-        ],
-        "duration": "15 minutes"
-      },
-      {
-        "title": "Wrap Up",
+        "title": "Finishing Up",
         "icon": "✅",
-        "description": "We'll thank you and answer any questions you have",
+        "description": "When the test is done, we will take off the hood and let you know your results later.",
         "details": [
-          "Brief discussion about how it went",
-          "Information about next steps (if any)",
-          "Contact information for follow-up questions"
+          "The test is complete when your breathing looks steady",
+          "It usually takes about 20 minutes of quiet sitting",
+          "Your results help us understand your body’s energy use"
         ],
         "duration": "5 minutes"
       }
     ]
   },
   {
-    "id": "brain-imaging",
-    "title": "Brain Imaging (MRI)",
-    "description": "Safe, non-invasive brain scan to see brain structure and activity",
-    "icon": "🧲",
-    "duration": "60-90 minutes",
+    "id": "cosmed-activity-energy",
+    "title": "Activity Energy Expenditure",
+    "summary": "Measurement of the energy your body needs during activity while monitoring movement with portable accelerometers",
+    "description": "We want to learn how your body uses energy when you move around. This is called Activity Energy Expenditure (AEE). To measure this, you will wear a comfortable mask that measures your breathing while you do simple everyday activities. You may wear the mask for 6–8 minutes at a time, and you can take it off between activities if you need to. We will also check your heart rate and use small devices called accelerometers to measure your movement. The whole test takes about 1.5–2 hours.",
+    "icon": "🏃‍♂️",
+    "duration": "1.5–2 hours",
     "difficulty": "Moderate",
-    "tags": ["MRI", "Brain Scan", "Lying Still"],
-    "video": "vI09g5zoeXQ?si=BBF2vm-KHNoCYRfY",
+    "tags": ["Energy", "Movement", "Heart Rate"],
+    "video": "",
+    "image": "https://www.cosmed.com/templates/yootheme/cache/2a/k5_insight-2af29bdf.webp",
     "procedures": [
       {
-        "title": "Preparation",
-        "icon": "👕",
-        "description": "You'll change into comfortable clothes without metal",
+        "title": "Wearing the Breathing Mask",
+        "icon": "🎭",
+        "description": "You will wear a soft mask over your nose and mouth so we can measure your breathing.",
         "details": [
-          "Hospital gown or metal-free clothing provided",
-          "Remove jewelry, watches, and metal objects",
-          "Secure storage provided for your belongings"
+          "The mask feels like light exercise equipment",
+          "You will wear it for 6–8 minutes during each activity",
+          "You can remove it between activities if you need a break"
         ],
-        "duration": "15 minutes"
+        "duration": "6–8 minutes per activity"
       },
       {
-        "title": "Safety Check",
-        "icon": "🛡️",
-        "description": "We'll review safety questions and explain the MRI process",
+        "title": "Doing Everyday Activities",
+        "icon": "🪑🏃‍♂️",
+        "description": "You will do simple activities like sitting, walking, or other everyday movements.",
         "details": [
-          "Questions about medical implants or metal in body",
-          "Explanation of loud noises you'll hear",
-          "Emergency button you can press anytime"
+          "We will video record the activities to match movement with breathing",
+          "Each activity lasts about 6–8 minutes",
+          "The test feels like practicing regular daily tasks"
         ],
-        "duration": "10 minutes"
+        "duration": "60–90 minutes"
       },
       {
-        "title": "Getting Positioned",
-        "icon": "🛏️",
-        "description": "You'll lie on a comfortable table that slides into the MRI machine",
+        "title": "Heart Rate Strap",
+        "icon": "❤️",
+        "description": "We will measure your heart rate with a strap under your shirt.",
         "details": [
-          "Padded table with pillow and blanket",
-          "Head coil positioned around your head",
-          "Earplugs and headphones for noise protection"
+          "The strap fits around your chest like a belt",
+          "It is worn under your shirt, just below your chest",
+          "You won’t feel anything while it measures your heartbeat"
         ],
-        "duration": "10 minutes"
+        "duration": "Worn during activities"
       },
       {
-        "title": "The Scan",
-        "icon": "📸",
-        "description": "You'll need to stay still while the machine takes pictures of your brain",
+        "title": "Wearing Accelerometers",
+        "icon": "⌚",
+        "description": "Small devices will measure how much you move.",
         "details": [
-          "Loud knocking and buzzing sounds are normal",
-          "Each scan sequence lasts 2-10 minutes",
-          "We can talk to you between sequences"
+          "One will be worn on your hip",
+          "Two more will be worn like watches on your wrists",
+          "They are light and comfortable"
         ],
-        "duration": "45-60 minutes"
+        "duration": "Worn during activities"
+      }
+    ]
+  },
+  {
+    "id": "cognitive-movement",
+    "title": "Cognitive Testing",
+    "description": "We will ask you to answer questions and complete short activities that help us learn about your memory, language, movement, and thinking skills. You will work one-on-one with a study team member for about 2–3 hours. Some people may do fewer activities if they get tired or if it becomes difficult. These activities are safe, and you can take breaks when needed.",
+    "summary": "Answer questions and do short activities about memory, language, movement, and thinking with a team member.",
+    "icon": "🧠",
+    "duration": "2–3 hours",
+    "difficulty": "Moderate",
+    "tags": ["Memory", "Language", "Movement", "Thinking"],
+    "video": "",
+    "image": "https://media.istockphoto.com/id/1031459530/vector/concept-of-human-brain-under-examination.jpg?s=612x612&w=0&k=20&c=fuB1iALsVVkOM_XgRzP5WU2Nct9ahqT3YnAmx1gbVb8=",
+    "procedures": [
+      {
+        "title": "Memory & Attention",
+        "icon": "📝",
+        "description": "Activities that help us learn how well you remember things and stay focused.",
+        "details": [
+          "You may be asked to remember words, pictures, or personal information",
+          "You might practice paying attention to certain items and ignoring others",
+          "Some tasks are like games where you match or recall items"
+        ],
+        "duration": "30–45 minutes"
       },
       {
-        "title": "Finishing Up",
-        "icon": "🏁",
-        "description": "The table slides out and you can get up and get dressed",
+        "title": "Language Skills",
+        "icon": "💬",
+        "description": "Activities that check how you understand and use words.",
         "details": [
-          "No side effects from the scan",
-          "You can resume normal activities immediately",
-          "Results will be shared with your doctor"
+          "You may be asked to name pictures or objects",
+          "You might think of as many words as you can in a certain category",
+          "You may answer questions about language or repeat phrases"
         ],
-        "duration": "10 minutes"
+        "duration": "20–30 minutes"
+      },
+      {
+        "title": "Movement & Coordination",
+        "icon": "🤲",
+        "description": "Simple tasks to see how you use your hands and body.",
+        "details": [
+          "You may copy hand movements or place small pegs into holes",
+          "You may walk a short distance while we watch your steps",
+          "You may copy drawings or build shapes with blocks"
+        ],
+        "duration": "30–40 minutes"
+      },
+      {
+        "title": "Problem Solving & Thinking",
+        "icon": "🎯",
+        "description": "Activities that test how you solve problems and think through challenges.",
+        "details": [
+          "You may be asked to recreate block patterns",
+          "You may circle pictures on a page with both targets and distractors",
+          "Some activities measure how quickly and carefully you solve puzzles"
+        ],
+        "duration": "30–40 minutes"
+      }
+    ]
+  },
+  {
+    "id": "study-partner-questionnaires",
+    "title": "Study Partner Questions",
+    "description": "We will ask your study partner questions about your health, behavior, and daily life. This helps us understand more about how you are doing. Sometimes we may also look at your medical records or ask other people who know you, like caregivers or staff. The questions take about 2 hours, but your study partner will answer most of them.",
+    "summary": "Your study partner will answer questions about your health, behavior, and daily life. It takes about 2 hours.",
+    "icon": "👥",
+    "duration": "1.5–2 hours",
+    "difficulty": "Easy",
+    "tags": ["Questionnaires", "Study Partner", "Behavior", "Health"],
+    "video": "",
+    "image": "https://images.squarespace-cdn.com/content/v1/61e18815a317b426f88a7a37/ef88ef79-b8f5-43b1-85a5-01d67c6f586a/A-Caregivers-Guide-To-DownSyndrome.jpeg",
+    "procedures": [
+      {
+        "title": "Health & Daily Life",
+        "icon": "🏡",
+        "description": "Your partner will answer questions about your medical history and daily activities.",
+        "details": [
+          "Questions about health, medical events, and life changes",
+          "Questions about daily skills like communication and living activities",
+          "Some questions may be answered on paper or a tablet"
+        ],
+        "duration": "30–40 minutes"
+      },
+      {
+        "title": "Memory & Thinking",
+        "icon": "🧠",
+        "description": "Your partner will be asked about your memory and thinking skills.",
+        "details": [
+          "Short-term and long-term memory",
+          "Attention and orientation (time, place, personal info)",
+          "Any changes noticed over time"
+        ],
+        "duration": "20–30 minutes"
+      },
+      {
+        "title": "Feelings & Behavior",
+        "icon": "🙂",
+        "description": "Your partner will be asked about your mood, feelings, and behaviors.",
+        "details": [
+          "Questions about sadness, anxiety, or happiness",
+          "Questions about sleep, eating, or changes in interest",
+          "Questions about challenging behaviors like aggression or withdrawal"
+        ],
+        "duration": "30–40 minutes"
+      },
+      {
+        "title": "Stress & Mental Health",
+        "icon": "💬",
+        "description": "Your partner will answer questions about stress and mental health concerns.",
+        "details": [
+          "Events that may have caused stress in the past year",
+          "Screening for concerns like depression, paranoia, or anxiety",
+          "Helps us understand your overall well-being"
+        ],
+        "duration": "20–30 minutes"
+      }
+    ]
+  },
+  {
+    "id": "medical-history-exam",
+    "title": "Medical History, Physical and Neurological Exam",
+    "description": "We will get information about your past medical history, including medications you may be taking. A trained clinician will complete a physical and neurological exam, much like the exam you might have during a regular trip to your doctor’s office. This exam will also include screening for conditions that might make you ineligible for certain procedures like MRIs or PET scans. We will also measure your height and weight as part of this assessment.",
+    "summary": "We will collect your medical history, medications, and complete a physical and neurological exam.",
+    "icon": "🩺",
+    "duration": "30–60 minutes",
+    "difficulty": "Easy",
+    "tags": [
+      "Medical History",
+      "Physical Exam",
+      "Neurology",
+      "Height",
+      "Weight"
+    ],
+    "video": "",
+    "image": "https://denverhealthfoundation.org/wp-content/uploads/2021/02/044-1-1050x701.jpg",
+    "procedures": [
+      {
+        "title": "Medical History",
+        "icon": "📋",
+        "description": "We will ask about your past health, medications, and any relevant medical events.",
+        "details": [
+          "Questions about medications you take regularly",
+          "Information from your medical chart or records if available",
+          "Updates may also be provided by your study partner"
+        ],
+        "duration": "15–20 minutes"
+      },
+      {
+        "title": "Physical Examination",
+        "icon": "🩺",
+        "description": "A trained clinician will check your body and overall health.",
+        "details": [
+          "Exam similar to a routine doctor visit",
+          "Checks overall physical health and screens for conditions that might affect participation in some tests",
+          "Includes basic neurological checks"
+        ],
+        "duration": "10–15 minutes"
+      },
+      {
+        "title": "Height & Weight",
+        "icon": "📏⚖️",
+        "description": "We will measure your height and weight to help understand your body and calculate BMI.",
+        "details": [
+          "You will stand up straight without shoes for height measurement",
+          "You will step on a scale to measure weight",
+          "Measurements may be repeated for accuracy"
+        ],
+        "duration": "5–10 minutes"
       }
     ]
   },
   {
     "id": "blood-draw",
-    "title": "Blood Sample Collection",
-    "description": "Quick and simple blood draw for research analysis",
+    "title": "Blood Draw",
+    "description": "A trained person will take a small amount of blood from your arm, just like at a doctor’s office. This might be done with a needle or through a small tube (IV) if you are also having a PET scan. The blood will be used to learn about your genes and proteins that might affect risk for Alzheimer’s disease. Some samples will be stored for future research to help scientists develop new tests and treatments. The amount of blood is small and safe.",
+    "summary": "A trained person will take a small blood sample to study genes and proteins. Some samples will be stored for future research.",
     "icon": "🩸",
-    "duration": "15-20 minutes",
+    "duration": "15 minutes",
     "difficulty": "Easy",
-    "tags": ["Blood Test", "Quick", "Lab Work"],
-    "video": "UMoSnfFzAHw?si=kr4JUAnOkXkGGo35",
+    "tags": ["Blood", "Genetics", "Research", "Alzheimer's Disease"],
+    "video": "",
+    "image": "https://adscresources.advocatehealth.com/assets/1/6/MainFCKEditorDimension/blood_draw.jpg",
     "procedures": [
       {
-        "title": "Check-in",
-        "icon": "📝",
-        "description": "We'll verify your information and have you sit in a comfortable chair",
+        "title": "Preparing for the Blood Draw",
+        "icon": "🧴",
+        "description": "A trained person will prepare your arm for the blood draw.",
         "details": [
-          "Confirm your identity and study participation",
-          "Review any medications you're taking",
-          "Comfortable chair with arm support"
+          "Your arm will be cleaned before the needle or IV is inserted",
+          "You will sit or lie comfortably during the procedure",
+          "You can take deep breaths to stay relaxed"
         ],
-        "duration": "5 minutes"
+        "duration": "2–3 minutes"
       },
       {
-        "title": "Preparation",
-        "icon": "🧼",
-        "description": "The phlebotomist will clean the area and prepare the equipment",
+        "title": "Collecting the Blood",
+        "icon": "🩸",
+        "description": "A small amount of blood will be collected safely.",
         "details": [
-          "Alcohol wipe to clean your arm",
-          "Sterile needle and collection tubes",
-          "Tourniquet to make veins more visible"
+          "The blood may be taken through a needle or IV if you are having a PET scan",
+          "The total amount is small (up to 4 tablespoons or 53 ml)",
+          "This is safe and will not affect your health"
         ],
-        "duration": "3 minutes"
+        "duration": "5–10 minutes"
       },
       {
-        "title": "Blood Draw",
-        "icon": "💉",
-        "description": "Quick needle stick to collect the blood sample",
+        "title": "Research and Future Use",
+        "icon": "🔬",
+        "description": "Your blood will be used to study genes, proteins, and other factors, and some will be stored for future research.",
         "details": [
-          "Brief pinch when needle goes in",
-          "You might feel slight pressure",
-          "Usually takes less than 2 minutes"
+          "Some blood may confirm Down syndrome if past tests are unavailable",
+          "Samples help scientists understand Alzheimer’s disease and other conditions",
+          "All samples are coded to protect your privacy",
+          "Stored samples may be shared with researchers but never include information that can identify you"
         ],
-        "duration": "2 minutes"
+        "duration": "3–5 minutes"
+      }
+    ]
+  },
+  {
+    "id": "mri-scan",
+    "title": "MRI Scan",
+    "description": "An MRI scan is used to take pictures of your brain. It uses a strong magnet and radio waves and does not involve radiation, blood samples, or injections. You will be asked to remove all jewelry and metal objects before the scan. You will lie on a narrow table with ear plugs or headphones and slide into the MRI machine. During the scan, you need to stay very still and will hear loud noises. Study staff can see and talk to you throughout the scan, and you can ask them to stop at any time. The scan takes about 60 minutes. If the MRI shows something important for your health, your doctor will be informed with your permission.",
+    "summary": "Lie still in an MRI to take pictures of your brain. It is safe, has no radiation, and staff can communicate with you. The scan takes about 60 minutes.",
+    "icon": "🧲",
+    "duration": "60 minutes",
+    "difficulty": "Moderate",
+    "tags": ["MRI", "Brain", "Imaging", "Research"],
+    "video": "bOXEgTESc38?si=Z3TpG5cjauSGwnfs",
+    "image": "https://www.kumc.edu/images/hoglund/3T-Siemens-Skyra-MRI.jpg",
+    "procedures": [
+      {
+        "title": "Preparing for the MRI",
+        "icon": "🔑",
+        "description": "You will need to remove all jewelry and metal objects before entering the MRI room.",
+        "details": [
+          "This keeps you safe because the MRI uses a strong magnet",
+          "A staff person will check for any metal in your clothes or accessories",
+          "You will also be asked a few questions about your health and past work"
+        ],
+        "duration": "5–10 minutes"
       },
       {
-        "title": "Aftercare",
-        "icon": "🩹",
-        "description": "We'll apply pressure and a bandage to the site",
+        "title": "During the MRI Scan",
+        "icon": "🛌",
+        "description": "You will lie on a narrow table that slides into the MRI machine.",
         "details": [
-          "Direct pressure to prevent bleeding",
-          "Small bandage or cotton ball with tape",
-          "Instructions for care over next few hours"
+          "You will wear ear plugs or headphones for the loud noises",
+          "You need to lie very still so the pictures are clear",
+          "Staff can see you and talk to you throughout the scan",
+          "You can ask the scan to stop at any time"
+        ],
+        "duration": "50–55 minutes"
+      },
+      {
+        "title": "After the MRI",
+        "icon": "✅",
+        "description": "After the scan, you can get up and relax.",
+        "details": [
+          "If the MRI shows anything important for your health, your doctor will be informed with your permission",
+          "The scan itself is safe and for research purposes"
         ],
         "duration": "5 minutes"
       }
     ]
   },
   {
-    "id": "survey-interview",
-    "title": "Survey & Interview",
-    "description": "Conversation about your health, lifestyle, and experiences",
-    "icon": "💬",
-    "duration": "30-45 minutes",
-    "difficulty": "Easy",
-    "tags": ["Questions", "Conversation", "Personal"],
-    "video": "UMoSnfFzAHw?si=kr4JUAnOkXkGGo35",
+    "id": "pet-scan",
+    "title": "PET Scan",
+    "description": "A PET scan takes pictures of your brain using a special dye (radiotracer) to see certain proteins linked to Alzheimer’s disease. A small plastic tube (IV) will be placed in your arm to give the dye. You will need to lie still while the scan takes pictures. You can ask the staff to stop at any time. Different PET scans may be done depending on your study visit, including amyloid, tau, and FDG scans. The whole process may take 1½ to 3 hours.",
+    "summary": "A PET scan takes pictures of your brain using a small dye. You lie still, and staff can stop the scan if needed. The scan takes 1½–3 hours.",
+    "icon": "🧪",
+    "duration": "1.5–3 hours",
+    "difficulty": "Moderate",
+    "tags": ["PET", "Brain", "Imaging", "Research", "Radiotracer"],
+    "video": "h8fAKBTxX_I?si=4ap3U80nS48HBNs9",
+    "image": "https://rhshc.com/wp-content/uploads/2024/01/UI-Digital-PET-CT-Marketing-Board_Cresco-IA-scaled-e1705691915688-1297x820.jpg",
     "procedures": [
       {
-        "title": "Welcome",
-        "icon": "🤝",
-        "description": "We'll introduce ourselves and explain the interview process",
+        "title": "Preparing for the PET Scan",
+        "icon": "🩺",
+        "description": "A staff member will place a small plastic tube (IV) in your arm to give the radiotracer.",
         "details": [
-          "Comfortable, private room for talking",
-          "Explanation of confidentiality",
-          "Permission to record (if applicable)"
+          "The IV is placed using a needle, similar to a blood draw",
+          "If other procedures are done the same day, the IV may only be placed once",
+          "You may need to fast for some scans like FDG PET"
         ],
-        "duration": "5 minutes"
+        "duration": "10–30 minutes"
       },
       {
-        "title": "Background Questions",
-        "icon": "📊",
-        "description": "Questions about your basic information and health history",
+        "title": "Waiting for the Radiotracer",
+        "icon": "⏳",
+        "description": "After the dye is given, you will wait while it travels to your brain.",
         "details": [
-          "Age, education, and occupation",
-          "General health and medical history",
-          "Family health background"
+          "Amyloid PET: wait 40–50 minutes",
+          "Tau PET: wait 60–90 minutes",
+          "FDG PET: wait about 25 minutes after blood sugar check"
         ],
-        "duration": "10 minutes"
+        "duration": "25–90 minutes"
       },
       {
-        "title": "Specific Topics",
-        "icon": "🎯",
-        "description": "Detailed questions related to the research study",
+        "title": "During the PET Scan",
+        "icon": "🛌",
+        "description": "You will lie on a table while the PET scanner takes pictures of your brain.",
         "details": [
-          "Questions specific to the study focus",
-          "Your experiences and opinions",
-          "No right or wrong answers"
+          "Your head will be supported to keep you from moving",
+          "You need to lie very still",
+          "You can tell staff to stop at any time"
         ],
-        "duration": "20 minutes"
+        "duration": "20–40 minutes depending on the scan"
       },
       {
-        "title": "Wrap Up",
-        "icon": "📋",
-        "description": "Final questions and opportunity for you to ask anything",
+        "title": "After the PET Scan",
+        "icon": "✅",
+        "description": "Once the scan is finished, you can get up and relax.",
         "details": [
-          "Review of key points discussed",
-          "Your questions about the study",
-          "Information about next steps"
+          "The scan is for research purposes only",
+          "If something important for your health is found, your doctor will be informed with your permission",
+          "The total visit time depends on the type of PET scan and waiting time"
         ],
-        "duration": "10 minutes"
+        "duration": "5–10 minutes"
       }
     ]
   }

@@ -40,7 +40,7 @@ function AssessmentSlides({ assessment }) {
           <div className={classes.cardIcon}>{assessment.icon}</div>
           <h2>{assessment.title}</h2>
           <p>{assessment.duration}</p>
-          <h3>{assessment.description}</h3>
+          <h3>{assessment.summary}</h3>
         </div>
         <div className={classes.contentContainer}>
           {assessment.image ? (

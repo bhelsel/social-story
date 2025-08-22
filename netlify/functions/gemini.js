@@ -18,6 +18,23 @@ exports.handler = async (event) => {
     };
   }
 
+  // Handle GET requests for testing
+  if (event.httpMethod === "GET") {
+    return {
+      statusCode: 200,
+      headers: {
+        ...headers,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify({
+        message: "Gemini function is working!",
+        timestamp: new Date().toISOString(),
+        hasApiKey: !!process.env.GEMINI_API_KEY,
+        environment: process.env.NODE_ENV || "production",
+      }),
+    };
+  }
+
   // Only allow POST requests
   if (event.httpMethod !== "POST") {
     return {
@@ -60,7 +77,10 @@ exports.handler = async (event) => {
 
     return {
       statusCode: 200,
-      headers,
+      headers: {
+        ...headers,
+        "Content-Type": "application/json",
+      },
       body: JSON.stringify({
         success: true,
         response: text,

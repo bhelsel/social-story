@@ -1,0 +1,32 @@
+[
+  {
+    "text": "Participants",
+    "question": "Who are the target participants for this study?",
+    "colorClass": "quickButtonGreen"
+  },
+  {
+    "text": "Methodology",
+    "question": "What is the research methodology?",
+    "colorClass": "quickButtonPurple"
+  },
+  {
+    "text": "Objectives",
+    "question": "What are the primary objectives of this study?",
+    "colorClass": "quickButtonBlue"
+  },
+  {
+    "text": "Risks & benefits",
+    "question": "What are the potential risks and benefits?",
+    "colorClass": "quickButtonOrange"
+  },
+  {
+    "text": "Data collection",
+    "question": "How will data be collected and analyzed?",
+    "colorClass": "quickButtonRed"
+  },
+  {
+    "text": "Inclusion criteria",
+    "question": "What are the inclusion and exclusion criteria?",
+    "colorClass": "quickButtonPink"
+  }
+]

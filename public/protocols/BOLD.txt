@@ -1,0 +1,503 @@
+
+Brain Outcomes with Lifestyle Change in Down Syndrome (BOLD)
+
+Principal Investigators:
+Lauren T. Ptomey. PhD, RD
+Debra K. Sullivan PhD, RD 
+University of Kansas Medical Center
+
+Supported by:
+The National Institute on Aging
+(R33 AG078967)
+
+
+
+
+
+
+Version 10
+08.14.2025
+
+
+TABLE OF CONTENTS
+    Page
+TABLE OF CONTENTS	i
+PR�CIS	iv
+Study Title	iv
+Objectives	iv
+Design and Outcomes	iv
+Interventions and Duration	v
+Sample Size and Population	v
+1	Study objectives	1
+1.1	Primary Objective	1
+1.2	Secondary Objectives	1
+2	BACKGROUND AND RATIONALE	1
+2.1	Background on Condition, Disease, or Other Primary Study Focus	1
+2.2	Study Rationale	1
+3	STUDY DESIGN	3
+4	SELECTION AND ENROLLMENT OF PARTICIPANTS	4
+4.1	Inclusion Criteria	4
+4.2	Exclusion Criteria	4
+4.3	Study Enrollment Procedures	4
+5	STUDY INTERVENTIONS	5
+5.1	Adherence Assessment	11
+6	STUDY PROCEDURES	12
+6.1	Schedule of Evaluations	12
+6.2	Description of Evaluations	13
+6.2.1	Screening Evaluation	13
+6.2.2	Enrollment, Baseline, and/or Randomization	13
+6.2.3	Follow-up Visits	13
+6.2.4	At-Home Data Collection	14
+6.2.5	Completion/Final Evaluation	14
+7	SAFETY ASSESSMENTS	15
+7.1	Specification of Safety Parameters	15
+7.2	Methods and Timing for Assessing, Recording, and Analyzing Safety Parameters	15
+7.3	Adverse Events and Serious Adverse Events	15
+7.4	Reporting Procedures	15
+7.5	Follow-up for Adverse Events	15
+7.6	Safety Monitoring	16
+8	STATISTICAL CONSIDERATIONS	16
+8.1	Sample Size and Randomization	16
+8.1.1	Treatment Assignment Procedures	16
+8.2	Interim analyses and Stopping Rules	16
+8.3	Data Analyses	16
+9	DATA COLLECTION AND QUALITY ASSURANCE	17
+9.1	Data Management	17
+9.2	Quality Assurance	17
+9.2.1	Training	17
+9.2.2	Fidelity	18
+9.2.3	Protocol Deviations	18
+9.2.4	Monitoring	18
+10	PARTICIPANT RIGHTS AND CONFIDENTIALITY	18
+10.1	Institutional Review Board (IRB) Review	18
+10.2	Informed Consent Forms	18
+10.3	Participant Confidentiality	18
+10.4	Study Discontinuation	18
+11	REFERENCES	19
+
+
+
+PR�CIS
+Study Title 
+Brain Outcomes with Lifestyle Change in Down Syndrome (BOLD)
+
+NIH Title
+The Impact of Weight and Dietary Intake on Alzheimer's Disease Risk in Adults with Down Syndrome
+Objectives 
+Adults with DS and without dementia (n=81) will be randomized (2:1) to a 12-month multicomponent weight management intervention using a reduced energy eSLD + recommendations from the MIND diet or a health education control. Outcomes assessed at 6 and 12 mos. will include: 1. Biomarkers related to AD including plasma amyloid beta 42:40 ratio (A? 42/40), phosphorylated Tau (pTau217), Neurofilament light (NfL), and Glial Fibrillary Acidic Protein (GFAP). 2. Cerebral antioxidants and brain volume assessed by Magnetic Resonance Spectroscopy (baseline and 12 months only). 3. Cognitive function assessed using the National Alzheimer�s Coordinating Center�s DS Module. 4. Energy and macronutrient intake (3-day photo-assisted food records). 5. Diet quality (MIND diet score and objective assessment of skin carotenoid content using a Veggie Meter). Our analysis will address the following aims. 
+
+1. Calculate effect sizes for changes in plasma biomarkers related to AD and cognitive function in both intervention arms across 12 mos. Assessments will also be obtained at 6-mos. to document the time course of potential changes in these outcomes. 
+2. Calculate effect sizes for changes in cerebral antioxidants and brain volume in a subsample of participants in both intervention arms across 12 mos.
+3. Explore the independent effects of weight loss or diet quality on changes in plasma biomarkers related to AD, cerebral antioxidants and brain volume, and cognitive function across 12 mos. 
+Design and Outcomes  
+This is 12-mo. pilot RCT in 81 non-demented adults with DS. Participants will be randomized (2:1) to either a weight loss or a general health education control group. The weight loss arm will follow the protocol used in our previous trials which have demonstrated clinically relevant weight loss and improved diet quality in individuals with ID using an eSLD, behavioral counseling/education increased PA and self-monitoring of diet and weight (DK38539, DK114121). The proposed trial will incorporate these strategies plus the inclusion of specific recommendations from the MIND diet (67, 68) to increase antioxidant consumption and further improve diet quality. Participants and a caregiver will be asked to attend monthly behavioral counseling/education sessions with a trained interventionist delivered remotely using Zoom� video conferencing (San Jose, CA) and self-monitor diet and body weight using commercially available web-based applications. Participants and a caregiver in the control arm will be asked to attend monthly behavioral counseling/education sessions with a trained interventionist delivered remotely and will receive education on general health education topics such as injury prevention, oral health, sleep, hydration, exercise and physical activity, and healthy eating. Outcomes assessed at 6 and 12 mos. will include: 1. Biomarkers related to AD including plasma amyloid beta 42:40 ratio (A? 42/40), phosphorylated Tau (pTau217), Neurofilament light (NfL), and Glial Fibrillary Acidic Protein (GFAP). 2. Cerebral antioxidants and brain volume assessed by Magnetic Resonance Spectroscopy (only obtained at baseline and 12 months in a subsample of participants). 3. Cognitive function assessed using the National Alzheimer�s Coordinating Center�s DS Module and Stroop Cats and Dogs. 4. Energy and macronutrient intake (3-day photo-assisted food records). 5. Diet quality (MIND diet score and objective assessment of skin carotenoid content using a Veggie Meter).
+
+Interventions and Duration 
+    Participants will be randomized to one of 2 interventions for 12 months.
+1. Weight Loss
+2. General Health Education Control
+
+Sample Size and Population 
+81 adults (>18 years of age) with Down syndrome will be recruited and computer randomized. Participants will be stratified by sex and age (18-30 vs. >30 yrs.) and then sequentially randomized by the study statistician with 2:1 allocation to the weight loss or control arm. If participants live in the same household they will be randomized together.  We expect 54 participants in the weight loss arm and 27 participants in control arm.
+1 STUDY OBJECTIVES
+1.1 Primary Objectives
+1. Calculate effect sizes for changes in plasma biomarkers related to AD and cognitive function in both intervention arms across 12 mos. Assessments will also be obtained at 6-mos. to document the time course of potential changes in these outcomes. 
+2. Calculate effect sizes for changes in cerebral antioxidants and brain volume in a subsample of participants in both intervention arms across 12 mos.
+3. Explore the independent effects of weight loss or diet quality on changes in plasma biomarkers related to AD, cerebral antioxidants and brain volume, and cognitive function across 12 mos. 
+2 BACKGROUND AND RATIONALE 
+2.1 Background on Condition, Disease, or Other Primary Study Focus
+Down syndrome (DS) or trisomy 21 is the most common chromosomal abnormality associated with an intellectual disability (ID) 1. The current incidence of DS is 1 in every 650 live births 2,3 which is ~30% higher than in 1979, largely due to women conceiving after age 35 4. Consequently, the prevalence of DS in the U.S. increased from an estimated 49,923 in 1950�to ~250,700 individuals in 2017 3,5. The life expectancy for individuals with DS has increased dramatically in recent decades from 4 yrs. in the 1970�s due to high rates of congenital heart defects, to 60 yrs. currently 6. Most adults with DS will develop pathology associated with Alzheimer's disease (AD) beginning at ~ age 30 4,7,8. By age 65 the cumulative incidence of dementia exceeds 90% 8,9, and is the leading cause of death in individuals with DS (10). High rates of AD in DS are the result of the overproduction of amyloid-beta (A?) from the additional copy of the amyloid precursor protein found on chromosome 21. A? accelerates neurodegeneration, oxidative stress, plaque deposition, and early development of AD-like pathology in individuals with DS 7,10,11. Research suggests that deposition of A? occurs decades earlier in adults with DS compared with typically developed adults 12-14. For example, in a study of 29 individuals with DS, ranging in age from 3 to 73 yrs. A? deposition was detected as early as age 12 and was present in all individuals age 31 or older (12). Fortea et al 8 in a recent study in 399 participants with DS, reported that A?1�42/1�40�and plasma neurofilament light chain (NfL) changed as early as the third decade of life, amyloid positron emission tomography�(PET) uptake, F-fluorodeoxyglucose PET and cerebral spinal fluid (CSF) p-tau changes occurred later in the fourth decade of life, and hippocampal atrophy and changes in cognition in the fifth decade of life. While AD develops earlier in adults with DS, recent biomarker studies have shown that AD pathology and plasma biomarker changes in individuals with DS are qualitatively the same as in late onset AD 8,15 suggesting that interventions focused on preventing or delaying the onset of AD in the typically developed population may also be effective in adults with DS.
+
+Estimates of the prevalence of overweight (BMI 25-29.9 kg/m2) and obesity (BMI >30kg/m2) in adults with DS range from 83-85% 16-19, with the highest rates of obesity among those 30-39 years of age 16. We observed similar results from a recent weight status review of the University of Kansas Medical Center (KUMC) electronic medical records in 346 adults with DS where the combined prevalence of overweight and obesity was 81% (27% overweight, 54% obese) 17. High rates of obesity in DS are likely due to both behavioral (e.g., high energy intake/ poor diet quality) (58-61), and genetic/biological factors (e.g., decreased energy expenditure 20,21, increased leptin 22, and hypotonia 23). Evidence from both epidemiological and clinical observations suggest that obesity is a significant risk factor for later-life dementia (including AD) independent of comorbidities such as hypertension and diabetes�24-27. Obesity is thought to contribute to dementia and cognitive impairment in both the general population and in adults with DS via a range of mechanisms including impaired�cerebral metabolism�28, elevated leptin 29-31,�inflammation and oxidative stress 32, and neuronal degradation�32. A high-energy diet, typically associated with obesity, adversely affects neurogenesis and cognitive function by increasing levels of systemic stress (hyperactivation of the hypothalamic�pituitary�adrenal axis) and intrinsic oxidative and inflammatory stress in neurons, and by reducing the production of brain-derived neurotrophic factor, protein chaperones and antioxidant enzymes 33,34. Chronic oxidative stress associated with obesity is believed to play a major role in the etiology of neurodegeneration observed in AD 35. Damage resulting from oxidative stress has been observed in brains of individuals with AD 36,37. Obesity associated conditions such as dyslipidemia, hyperinsulinemia, and obstructive sleep apnea may also contribute to the development of AD in individuals with DS 17,18,31,38,39. Our group recently reported that overweight and obesity were associated with a 3-fold increase in risk for sleep apnea and a 2-fold increase in risk for type 2 diabetes in adults with DS.
+
+Treatments to prevent or delay AD are available for typically developed adults; however, the development of strategies to prevent or delay AD associated cognitive deficits for adults with DS is in its infancy 40,41. Approximately 15 trials evaluating drugs or supplements including donepezil 42,43, rivastigmine 44, basmisani (NCT02024789), memantine 45, folinic acid 46,47, and vitamin E 48 for the prevention/treatment of AD in DS are in development, active, or completed. Results to date have identified no safe and effective drugs or supplements for the prevention of AD in adults with DS. Although limited, data from completed 49-56 and on-going 57 clinical trials in typically developed adults with overweight and obesity suggests that intentional weight loss or increased consumption of foods that are high in antioxidants and antioxidant precursors (e.g., fruits, vegetables) are associated with improvements in performance across several cognitive domains. For example, Horie et al 50 evaluated changes in cognition across 12 mos. in 80 older adults with obesity and mild cognitive impairment (68.1 � 4.9 yrs., BMI 35.5 � 4.4 kg/m2) who were randomized to conventional medical care (n = 40) or conventional care plus group-based nutritional counseling to promote weight loss through caloric restriction (n=40). Data from 75 participants who completed the 12-mo. trial revealed a significant decrease in BMI (-1.7 � 1.8 kg/m2, p�= .021), with 35 (43.8%) participants achieving clinically relevant weight loss � 5%.�Decreased BMI was associated with improvements in verbal memory, verbal fluency, executive function, and global cognition. Changes in insulin resistance, C-reactive protein, leptin, and energy (kcals), carbohydrate, and fat intake were associated with improved cognitive outcomes. Diets such as the Mediterranean, Dietary Approaches to Stop Hypertension (DASH), and the Mediterranean-DASH Intervention for Neurodegenerative Delay (MIND) diet that recommend foods that are high in antioxidants and antioxidant precursors (e.g., fruits, vegetables) have been associated with improved cognitive health in typically developed older adults 58-68. For example, results from a prospective study (2004-2013) suggested that higher adherence to the MIND diet, which emphasizes natural plant-based foods, limited intake of animal and high saturated fat foods, and specifies consumption of berries and green leafy vegetables, was associated with a slower rate of cognitive decline 68 and lower rates of the development of AD 67 in adults without known dementia at baseline (n= 923, age=58-98 yrs.). In addition to the potential protective effect of diets high in antioxidants, published work by our group demonstrated that increased consumption of high-glycemic-load foods (e.g., processed carbohydrate and sugar) was correlated with greater cerebral amyloid accumulation across 1 year (?=0.23, p=0.02) in 106 typically developed, cognitively normal older adults 69. Thus, the available data suggests the potential for weight loss achieved through a reduced energy diet and/or consuming a low glycemic load, low saturated fat, high fruit and vegetable (F/V) diet to delay the development of AD in typically developed adults. However, the potential of dietary interventions to prevent or delay AD in adults with DS as not been previously examined and will be the focus of the proposed trial. 
+2.2 Study Rationale
+Most adults with DS will develop pathology associated with AD beginning at ~ age 30 which may be associated with the high prevalence of obesity in the population. Obesity is thought to contribute to dementia and cognitive impairment in both the general population and in adults with DS via a range of mechanisms including impaired cerebral metabolism, elevated leptin,�inflammation and oxidative stress, and neuronal degradation. Data from trials in typically developed adults suggests the potential for weight loss achieved through a reduced energy diet and/or consuming a low glycemic load, low saturated fat, high fruit and vegetable diet to prevent or delay the development of AD. However, the potential of dietary interventions to prevent or delay AD in adults with DS has not been previously examined. Our group has developed the only multi-component intervention which results in clinically relevant weight loss (� 5%) and improved diet quality in adults with ID including DS living at home with parent or in group settings. We intend to will evaluate the impact of weight loss and diet quality on factors that may be associated with the development of AD in adults with DS including biomarkers, cerebral antioxidants, brain volume, and cognitive function. 
+3 STUDY DESIGN
+This is 12-mo. pilot RCT in 81 non-demented adults with DS. Participants will be randomized (2:1) to either a weight loss or a general health education control group. The weight loss arm will follow the protocol used in our previous trials which have demonstrated clinically relevant weight loss and improved diet quality in individuals with ID using an eSLD, behavioral counseling/education increased PA and self-monitoring of diet and weight (DK38539, DK114121). The proposed trial will incorporate these strategies plus the inclusion of specific recommendations from the MIND diet (67, 68) to increase antioxidant consumption and further improve diet quality. Participants and a caregiver will be asked to attend monthly behavioral counseling/education sessions with a trained interventionist delivered remotely using Zoom� video conferencing (San Jose, CA) and self-monitor diet and body weight using commercially available web-based applications. Participants and a caregiver in the control arm will be asked to attend monthly behavioral counseling/education sessions with a trained interventionist delivered remotely and will receive education on general health education topics such as injury prevention, oral health, sleep, hydration, exercise and physical activity, and healthy eating. Outcomes will be assessed by research assistants at baseline 6, and 12 mos. With the exception of assessment of daily MVPA by accelerometer, all outcomes will be assessed at on one of the  University of Kansas Medical Center campuses. The weight loss and control interventions will take place in the participants home.
+
+4 SELECTION AND ENROLLMENT OF PARTICIPANTS 
+4.1 Inclusion Criteria 
+To enhance generalizability, individuals on medications for common chronic diseases (i.e., depression, blood pressure, lipids, type 2 diabetes), using dietary supplements, or consuming a gluten-free diet (i.e., Celiac Disease) will not be excluded. Random assignment should distribute these characteristics equally across interventions arms, additionally we will control for baseline characteristics in our analysis. 
+   Inclusion criteria: 1) Age 18-64 yrs. with a diagnosis of DS. 2) BMI of 25 to 50 kg/m2. 3) Sufficient functional ability to communicate through spoken language. 4) Living at home with a parent/guardian, or in a supported living environment with a caregiver who assists with food shopping, meal planning, and meal preparation and agrees to serve as a study partner including providing transportation to our facilities for study assessments. 5) Willing to travel to KUMC facilities for study assessments. 
+4.2 Exclusion Criteria 
+All candidates meeting any of the following exclusion criteria based on the health history form conducted at the initial meetingwill be excluded from study participation: 1) Diagnosis of dementia (Score <20) as determine by the�Dementia Screening Questionnaire for Individuals with Intellectual Disabilities (DSQIID)70. 2) Insulin dependent diabetes which requires medical monitoring beyond the scope of this study. 3) Participation in a weight management program involving diet and PA in the past 6 mos. 4) Dairy allergy, as participants would be unable to comply with dietary recommendations. 5) Serious medical risk (e.g., cancer, recent heart attack, stroke, pregnancy, angioplasty as determined by the health history form.) 6) Unwilling to be randomized. 7) Individuals on GLP-1  antagonist. 8)Individuals taking coumadin or other blood thinner medications as the prescribed diet is high in vitamin K and contraindicated. 9) Individuals taking anti-amyloid medications or other medications related treatment of Alzheimer�s disease. 10) Swallowing disorders that require a thickened liquid diet.
+4.3 Study Enrollment Procedures 
+Enrollment. Project staff will contact local community agencies serving adults with DS, case managers, and CDDOs by mail/email, provide presentations at CDDO meetings, and text for CDDO newsletters describing the project. Additionally, participants will be recruited through the KUADRC Down syndrome cohort. Interested parents/guardians, caregivers, or adults with DS will be asked to contact the study coordinator via email, our website, or a dedicated toll-free study phone number that will be included in all recruitment materials. The study coordinator will contact the interested individuals by phone to answer questions and conduct an initial eligibility screen. Zoom calls will be scheduled with those remaining interested, and potentially eligible, to obtain informed consent (participants or guardian and caregivers) and assent (participant) and determine final eligibility based on the DSQIID scores and health history. Participants found to be ineligible will be provided with written materials describing available resources for weight loss or dementia care. Project staff will track ineligibility and non-participants of eligible candidates using a REDCAP database. 
+
+Randomization. Participants will be stratified by sex and age (18-30 vs. >30 yrs.) and sequentially computer randomized by the study statistician with 2:1 allocation to the weight loss or control arms. Participants in the same household will be randomized to the same group. This randomization scheme was selected to include more participants in the weight loss arms which will allow for a larger sample size to assess the association of weight loss and changes in dietary intake with changes in biomarkers and cognitive function. Intervention assignments will be computer generated and delivered to the study coordinator prior to participant orientation sessions described below.
+5 STUDY INTERVENTIONS 
+
+Weight loss arm
+Orientation. Interventionists will conduct two ~60 min home visits with participants and study partners prior to initiating the intervention. Interventionists will include detailed descriptions of all components of the weight loss intervention protocol (i.e., meeting attendance, recommendations for diet, PA, and self-monitoring). Participants will be provided with an iPad� (Apple Inc., Cupertino, CA). Access to non-study related materials (e.g., web browsing, app store, etc.) will be blocked on all iPads� until completion of the study. All iPads� will be pre-loaded with the video conferencing (Zoom) and diet and weight tracking software (CoachCare� platform). Participants will receive a tutorial on the use of the iPad�, video conferencing and diet tracking software, and wireless scales apps/devices used for self-monitoring diet and weight. Time will be allotted for practice and questions. Tutorials describing troubleshooting for common technical problems (e.g., internet connectivity, data entry using CoachCare� platform will be loaded on the iPad�. Reminders regarding upcoming behavioral/education sessions etc. or prompts for participants who are non-compliant with the study protocol, will be sent via the iPad�. 
+
+Energy intake. Energy intake will be prescribed at 1,200-1,500 kcal/d for women and 1,500-1,800 kcal/d for men as recommended by American Heart Association/American College of Cardiology/The Obesity Society weight management guidelines 71. 
+
+Diet. Reduced energy intake will be achieved using an eSLD which we have shown to be effective for weight loss in adults with ID in previous trials (DK83539, DK114121) (72, 73). The original SLD was developed for use in children 72 and categorizes foods by energy content. The SLD is easy to understand and implement when compared with a CD, which requires selection of appropriate foods from an unlimited array of options, making it difficult to consistently prepare a nutritionally adequate reduced energy diet. We �enhance� the Stop Light Diet (eSLD) using commercially available portion-controlled entr�es and shakes, F/V, and non-caloric beverages. Labels on portion-controlled entr�es and shakes include relevant nutritional information (calories, fat, protein etc.) which make it easier to adhere to specific energy and nutrient intake recommendations. Participants will be asked to consume a minimum daily total of 2 entr�es (~200 to 300 kcal each, saturated fat � 3g), 1 high-protein shakes (~100 kcal each), 5  servings of F/V, and ad libitum non-caloric beverages. To increase antioxidant content and improve diet quality, we will incorporate specific recommendations from the Mediterranean-DASH Intervention for Neurodegenerative Delay (MIND) diet (67, 68) including recommending that the 5 servings of F/Vs consist of 1  serving of berries (strawberry, blueberry, blackberry, raspberry etc.), 1  serving of another fruit (e.g., apple, orange etc.), 1  servings of dark green vegetables (e.g., spinach, kale), and 2  servings of another vegetable (e.g., green beans, cauliflower, carrots). Additionally, we will recommend 1-tablespoon of olive oil a day. Participants and study partners will be trained to use a color-coded chart that we have developed which categorizes foods based on the Stop Light system (green-low energy, yellow-moderate energy, red-high energy) to assist in meal planning, grocery shopping, decisions regarding snack foods, and compliance with the diet in special situations such as eating away from home (restaurants, parties, etc.). Participants will be asked to purchase portion-controlled entr�es from a list meeting the caloric/fat requirements, as well as all F/V, and non-caloric beverages. We will provide 1 low-calorie/high protein, dairy based shakes/day which will be shipped to the participant�s residence monthly. Participants may choose if they want to follow the diet or not. 
+
+Weight maintenance. Participants for whom additional weight loss would be contraindicated (e.g., reaching a BMI of � 22 kg/m2 or losing > 20% in a 12-wk. period) will be placed on a weight maintenance diet and PCP will be contacted to assess potential medication changes. Energy intake for weight maintenance will be based on the resting metabolic rate (RMR) equation of Mifflin-St Jeor 73 adjusted for activities of daily living (RMR x 1.4-1.6). This estimate will be reduced by 15% to account for the lower RMR seen in individuals with DS 20,21. Participants will be asked to continue to use the Stop Light guide to inform daily food choices, continue to consume a minimum of 5 one-cup servings for F/V and olive oil consistent with the MIND diet, and reduce consumption of portion-controlled entr�es or shakes to 2/day. 
+
+Physical activity. Moderate-to-vigorous physical activity (MVPA (� 3 METs)) is recommended as part of multi-component weight management interventions 71 and also has numerous additional health benefits for adults with DS 74-77 which include maintaining components of cognition, including attention, memory, and executive function 78,79 (19). Thus, including increased MVPA in the weight management intervention may potentially confound our results. Given the potential health benefits of increased MVPA we felt that it would be unethical to recommend that participants refrain from engaging in MVPA. Thus, we chose to recommend 150 min/wk. of MVPA following the guidance of both the American College of Sports Medicine 80 and the US Department of Health and Human Services 81. We will not ask participants to set MVPA goals during interventionist meetings or to self-monitor MVPA across the intervention for the proposed trial. 
+
+Self-monitoring. Participants will be asked but not required to monitor diet daily and body weight monthly over the 12-mo. intervention. For this trial, participants will log food/beverages (meals/snacks) using the CoachCare� platform by entering the food name and selecting the portion size, or by scanning the bar code of the food item using the iPad�. A bar graph displays calories consumed compared with the goal providing immediate feedback. Reminders will be sent via the app if no information is reported for a given meal. Participants will self-weigh during monthly education/behavioral counseling video sessions using the wireless digital scale provided by the study which automatically syncs with the CoachCare app and updates a visual display of weight change. CoachCare� platform data, which will be accessible in real time to interventionists, will be used only to provide motivation and feedback during the education/behavioral counseling sessions. Protocols for obtaining outcome assessments of diet and body weight are described in the outcomes section. 
+
+Education/behavioral counseling sessions. These sessions (~45 min) will be conducted via a HIPPA compliant video conference meeting over Zoom� with a trained interventionist, monthly across the 12-mo. intervention. Education/behavioral counseling sessions will include a review of participants self-monitored diet and weight data, individual problem solving and goal setting, and reviewing an interactive lesson on a weight management topic such as energy density (increase volume, not calories), the importance of F/V, the incorporation of olive oil into the diet, eating in social situations, and basic cooking skills etc. Participants and caregivers will receive an automated text message and email bi-weekly using the CoachCare app encouraging them to apply the topics discussed in the monthly lesson. 
+
+Control arm: General health education
+Orientation. Similar to the weight loss arm interventionists will conduct a 30-min. visit with participants and study partners prior to initiating the intervention to provide an overall description of the health education curriculum and the meeting schedule. Participants will be provided with an iPad� loaded with Zoom� video conferencing software and will receive a tutorial on the use of the iPad�/ video conferencing software. 
+
+Education sessions. Education sessions (~45 min) will be conducted in a HIPPA compliant Zoom� meeting, monthly across the 12-mo. intervention. Topics include injury prevention, oral health, , sleep, hydration, exercise and physical activity, healthy eating, importance of health behaviors for disease prevention etc. Sessions will provide information regarding these topics and will not ask participants to self-monitor behaviors or make lifestyle changes relative to any of these topics. Participants and caregivers will receive an automated text message and email bi-weekly reviewing the previous months topic.
+
+
+Caregiver/study partner role
+Adults with ID receive assistance from caregivers with decisions regarding meal planning, food shopping, and meal preparation, thus they play an important role in the success of weight loss interventions in this population. For this trial we will recruit either a parent/gardian, caregiver or residential support staff for those living in group homes to serve as a study partner for each participant. Study partners for participants in both intervention arms will be asked to attend all monthly meetings with the interventionist and to provide transportation to our facilities for all outcome assessments. Study partners for participants in the weight loss arm will be asked to support, encourage and assist participants in complying with the study protocol including the selection and preparation of foods consistent with the dietary recommendations, and assisting participants with self-monitoring of both dietary intake and body weight. 
+
+Incentives
+Reinforcement systems, known as positive behavioral support programs, have been successful in promoting behavioral change in individuals with DS 82. These strategies provide modest incentives to motivate participants to meet their goals and were successfully used in our previous trials that included adults with DS 75,77,83. Participants will receive a $5.00 clincard for each monthly session attended (up to $60 total) and will be allowed to keep the iPad� and wireless scales on study completion. Additionally, to compensate for time and travel, participants will receive $100 for completion of the outcome assessments at baseline, 6, and 12 months ($300 total for all three testing time points). 
+
+ASSESSMENTS 
+All assessments will be completed by appropriately trained staff blinded to intervention arm. Baseline and 12 month outcomes will be assessed during 2 separate visits per time period (total 4 hours) to our facilities at KUMC. These assessments will be completed in any order and combined when convenient for the participant and study partner. The first visit will occur at the Clinical and Translational Science Unit (CTSU) and will consist of the clinical assessment, cognitive assessment, dietary intake assessment, and a blood draw. Six-month outcomes will be assessed with 1 visit to (3 hours) KUMC which will occur at the Clinical and Translational Science Unit (CTSU) and will consist of the clinical assessment, cognitive assessment, dietary intake assessment, and a blood draw. Staff will receive refresher training and complete reliability assessments for all physical measures 2-3 times/yr. 
+
+Visit 1: Clinical and Cognitive Assessment 
+This visit will last approximately 3 hours and occur in the CTSU.  A trained member of the research staff will collect participant medications taken, past medical history, demographic information from an informant (study partner) and will collect study partner demographics (if not already collected during initial screening). Systolic and diastolic blood pressure will be assessed with two measurements made using a manual cuff on the left arm with the participant in a seated position. 
+
+Anthropometrics. A clinician will measure weight, height, waist circumference,. Weight will be measured on a calibrated scale to the nearest 0.1 kg. Standing height will be measured with a stadiometer. BMI will be calculated as weight (kg)/height (m2). Waist will be assessed using standard  procedures such as those described by Lohman et al.84. Blood Pressure and Heart Rate will also be collected. 
+
+Physical Activity. Participants will be asked to wear an ActiGraph (ActiGraph GT9X, ArchiMed Co, Lyon, Auvergne-Rhone-Alpes, France) tri-axial accelerometer (3.3 x 4.6 x 3.5 cm, wt. = 19 g., dynamic range � 8 g). Participants will be asked to wear the ActiGraph watch on the non-dominant wrist for 7 consecutive days, including at night. ActiGraphs will be administered at the study visit and returned by postage paid mail following completion of all assessments.
+
+Dietary Intake. will be assessed using photo-assisted food records over 3 consecutive days (2 wk. days/1 wk. end day) starting the week prior to scheduled outcome assessments. Participants/study partners will be encouraged to take before and after photographs of all foods and beverages consumed using the iPad� camera which automatically date and time stamps photos for easy identification. Hard copy records will be completed to account for details not discernible from photos (e.g., skim or whole milk). During outcome visits, staff will review photos and food records and clarify ambiguities. If no photo is available for a meal, food record data will be used. This will take approximately 20 minutes to review.
+
+Skin carotenoid content. Skin carotenoid content will be assessed by a finger scan using the Veggie Meter (Longevity Link Corporation), as biomarker of fruit and vegetables intake 85,86. This assessment takes approximately 3 minutes. 
+
+Cognitive Assessment. This cognitive assessment will last approximately 1-2 hours and will take place in-person in the CTSU.  A trained psychometrist will administer a psychometric battery to assess broad cognitive abilities including surveys and tests such as the Down Syndrome Mental Status Exam (DS-MSE), Cued Recall Task, Kaufman Brief- Intelligence Test, and Stroop Cat and Dog. 
+
+Blood Draw. We will collect a blood sample to analyze plasma biomarkers related to AD and cardiometabolic biomarkers (lipids, glucose, HbA1c, CBC with differential, inflammatory markers including RNA signitures), Phlebotomy will occur in the CTSU after an overnight fast (> 8 hours). Blood will be collected with a total quantity of between 4 and 91ml (~6 tablespoons). A blood draw of up to 91ml at one time is considered safe for adults with a weight over 45.4kg (100lbs). All participants will be monitored after blood draws for symptoms of orthostasis and given oral fluids if needed. Lidocaine cream can be administered at the participants request.  Samples will be processed and banked locally. 
+
+Informant and Caregiver Outcomes. Caregivers will complete a demographic form about themselves as well as a health history/medication history and demographics about the person with DS.  They will also complete the Dementia Questionnaire for People with Learning Disabilities (DLD), The National Task Group�Early Detection Screen for Dementia (NTG-EDSD), The NPIQ, and the Vineland 3-Domain-Level Parent/Caregiver Form.
+
+Body Composition (Optional). Fat mass, fat-free mass and %body fat will be assessed using dual energy x-ray absorptiometry (DEXA -Prodigy Advance Plus, GE, Madison WI).  Pregnancy testing will be completed by all females prior to each DXA test. All participants will wear a hospital gown during DEXA scans to standardize clothing. Particpiants will receive a print out of their %body fat after they complete the scan. 
+
+
+Visit 2: Neuroimaging (Optional) 
+This visit will last approximately 1 hour and occur at the HBIC (at baseline and 12 months). Scanning will be performed on a 3T Siemens Skyra scanner using a 20-channel head coil. A T1-weighted structural scan will be completed (MPRAGE; TR/TE 2300/2.95 ms, flip angle 9�, FOV = 256, matrix 240 x 256, slice thickness = 1 mm). Volumetric analysis will be performed using segmentation and brain region parcellation pipelines implemented in FreeSurfer 87-89. Brain GSH90,91 and vitamin C92 scans will be performed in an axial slice covering frontal and parietal regions using the doubly selective MQ CSI sequences with real-time motion/shim correction (TE/TR=115/1750 ms for GSH, TE/TR = 124/1750 ms for vitamin C, FOV=20 cm, matrix = 10x10, slice thickness = 2.5 cm, scan time = 11.5 min each). Brain antioxidant signals are quantified using the internal concentration reference method utilizing unsuppressed brain water signals. Brain GSH and vitamin C concentrations in each voxel will be corrected for partial volume effect due to brain atrophy using effective tissue volume fraction calculated from MPRAGE MRI93. Three-dimensional (3D) CSI scans will be performed to measure whole brain metabolite signals using a 3D echo-planar spectroscopic imaging (EPSI) sequence (TE/TR = 17.6/1550 ms, inversion time for lipid nulling = 198 ms, FOV = 280x280x180 mm3, slab thickness = 140 mm, matrix = 50x50x18, scan time = ~17 min)94. Brain metabolite signals will be quantified using the MIDAS (Metabolite Imaging and Data Analysis System) software, which provides an integrated set of MRI and CSI processing functions 95,96. N-acetylaspartate (NAA), creatine (Cr), total choline (Cho), myo-inositol (mI), and glutamate+glutamine (Glx) will be quantified using unsuppressed water signals as an internal concentration reference94. We will explore region-specific intervention-associated changes of metabolite concentrations.  Metabolite concentrations in grey and white matter will be calculated in the same way as those of brain GSH to address potential confounding factors associated with concentration differences between grey and white matter (e.g., creatine and Glx)
+
+Participants with anxiety about the MRI scan, will have the option for a clinician to call in an anti-anxiety medication (Lorazepam) to the participants pharmacy, prior to the scan. Participants will be responsible for the cost of the medication. Participants will be asked to take the medication by mouth 30 min prior to MRI. Participants will not be required to complete the MRI to participate in the study. 
+
+Process outcomes
+Attendance at education/behavioral counseling sessions will be obtained from interventionist records and expressed as the percentage of possible sessions attended. 
+
+Compliance with self-monitoring of diet (weight loss arm only) will be assessed as the percentage of prescribed monitoring days completed across 12 mos. 
+
+Compliance with self-monitoring of weight (weight loss arm only) will be the same as session attendance, with the exception of scale problems or participant refusal to weigh, as participants will be asked to weigh during each session. 
+
+Exit interview 
+At the completion of the 12-mo. intervention, study staff will conduct structured interviews by phone with a 20% random sample of participants and study partners from each intervention arm to gather information that might be useful for improving the intervention. Topics will include preference for the weight loss or control arms, reasons for missing scheduled sessions, intervention length, difficulties with compliance, suggestions for improvements and overall satisfaction with the intervention, interventionists, diet recommendations, self-monitoring, MRI protocol, and willingness to participate in outcome procedures that could be used in future studies such as the collection of spinal fluid and PET scans. Qualitative content analysis (ATLAS.ti 6.2) will be conducted to search for broad themes across interviews 97. 
+
+Assessment
+Screening: Visit-1 (Day-30 to Day -1)
+KUMC Visit 1 (Day -14 to Day -1)
+KUMC 
+Visit 2 (Month 6)
+KUMC 
+Visit 3 (Month 12)
+Monthly
+Daily 
+Informed Consent Form  
+X
+
+
+
+
+
+Demographics
+X
+
+
+
+
+
+Caregiver Demographics
+X
+
+
+
+
+
+Health/Medical History
+X
+
+
+
+
+
+DSQIID
+X
+
+
+
+
+
+Enrollment/Randomization
+
+X
+
+
+
+
+Anthropometrics
+
+X
+X
+X
+
+
+Physical Activity
+
+X
+X
+X
+
+
+Cognitive Function Test
+
+X
+X
+X
+
+
+Dietary Intake
+
+X
+X
+X
+
+
+Anthropometrics 
+
+X
+X
+X
+
+
+Skin Carotenoid Content
+
+X
+X
+X
+
+
+Blood Draw
+
+X
+X
+X
+
+
+Informant Outcomes
+
+X
+X
+X
+
+
+Body composition (optional)
+
+X
+X
+X
+
+
+MRI (optional)
+
+X
+
+X
+
+
+Education Session Attendance
+
+
+
+
+X
+
+Self-monitoring of Diet (Weight Loss Group only)
+
+
+
+
+
+X
+Self-monitoring of Weight (Weight Loss Group only)
+
+
+
+
+X
+
+Interview
+
+
+
+X
+
+
+Adverse Events 
+
+X
+X
+X
+X
+X
+6 STUDY PROCEDURES
+
+
+6.1 Description of Evaluations 
+6.2.1 Screening Evaluation
+These evaluations occur to determine if the candidate is eligible for the study.
+
+Consenting Procedure
+Remote video chat sessions (Zoom) or in person consent meetings depending on participant preference, will be scheduled with participants, caregivers, and their legal guardian (if applicable) deemed to be initially eligible to describe the project in detail, answer questions, verify eligibility, and to obtain participant consent or, if the participant is not their own legal guardian, guardian consent and participant assent. 
+
+For remote video chat sessions (Zoom): Prior to the consenting session, the participant will be sent the consent form and cover letter through Kansas University Medical Center�s (KUMC) secure email system.  Study staff will set up a virtual Zoom meeting that allows for remote video chat. Study staff will �share screen� the consent document and walk through each section, noting questions that arise, and answer these questions fully. The signed and dated consent form will be submitted online through REDCap. 
+
+For in person consent meetings: study staff will meet at a mutually chosen location to meet with the potential participant, study partner, and legal guardian (if applicable). They will review the study with them, read the informed consent to them, and answer any questions. The participant will be allowed to keep the consent form and read over on their own and join at a later time. We will collect informed consent from participants, or if a participant is not their own legal guardian, we will collect participant assent and legal guardian consent.  We will obtain assent away from family members to make sure participants don't feel like they have to be in the study.
+
+Screening  
+After consent, caregivers will be asked to complete the health history and  the DSQIID to verify eligibility. This will take place at the consenting appointment within 2 months of starting the study. 
+
+6.2.2 Enrollment, Baseline, and/or Randomization
+Baseline Assessments.                    
+Baseline Assessments will take place within 2 months before starting the intervention and will include:
+* Anthropometrics
+* Physical Activity
+* Dietary Intake
+* Skin Carotenoid Content
+* Cognitive Assessments
+* Blood Draw
+* Caregiver Outcomes
+* Body composition (optional)
+* MRI (optional)
+* Adverse Events Review
+
+Randomization
+Randomization will take place between baseline testing and the start of the intervention.  
+
+Enrollment
+Enrollment is defined as the date in which a participant has completed baseline assessments, has been randomized to an intervention group, and had the orientation meeting with their health educator. 
+
+6.2.3 Follow-up Visits
+Visit 2 (6 months): Visit 2 will occur within 2 months of participant hitting 6 months (26 weeks) of the intervention and will include. 
+* Anthropometrics
+* Physical Activity
+* Dietary Intake
+* Skin Carotenoid Content
+* Cognitive Assessments
+* Blood Draw
+* Caregiver Outcomes
+* Body composition (optional)
+* Adverse Events Review
+
+6.2.4 At-Home Data Collection
+* Intervention session attendance
+* Self-Monitoring of Diet (Weight Loss Group Only)
+* Self-Monitoring of Weight (Weight loss Group Only)
+* Adverse Events
+
+6.2.5 Completion/Final Evaluation
+* Visit 3 (12 months): Visit 3 will occur within 1 month of participant hitting 12 months (between week 47 and 52) of the intervention and will include. 
+* Anthropometrics
+* Physical Activity
+* Dietary Intake
+* Skin Carotenoid Content
+* Cognitive Assessments
+* Blood Draw
+* Caregiver Outcomes
+* Body composition (optional)
+* MRI (optional)
+* Adverse Events Review
+* Interview
+7 SAFETY ASSESSMENTS 
+7.1 Specification of Safety Parameters. Risk of weight loss to adults with DS are minimal. We have used the eSLD in adults and adolescents with intellectual and developmental disabilities in previous trials with no serious adverse events. However, some prescription medications may pose potential health risks for individuals participating in a diet and weight loss intervention. Additionally, change in diet may initially result in acute stomach pain, acute fatigue, and changes in bowel movements. 
+7.2 Methods and Timing for Assessing, Recording, and Analyzing Safety Parameters
+Staff involved in performance of the protocol will continually monitor participants for adverse events throughout all outcome�s assessments, exercise sessions, and individual education session. All AEs and SAEs will be recorded in the studies REDCap database.
+7.3 Adverse Events and Serious Adverse Events
+An adverse event (AE) is as any untoward or unfavorable medical occurrence in a human subject participant, including any abnormal sign, symptom, or disease, temporally associated with the participants� involvement in the research, whether or not considered related to participation in the research. Reported signs and symptoms consistent with normal changes in diet such as acute stomach pain, acute fatigue, changes in bowel movements will not be considered AEs.
+
+There is potential for higher-than-expected unanticipated adverse events from the fasted blood draw and MRI outcome assessments as these may be procedures this population are unfamiliar with. Lidocaine cream can be administered for the blood draw at the participants request and an anti-anxiety medication (Lorazepam) can be prescribed for the MRI scan. If an adverse event occurs during the outcome assessments the assessment will be terminated and the participant will not be asked to repeat the assessment.
+
+A serious adverse event (SAE) is defined as any adverse event that results in death, a life-threatening event, inpatient hospitalization, or a permanent disability. 
+7.4 Reporting Procedures
+The MPIs will review and evaluate adverse events within 72 hours.  AEs are reported to the DSMB bi-annually for review, and immediately if unexpected. A summary of these reports is provided to the IRB on an annual basis. Deaths and SAEs are handled in an expedited fashion as follows: 
+
+* Deaths: All deaths will be reported within 24 hours to the NIA Program Officer, DSMB, and the IRB.� 
+
+* Unanticipated SAEs: When SAEs occur that are unanticipated and related to the intervention, they will be reported to the NIA Program Officer, DSMB, and the IRB within 48 hours of study team�s knowledge of the SAE.
+
+* Other SAEs: The summary of all other SAEs will be reported to the NIA Program Officer and DSMB semi-annually. 
+
+All potential Adverse Events will be collected on an Adverse Event Form. If study staff, tester, participant, or other individual interacting with the participant during the testing visits or education sessions, reports adverse events or complaints, relevant information will be collected and documented using REDCap. 
+7.5 Follow-up for Adverse Events
+Study team members will follow-up with adverse events at the next individual education session until event is resolved.
+7.6 Safety Monitoring
+This study will use a DSMB. The DSMB consists of three members. Membership consists of individuals who have no financial, scientific, or other conflict of interest with the trial. Written documentation attesting to absence of conflict of interest will not be required as the experimental intervention/manipulation is standard of care. The DSMB includes experts with relevant clinical expertise and understanding of clinical trial methodology, and biostatistics.
+8 STATISTICAL CONSIDERATIONS 
+8.1 Sample Size and Randomization
+The primary aim is to estimate the effect of a 12-mo. weight loss intervention relative to control to determine if the intervention impacts relevant outcome variables, and if so to precisely quantify the observed effect. Sample size was estimated using simulation with regards to plasma NfL based on the observation that changes in this biomarker is an early marker of AD in adults with DS 8,98. A recent 2021 paper reported an annual change in NfL of 3% in asymptomatic non-progressive AD patients 99. Thus, we simulated annual data at baseline, 6 and 12 mos. assuming an average 3% annual increase in NfL for all participants in the control arm and an average change of 1.35% in the intervention arm which corresponds to a �small� Cohen�s h effect size of 0.12. We modeled the between arm difference in NfL using a linear mixed model with a random intercept for each participant; with a sample size of 81 (n= 54 intervention; n=27 control) and an estimated attrition rate of 20%.  With these assumptions we will be able to estimate the precision of the difference in the annualized increase in NfL with a 95% confidence interval of width 3%. Similar mixed models will be fit for all 7 outcomes variable categories to estimate the effects across all the domains of interest. A major concern with using estimated effects from pilot studies to power larger trials is that they are highly variable.  This sample size and approach will guarantee good precision for our estimates which is especially important considering that there are currently no data regarding clinically relevant changes to use for powering a larger trial. 
+8.1.1 Treatment Assignment Procedures
+Participants will be stratified by sex and age (18-30 vs. >30 yrs.) and sequentially computer randomized by the study statistician with 2:1 allocation to the weight loss or control arms. Participants residing in the same household will be randomized together. This randomization scheme was selected to include more participants in the weight loss arms which will allow for a larger sample size to assess the association of weight loss and changes in dietary intake with changes in biomarkers and cognitive function. Intervention assignments will be computer generated and delivered to the study coordinator prior to participant orientation sessions described below.
+8.2 Interim analyses and Stopping Rules
+No interim analysis of outcomes is planned. We believe this trial conveys minimal risk. Indeed, weight loss is desirable and may convey health benefits The most likely scenario indicating the need to stop the investigation would be a failure to recruit or deliver the intervention as planned. Another issue relating to stopping rules for this trial could include new information that might become available that would warrant stopping the trial, although this is a remote possibility. 
+8.3 Data Analyses
+Aim 1 and 2. We will assess plasma biomarkers related to Adm cardiometabolic biomarkers, cognitive function, energy and macronutrient intake and diet quality in the weight loss and control arm at baseline, 6a nd 12 mos. We will assess cerebral antioxidants and brain volume at baseline and 12 mos.  We will calculate the mean, standard deviation and 95% confidence intervals in both the intervention and control arms for each of these outcome variables at each time point, and for the change from baseline to each time point.  This descriptive information will be summarized graphically which will aid in determining if, and when, differences in outcome variables arise among and across the 2 intervention arms. Linear mixed models with an autoregressive correlation structure and a random intercept for each participant will be used to estimate the between arm effect size. The model will include a main effect for intervention arm, and time and an arm-by-time interaction. The point estimate and 95% confidence interval for the arm-by-time interaction evaluated at both 6 and 12 mos. will be used to estimate the between arm effect size. Mixed models will be adjusted for age, sex, race, MVPA, number of study participants living in the same household, intervention attendance, and intervention arm. Model fit will be assessed using diagnostic plots and alternative model formulations or transformations, when appropriate. No multiplicity adjustment will be conducted since no hypotheses will be tested.
+
+Aim 3. To determine the independent effects of weight loss or diet quality on changes in biomarkers related to AD (A? 42/40, pTau217 and NfL), cerebral antioxidants, brain volume, cardiometabolic biomarkers, and cognitive function we will conduct a set of nested likelihood ratio tests (LRT). The goal of this analysis is to determine if weight loss, diet quality or both should be targeted in future trials for the prevention of AD in adults with DS. 
+
+We will fit linear models with change in AD biomarkers as the response variables, given the early changes in A? 42/40 and NfL seen in adults with DS, and the following set of nested covariate models adjusted for age, and sex.  
+1. Full model (FM): Biomarkers = intervention arm + weight loss + diet quality
+2. Nested model 1 (NM1):� Biomarkers = arm+ weight loss
+3. Nested model 2 (NM2):� Biomarkers = arm + diet quality 
+4. Nested model 3 (NM3):� Biomarkers = arm 
+
+We will compare the FM with NM1 and NM2; the null hypothesis is that the more parsimonious model is correct. There are three scenarios that can occur: 
+
+1. We reject the null hypothesis in both comparisons.  This would imply that the full model (the change in both diet and weight loss) is superior for predicting the change in biomarkers relative to a model with only one of the covariates.  This outcome would imply that changes in both weight loss and diet would be required to elicit a change in the relevant biomarkers for a future trial. 
+2. We reject the null hypothesis in one of the comparisons.  This would imply there is no strong benefit to including both covariates.  For example, if we reject the comparison between NM1 and the FM, but not NM2 this would mean that weight loss alone is not sufficient to elicit changes in biomarkers, but diet alone is potentially sufficiently predictive of biomarker change.  This outcome would provide some evidence that a future intervention would only need to target a change in diet.
+3. We fail to reject the null in both comparisons. This would imply that the more parsimonious model in both situations should be chosen. We would then compare both NM1 and NM2 to NM3 which assumes that neither diet quality nor weight loss are predictive of changes in biomarkers.  If we rejected one or both comparisons, we would conclude that the covariate(s) in the higher nested model should be included in a future trial while if we failed to reject both comparisons, we would conclude that we have little evidence that either weight loss or diet leads to changes in biomarkers. 
+
+No adjustment for multiple testing will be conducted because rejection of any of the nested comparisons will imply that a change in a greater number of underlying covariates, e.g., weight loss and diet compared to weight loss alone are needed to elicit changes in biomarkers. This is the more conservative approach and will lead to pre-planned future interventions used both weight loss and diet unless one or both factors are clearly unrelated to our outcomes.  As an exploratory analysis, we will assess the association of weight loss and diet quality with changes in cerebral antioxidants and brain volume, and cognitive function. For each of these endpoints, we will conduct univariable analysis with one predictor at a time (weight loss or diet quality).
+
+9 DATA COLLECTION AND QUALITY ASSURANCE
+9.1 Data Management 
+Data will be entered into separate tables, e.g., weight, biomarkers, MRI etc., via the web using REDCap, housed behind a HIPAA compliant firewall. Dietary intake data will be managed and saved in NDSR and physical activity data files will be saved on the P drive. MRI data are transferred to and stored on a network server running XNAT (Extensible Neuroimaging Archive Toolkit), an open-source imaging informatics platform managed by KUMC�s Information Resources. The MRI scanner is networked to the XNAT server to provide storage and seamless transfer of data. All data will be linked by participant ID. Only de-identified data will be available to study personnel. Data will be checked for outliers and normalcy at logical time points. Outliers, i.e., >3 SD from the mean, will be re-checked and re-entered. Research assistants, blinded to intervention assignment, will complete outcome data entry. Research assistants unblinded to intervention arm will enter monthly health education data and participant self-reported weight. All personnel have current Human Subjects/HIPPA certificates.
+9.2 Quality Assurance 
+9.2.1 Fidelity
+All monthly participant/interventionist sessions in both the weight loss and control arms will be video recorded and 20% will be reviewed by study staff. The content delivered during each session will be compared with a checklist of scheduled content. Interventionists presenting < 80% of the scheduled content for any session will receive additional training and will be dismissed if the problem recurs.
+9.2.2 Protocol Deviations
+Protocol Deviations will be logged by health educators, research assistants, and study staff in the Redcap database. 
+9.2.3 Monitoring
+Informed consents will be reviewed by study staff quarterly to assure they were completed correctly. Data will be checked for outliers and normalcy at logical time points. Questionable data (e.g., >3 SD from the mean) will be re-checked and re-entered, if necessary. Feasibility data (retention, attendance, weight) will be reviewed monthly by the MPIs. KUMC IRB may conduct an audit during the study period.
+10 PARTICIPANT RIGHTS AND CONFIDENTIALITY 
+10.1 Institutional Review Board (IRB) Review
+This protocol and the informed consent document and any subsequent modifications will be reviewed and approved by the IRB or ethics committee responsible for oversight of the study.  The consent form should be separate from the protocol document. 
+10.2 Informed Consent Forms
+A signed consent form will be obtained from each participant.   For participants who cannot consent for themselves, such as those with a legal guardian (e.g. person with power of attorney), this individual must sign the consent form and the participant will sign an assent form. The consent form will describe the purpose of the study, the procedures to be followed, and the risks and benefits of participation. A copy will be given to each participant or legal guardian and this fact will be documented in the participant�s record. 
+10.3 Participant Confidentiality 
+All research data are maintained confidentially by numerical code in password-protected REDCap databases. All paper copies are filed by number in accordance with professional standards of privileged information. Confidentiality is strictly safeguarded by HIPAA-compliant standards. In the event that a participant revokes authorization to collect or use PHI, the investigator, by regulation, retains the ability to use all information collected prior to the revocation of participant authorization.
+10.4 Data Storage
+All data will be entered electronically into a clinical research database (REDCap) by study personnel.  Information contained in the database will be stored, used, and released for an indefinite time. Unidentified dietary and physical activity data will be stored on a protected drive on the University Server. Electronic data storage is managed on a secure server that has role-based access that is password protected.  All data will be stored in a HIPAA compliant manner. Data management will be coordinated by the MPIs and biostatics team.
+
+Blood samples will be stored locally for an indefinite time at the KUADRC biorepository. Sample tubes will be identified only by a code number and descriptive data (e.g. date of draw). Participants can withdraw consent for sample storage at any time and every effort will be made to identify and destroy the relevant samples. Participants will be made aware that de-identified samples already shared may not be able to be destroyed.
+
+MRI scans will be labeled with Study assigned Participant ID and scanner specific series descriptions. All imaging data will be coded using participant identifiers and checked centrally to confirm the absence of participant identifying information. MRI data will be stored on the Universities protected drive for an indefinite amount of time. 
+
+If a participant decides to withdraw from study participation, any identifiable research or medical information record for or resulting from participation in this research study prior to the date that the participant formally withdraws consent may continue to be used and disclosed by the investigators for research purposes. In fact, as this data is required to be made rapidly available to researchers outside of study PIs and co-investigators, it is possible that this data will have already been accessed and analyzed. 
+10.5 Data Sharing 
+Data from this research will be shared with other researchers pursuant to the 02/26/2003 �NIH Final Statement on Sharing Research Data� and pursuant to the 8/24/2014 �NIH Genomic Data Sharing Policy�.
+NIH believes that data sharing is important for further translation of research results into knowledge, products, and procedures to improve human health. The NIH endorses the sharing of final research data to serve these and other important scientific goals. To protect participants� rights and confidentiality, identifiers will be removed from the data before they are shared.
+
+Research biospecimens from consenting participants will be banked and may be shared with other researchers studying AD, aging, Down syndrome, or other health conditions to facilitate future research. Banking of these samples will permit qualified investigators to probe candidate biomarkers as predictors of outcomes in future studies. For these participants, a Global Unique Identifier (GUID) will be created through the National Institute on Aging (NIA) GUID portal for each participant and will be used to label the blood specimens obtained from the participants. The GUID is a universal subject ID allowing researchers to share data specific to a study participant without exposing personally identifiable information (PII) and match participants across labs and research data repositories. The following information will be obtained from the participants to create a GUID: first name, last name, middle name, date of birth, and city/municipality of birth. Additional information, including sex and a government issued ID may also be needed to create the GUID. 
+
+Additionally, data from this study will be shared with the INCLUDE Data Coordinating Center (INCLUDE DCC) which combines and maintains data from all INCLUDE funded research studies. This repository is under strict security provisions, including multiple firewalls, separate servers, and data encryption protocols. Investigators and their sponsoring institutions seeking access to data from the NIA-approved data repository must submit a data access request (that specifies both the data to which access is sought and the planned research use) and agree to the term of access set forth in the Data Use Certification.
+10.6 Study Discontinuation 
+The study may be discontinued at any time by the IRB, the NIA, the OHRP, the FDA, or other government agencies as part of their duties to ensure that research participants are protected. 

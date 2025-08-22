@@ -32,7 +32,7 @@ Remember: Your job is to help people understand this study so they can decide if
 export async function loadProtocolFromFile(filename) {
   try {
     // This would load from your public folder or a specific protocol file
-    const response = await fetch(`/protocols/${filename}`);
+    const response = await fetch(`./protocols/${filename}`);
     if (!response.ok) {
       throw new Error(`Failed to load protocol: ${response.statusText}`);
     }

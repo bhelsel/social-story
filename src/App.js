@@ -7,6 +7,7 @@ import PresentationDetailPage from "./pages/PresentationDetail";
 import StudiesPage from "./pages/Studies";
 import HomePage from "./pages/Home";
 import RootLayout from "./pages/Root";
+import ResearchProtocolChat from "./components/ChatMessages";
 
 const router = createHashRouter([
   {
@@ -41,6 +42,11 @@ const router = createHashRouter([
               {
                 path: "assessments",
                 element: <AssessmentDetailPage />,
+                errorElement: <ErrorPage />,
+              },
+              {
+                path: "chat",
+                element: <ResearchProtocolChat />,
                 errorElement: <ErrorPage />,
               },
             ],

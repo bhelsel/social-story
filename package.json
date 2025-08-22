@@ -2,6 +2,7 @@
   "name": "social-story",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://bhelsel.github.io/social-story/",
   "dependencies": {
     "@google/genai": "^1.15.0",
     "@google/generative-ai": "^0.24.1",

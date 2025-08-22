@@ -4,7 +4,7 @@
 const isDevelopment = process.env.NODE_ENV === "development";
 const NETLIFY_FUNCTION_URL = isDevelopment
   ? "http://localhost:8888/.netlify/functions/gemini"
-  : "/.netlify/functions/gemini";
+  : "https://ku-social-story.netlify.app/.netlify/functions/gemini";
 
 async function callGeminiAPI(prompt, model = "gemini-1.5-flash") {
   try {

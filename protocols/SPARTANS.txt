@@ -1,0 +1,275 @@
+University of Kansas Medical Center 
+
+Study Title: Assessment of Physical Activity for Alzheimer�s Disease Research in Down Syndrome
+Study Short Name: SPARTANS 
+Version date: July 12, 2023	
+Principal Investigator: Dr. Brian C. Helsel, PhD, CSCS
+Co- Investigator(s): Lauren Ptomey, Jeffrey Burns, Sigan Hartley, Richard Washburn, Jill Morris, Robert Montgomery
+
+
+I. Purpose, Background and Rationale
+
+A. Aim and Hypotheses 
+
+Alzheimer�s disease (AD) is the leading cause of death in adults with Down syndrome (DS) with >90% developing AD in their lifetime. The high prevalence of AD may be related to the abnormal accumulation of amyloid beta (A?) and tau proteins which occur 20-30 years earlier in adults with DS compared with the development of late-onset sporadic AD in typically developed adults. Data from typically developed adults suggest that sedentary behavior (SB) and low moderate-to-vigorous physical activity (MVPA) are associated with ~12% of AD. Current U.S. activity guidelines suggest that regular MVPA benefits brain health by improving cognition, reducing the risk of dementia, and reducing sleep disruptions which may contribute to ~15% of AD cases worldwide. To date, a limited number of trials have evaluated the association between physical activity (PA) intensity and AD in adults with DS due in part to a lack of validated objective measures of these outcomes in the DS population. Cut-points to assess PA intensity using the ActiGraph portable accelerometer worn at the waist, a widely used objective measure of PA in health-related research, have been developed for typically developed adults. However, biomechanical and physiological differences between typically developed adults and adults with DS suggest that ActiGraph intensity cut-points developed for typically developed adults may be inappropriate for use in adults with DS.
+
+We recently began the process of evaluating ActiGraph intensity cut-points for adults with DS by developing cut-points during treadmill walking (0% grade) using indirect calorimetry as the criterion measure of PA and comparing these cut-points with widely used intensity cut-points developed for typically developed adults as part of an NIH training award (TL1TR002368; KUMC IRB #0014757). Preliminary results in 23 participants suggest that the cut-point for MVPA is considerably lower than the MVPA cut-point for typically developed adults. Additionally, ActiGraph activity intensity cut-points developed during treadmill walking have been used to assess activity intensity during free-living activity. However, intensity cut-points developed using a specific activity (i.e., treadmill walking) reduces accuracy when used to estimate activity intensity in free-living individuals who perform a variety of upper and lower body ambulatory and non-ambulatory activities in daily life. Therefore, this K01 project will consist of 2 aims to 1) improve the measurement of PA intensity during daily life and 2) evaluate the impact of PA intensity and duration on cognitive function and other AD-related outcomes in adults with DS.
+
+Aim #1. Develop and validate free-living accelerometer activity intensity cut-points for sedentary, light, moderate, and vigorous activity. Adults with DS (n=32) will be allocated to a development or validation (75:25 ratio) sample. Intensity cut-points for sedentary (� 1.0 metabolic equivalents; METs), light (1.1-2.9 METs), moderate (3.0-6.0 METs), and vigorous (> 6.0 METs) activity will be developed for the ActiGraph GT9X Link using counts and gravitational units for triaxial accelerometers worn in 3 locations (non-dominant hip, both wrists). Activity intensity cut-points, developed using receiver operator characteristic curve analyses from accelerometer and activity intensity data measured via indirect calorimetry and collected during simulated free-living activities, will be validated by comparing predicted activity intensity to the criterion (indirect calorimetry).
+
+Aim #2. Explore the impact of SB, light PA, and MVPA on plasma biomarkers associated with AD, cognitive function, and sleep quality in adults with DS. We will conduct a secondary analysis of data collected from adults with DS participating in the NIH funded Alzheimer�s Biomarker Consortium - Down Syndrome (ABC-DS; U19 AG070043) and Dr. Sigan Hartley�s (co-mentor) Lifestyle and AD risk in DS project (R01 AG070028). Baseline activity data from 140 adults with DS assessed from wrist-worn ActiGraphs using the activity intensity cut-points developed in Aim #1 will be used to explore the association between SB, light PA, and MVPA and plasma biomarkers associated with AD, cognitive function, and sleep quality.
+
+B. Background and Significance
+
+Down syndrome and Alzheimer�s disease. Down syndrome (DS) is the most common chromosomal condition in the United States affecting 6,000 (1 in every 700) newborns each year and the prevalence of those living with DS has increased from 50,000 to 270,000 in the past 70 years.[1] The lifetime risk of dementia in adults with DS is greater than 90%[2, 3] and DS is recognized as a form of genetically determined Alzheimer�s disease (AD).[4] High rates of AD in adults with DS is thought to be the result of an overproduction of amyloid beta (A?) from the additional copy of the A? precursor protein gene found on chromosome 21.[5] The accumulation of A? in adults with DS is thought to play a role in oxidative stress, plaque deposition, and neurodegeneration leading to AD-like neuropathology 20-30 years earlier as compared to typically developed (TD) adults.[6-8] AD and its complications are the leading cause of death for adults with DS[2, 3] with an average age at onset of ~54 years and disease duration of ~5 years.[9] 
+
+Lifestyle risk of AD in adults without DS. The promotion of lifestyle changes, such as reducing sedentary behavior (SB), increasing physical activity (PA), and reducing sleep disruptions, may delay one-third of dementias worldwide.[10] For example, physical inactivity is associated with ~12% (95% CI: 11.7-11.9%) of AD cases in the United States [11] leading to 1.1 million (95% CI: 0.31-1.9 million) attributable cases of AD per year.[12] The 2018 PA Guidelines for Americans recommend that all adults participate in 150 min./week of moderate-to-vigorous physical activity (MVPA) for general health and to benefit brain health by reducing the risk of dementia, improving cognition, and enhancing sleep quality.[13-16] In TD adults, participating in leisure-time PA across the lifespan has been linked to increased volume for the whole brain,[17] prefrontal cortex,[18] and hippocampus;[19] improvements in cerebral perfusion, neurogenesis, and synaptogenesis; and a reduction in neuronal loss, A? accumulation, and tau phosphorylation.[20] Prospective studies suggest that even light to moderate intensity PA can decrease the risk of dementia and AD by 40-50%.[14-16] Additionally, ~15% of AD may be prevented using interventions (e.g., increased PA, cognitive behavioral therapy) that aim to reduce sleep problems and disorders.[21] Evidence suggests that sleep loss may contribute to cognitive decline and AD neuropathology through two physiological mechanisms: 1) an increase in neuronal activity during sleep loss can promote A? production, and 2) the brain can more effectively clear A? and other metabolic waste during undistributed sleep.[22] Sleep disruptions are also associated with increased oxidative stress, alterations in glucose homeostasis, decreased neuron connectivity, gray matter abnormalities, and cognitive impairment in TD adults.[23-25]
+
+Lifestyle risk of AD in adults with DS. Less is known about the association between lifestyle factors (i.e., SB, PA, and sleep) and AD in adults with DS who are under-represented in epidemiological studies and health promotion strategies. We are only aware of 2 previous studies which have described the impact of accelerometer-measured PA on cognition and AD risk in adults with DS. These studies suggest that PA may be associated with increased cognitive function in adults with DS. For example, Fleming et al. [26] reported that percent of time spent in MVPA was significantly correlated with 8 out of 9 cognitive outcomes used in Alzheimer�s Biomarker Consortium � Down Syndrome (ABC-DS) cognitive battery, but no associations between MVPA and A? or Tau were observed.[27] Another study by Peven et al. [28] found that greater engagement in PA, including average daily steps, was associated with better memory function but not increased hippocampal volume. However, the authors from these studies recognized a lack of DS-specific PA measurement as a limitation of their study.[26, 28] While not looking at specific AD biomarkers, a study by Pape et al. [29] followed 214 adults with DS across 12 months and observed that increased self-reported MVPA at baseline was associated with a 62% reduced risk of decline in memory and orientation at 12 months. Additionally, despite the high prevalence of sleep disorders in children[30] and adults[31] with DS, only a few studies have examined the impact sleep disturbances on cognitive function and AD risk in adults with DS. For example, one study found that the average length of nighttime awakenings measured by actigraphy were positively associated with striatal A? and decreased executive functioning, motor planning, and coordination in non-demented adults with DS between the ages of 26 and 56 years.[32] Other studies reported a negative association between sleep disturbances and white matter integrity and a greater amyloid burden with obstructive sleep apnea.[33, 34] Thus, research to assess the association of lifestyle factors on cognitive function and the development of AD in adults with DS is warranted.
+
+PA measurement limitations in adults with DS. Currently, studies are reporting a high prevalence of physical inactivity in adults with DS who acquire fewer steps[35] at a lower walking intensity[36] than those with other intellectual disabilities. Additionally, only 9% of adults with intellectual disabilities,[37] compared with ~52% of TD adults,[38] are achieving the 150 min./week of MVPA as recommended by the Physical Activity Guidelines for Americans.[13] Accurate measurement is critical for population-based PA surveillance and clinical trials aiming to elucidate PA-related health benefits,[39, 40] but there are currently no validated measures for assessing PA for adults with DS.[41] Self-report questionnaires are the most used technique for assessing MVPA in TD adults, but limitations in cognitive ability make the use of self-report techniques impractical for adults with DS. Portable accelerometers are widely used for assessing free-living PA in health-related research and wrist-worn ActiGraph accelerometers are currently used to estimate MVPA in the United States population via the National Health and Nutrition Examination Survey.[40] Raw data from both single axis and triaxial accelerometers are aggregated and expressed as activity counts for a specified time frame to represent PA intensity. Calibration studies are conducted to develop accelerometer cut-points associated with activity energy expenditure in metabolic equivalents (METs) to categorize PA intensity.[42] Cut-points differ based on activity intensity (i.e., sedentary behavior (SB), light PA (LPA), MVPA), wear location (e.g., hip or wrist), age of the participant (e.g., child, adult), and accelerometer axes (i.e., vertical axis or vector magnitude) considered[43] and are commonly validated against physiological data (e.g., energy expenditure measured by indirect calorimetry) of the population for which they are developed.[44, 45] However, activity intensity cut-points have not been established for adults with DS using either hip- or wrist-worn accelerometers.[41, 46] Studies often report PA for adults with DS by applying vertical axis cut-points developed for TD adults,[47-49] but this can be problematic because adults with DS have biomechanical (e.g., gait instability associated with greater step width variation and contraction of antagonistic muscles resulting in increased energetic costs) and physiological (e.g., hypotonia resulting in decreased resting energy expenditure) differences that may alter the relationship between energy expenditure and accelerometer output.[50] Additionally, uniaxial data from the vertical axis may underestimate PA levels in adults with DS since triaxial data provides better estimates of oxygen consumption.[51-53] Despite the uncertainty surrounding the accuracy of accelerometers in adults with DS, their use to capture free-living PA is preferred over direct observation�an expensive and time-consuming alternative.
+
+C. Rationale
+
+In July of 2021, I was awarded a training grant (TL1TR002368; KUMC IRB #0014757) to begin the development of ActiGraph measured PA intensity cut-points for adults with DS. ActiGraphs are among the most widely used accelerometers and their published count algorithm[54] and ability to export raw acceleration signals increase the transferability of the cut-points across manufacturers.[55-57] We are measuring PA intensity in METs using indirect calorimetry during lab-based treadmill walking in adults with DS who are wearing an ActiGraph GT3X-BT on the non-dominant hip and both wrists. The walking protocol is similar to the calibration study by Freedson et al. [42] in TD adults except that the treadmill starts at half speed (i.e., 1.5 mph vs. 3 mph) and increases in 0.5 mph increments. Preliminary results in 23 participants suggest a considerably lower MVPA cut-point when compared to the commonly used typically developed adult cut-points. Lower cut-points calibrated against direct observation have been observed for individuals with ID. For example, the McGarty et al. [58] vertical axis moderate intensity cut-point (1008 counts/min.) established for children with ID is much lower than the frequently used Freedson et al. [42] (1952 counts/min.) and Troiano et al. [40] (2020 counts/min.) cut-points for TD adults. These initial results suggest that we may be vastly underestimating PA levels in adults with DS. However, intensity cut-points developed using a specific activity (i.e., treadmill walking) reduces accuracy when used to estimate activity intensity in free-living individuals who perform a variety of upper and lower body ambulatory and non-ambulatory activities in daily life. Thus, using a free-living calibration protocol will allow us to 1) develop and validate cut-points for activities more likely to be performed by adults with DS (e.g., overground walking, ascending/descending stairs, household chores) and 2) create cut-points that also discriminate between SB and LPA. The development of the free-living cut-points will provide a more accurate measure that will be used to assess the impact of PA intensity and duration on cognitive function and other AD-related outcomes in adults with DS.
+
+II. Research Plan and Design
+
+A. Study Objectives: The objectives of this study are to 1) develop and validate free-living activity intensity cut-points using ActiGraph wearable devices on the non-dominant hip and both wrists and 2) apply the newly developed cut-points to assess the impact of sedentary behavior and physical activity on cognition and AD-related biomarkers in adults with DS. 
+B. Study Type and Design: This study will use a cross-sectional design to accomplish the study objectives and there will be no randomization. For the first objective/aim of the study, adults with DS will be asked to visit KUMC for 2-3 hours during a morning visit. Height and weight will be measured and followed by an assessment of resting energy expenditure (REE). Individuals with DS will be asked to complete a simulated free-living activity protocol that includes activities in different categories (i.e., sedentary, household/chore, and ambulatory/exercise) and intensities (sedentary, light, moderate, and vigorous) during the simultaneous assessment of exercise intensity (COSMED K5) and movement (ActiGraph GT9X Link accelerometers). The second objective/aim will use a secondary analysis of baseline data collected from adults with DS who participated in the NIH-funded Alzheimer�s Biomarker Consortium � Down Syndrome study (ABC-DS; U19 AG070043) and Dr. Sigan Hartley�s (co-mentor) Lifestyle and AD risk in DS project (n = 140; R01 AG072973)
+
+C. Sample size, statistical methods, and power calculation
+
+1. No randomization will be used. Statistical methods are described below in detail in Section V: Data Analysis and Reporting.�
+�
+2. Blinding or masking: There will be no blinding (masking) involved in this study.�
+�
+3. Subjects to be enrolled: This first aim of the study will recruit 32 adults with DS to participate in the measurement of resting energy expenditure and the simulated free-living protocol. The second aim will use 140 adults with DS from the ABC-DS study. No power calculations were performed for this study.�
+
+
+D. Subject Criteria (See Vulnerable Populations appendix, if applicable): 
+
+1. Inclusion criteria: 
+
+Aim #1: Inclusion criteria 1) diagnosis of DS verified by a physician with a physician consent for participation in physical activity; 2) age ��18 years; 3) functional ability sufficient to understand directions and communicate through spoken language; and 4) the ability to participate in MVPA. 
+
+Aim #2: Inclusion criteria 1) diagnosis of DS confirmed via genetic testing; 2) age � 25 years; 3) having a mental age � 30 months; 4) no conditions contraindicating brain imaging scans (e.g., pregnancy, metal in the body, or claustrophobia); and 5) no untreated medical of psychiatric conditions that alter cognitive functioning.
+
+2. Exclusion criteria:
+
+Aim #1: Exclusion criteria 1) unable to participate in MVPA; and 2) unable or unwilling to be underneath the canopy for the REE or wear the mask during the simulated free-living activity protocol.
+
+Aim #2: Exclusion criteria 1) not meeting the inclusion criteria; and 2) uninterested.
+
+3. Withdrawal/Termination criteria: The simulated free-living protocol will be terminated early if the participant asks to stop or the study team identifies an exercise contraindication that would make it unsafe to continue the protocol.
+
+4. Participation in other research: Subjects may participate in another research study while participating in this pilot trial.�
+
+E.  Specific methods and techniques used throughout the study.
+
+1. Laboratory tests: N/A
+
+2. Study Procedures: 
+
+Aim #1: All outcomes will be assessed at KUMC. Our experience with similar studies suggests these assessments (i.e., REE and the simulated free-living protocol) will require 2-3 hours to complete. All of the assessments will be completed on the same day by trained staff who will receive refresher training and complete reliability assessments for all physical measures 2-3 times per year.
+
+Anthropometrics: Height and weight will be used to characterize the study sample. Standing height will be assessed to the nearest centimeter with a portable stadiometer (Model #IP0955, Invicta Plastics Limited, Leicester, UK). Weight will be assessed to the nearest 0.1 kg with a calibrated scale (Model #PS6600, Belfour, Saukville, WI). Height and weight measurements will be assessed in duplicate with the average values used to calculate body mass index (kg/m2).
+
+Resting Energy Expenditure (REE) needs to be assessed to calculate activity energy expenditure in METs due to the lower REE (~20%) observed in adults with DS compared to TD adults.[59, 60] For example, the average REE (i.e., 1 MET) was 2.42 ml/kg/min in the 15 adults with DS assessed in the TL1TR002368 project which is ~30% lower than the 3.5 ml/kg/min used to define 1 MET in TD adults. The REE will be assessed by indirect calorimetry with a ventilated canopy (ParvoMedics TrueOne 2400 Metabolic System, ParvoMedics Inc., Sandy, UT) over a minimum of 20 minutes following 15-20 minutes of rest in a quiet, isolated temperature-controlled room (20�C to 25�C).[61] REE will be averaged over 5 minutes of steady state data defined as � 15% variation in the minute-to-minute ventilation, oxygen consumption, and respiratory quotient. The ParvoMedics system will be calibrated with standard gases according to the manufacturer�s instructions one-hour prior to testing.  
+
+Accelerometers: The ActiGraph provides valid and reliable assessments of PA in TD adults.[62-64] and has been used to describe PA levels in adults with DS.[47, 49, 65] Our group[66-69] and other researchers[47, 49, 65] have used the ActiGraph in previous trials to describe the PA levels of adults with DS using MVPA cut-points for TD adults. However, preliminary results from the 15 participants who have enrolled in TL1TR002368 suggest that the cut-point for MVPA is ~50% lower than the MVPA cut-point for TD adults. ActiGraphs will be worn on a belt at the anterior axillary line of the non-dominant hip and on the non-dominant and dominant wrist during the simulated free-living activity protocol. The non-dominant wrist will be identified using the Edinburgh Handedness Inventory[70] and the non-dominant hip will be considered to be on the same side as the non-dominant wrist. ActiGraphs are traditionally worn on a belt at the waist. Some investigators have observed poor compliance with waist-worn ActiGraphs. The use of wrist-worn ActiGraphs has been suggested to improve compliance; however, the development of PA intensity cut-points for wrist-worn accelerometers for use in TD adults is in its infancy and non-existent in adults with DS. Thus, we chose to use both hip and wrist sites for this study.[71, 72] ActiGraph accelerometers will be initialized and downloaded using ActiLife Software version 6.13.3 or higher (ActiGraph Corp., Pensacola, FL) and set to collect in the raw data mode from all 3 axes at 100 Hz. ActiGraph data will be processed (see analysis below) using a custom R program developed by our research group.
+			
+Free-living activity protocol: Adults with DS will participate in a lab-based simulated free-living protocol that will require ~1.5-2 hours to complete. This protocol was modified from the methods described by Montoye et al. [73, 74] for the development of free-living intensity cut-points in TD adults. The simulated free-living protocol will include 19 activities from 3 categories including sedentary, household/chore, and ambulatory/exercise (Table 1). To simulate the autonomy involved in normal daily activity selection, participants will choose the activity type and order; however, selection of � 12 of the 19 activities with � 4 activities in each activity category will be required. Participants will be asked to perform each activity for 6-8 minutes in duration and steady state will be defined as the final 4 minutes of each activity. All activities will be video recorded and include a time stamp to assist with matching the start and end times of each activity between the ActiGraph and indirect calorimeter. 
+Table 1: Activities for the simulated free-living protocol
+Activity
+Category
+*Intensity
+1. Lying down
+Sedentary
+SED
+2. Computer use
+Sedentary
+SED
+3. Watching television
+Sedentary
+SED
+4. Writing
+Sedentary
+SED
+5. Playing cards
+Sedentary
+SED
+6. Reading
+Sedentary
+SED
+7. Dusting
+Household/Chore
+LPA
+8. Making a bed
+Household/Chore
+LPA
+9. Folding laundry
+Household/Chore
+LPA
+10. Sweeping
+Household/Chore
+LPA
+11. Vacuuming
+Household/Chore
+LPA
+12. Simulated Gardening
+Household/Chore
+LPA
+13. Picking up light (< 1kg) items
+Household/Chore
+MPA
+14. Standing
+Ambulatory/Exercise
+LPA
+15. Slow overground walking
+Ambulatory/Exercise
+LPA; MPA
+16. Brisk overground walking
+Ambulatory/Exercise
+MPA
+17. Stair climbing/descending
+Ambulatory/Exercise
+VPA
+18. Overground jogging
+Ambulatory/Exercise
+VPA
+19. Ascending/descending an incline
+Ambulatory/Exercise
+VPA
+*Intensity: SED: Sedentary; LPA: Light Physical Activity; MPA: Moderate Physical Activity; VPA: Vigorous Physical Activity
+
+Activity energy expenditure (AEE) will be assessed during each simulated free-living activity from O2 and CO2 sampled at 60 Hz using a COSMED K5 (COSMEDs.rl, Rome, Italy) portable indirect calorimeter. The COSMED K5 has been validated against a stationary metabolic cart[75, 76] and has been used successfully by our group for the assessment of AEE in adults with DS (AG063909). Average minute-to-minute ventilation (L/min), oxygen consumption (ml/kg/min), and respiratory quotient will be reported for each activity. METs will be calculated by dividing the mean steady state oxygen uptake values for each activity by each participant�s measured REE.
+
+Aim #2: We will conduct a secondary analysis of baseline data collected from adults with DS who participated in the NIH-funded ABC-DS study (U19 AG070043) and Dr. Hartley�s Lifestyle and AD risk in DS project (n = 140; R01 AG072973). Participants completed comprehensive assessments including clinical and genetic data, plasma biomarkers, a cognitive battery, and anthropometrics. Adults with DS also wore an ActiGraph GT9X Link triaxial accelerometer for 7 days on their non-dominant wrist to determine daily minutes of PA and sleep outcomes. This data will be used to examine the impact of SB, LPA, and MVPA on plasma biomarkers associated with AD, cognitive function, and sleep quality in adults with DS using the PA intensity cut-points for the non-dominant wrist developed in aim 1 of this K01 award.
+
+Dementia status. As part of ABC-DS study, a review of medical history, neurological examination, caregiver report of functioning, and performance on a cognitive battery are used during a case consensus process to determine dementia status. Team members are blind to imaging and biofluid data. Participants are classified into one of four groups following the American Association on Intellectual and Developmental Disabilities recommendations:[77] cognitively stable (i.e., no cognitive or functional decline beyond normal aging), mild cognitive impairment (i.e., some cognitive and/or functional decline greater than healthy aging but less than dementia), dementia (i.e., marked cognitive and functional decline, disorientation), and unable to determine (i.e., unclear pattern and/or evidence of cognitive and functional decline but psychiatric or medical conditions or recent life events that complicate understanding of the etiology of decline).
+
+Cognition was assessed using the cognitive battery developed by the ABC-DS study,[27] which includes DS-specific cognitive outcomes that provide the strongest evidence for defining different stages of dementia. These include the DS Mental Status Exam (DS-MSE),[78] the modified Cued Recall Task (mCRT),[79] Kaufman Brief Intelligent Test (KBIT-2),[80] Rapid Assessment for Developmental Disabilities-Guesters,[81] Stroop Dog and Cat,[82] The Purdue Pegboard,[83] Categorical/Verbal Fluency,[84, 85] Beery Buktenica Developmental Test of Visual Motor Integration (VMI),[86] Block Design and Extended Block Design,[87, 88] and the Tinetti Assessment Tool: Gait.[89] 
+
+Plasma biomarkers include those that are part of the ABC-DS baseline visit and shown to be associated with AD in DS including plasma amyloid beta 42 (A?42) and amyloid beta 40 (A?40) to determine A?42/40 ratio, phosphorylated Tau (pTau181), Neurofilament light (NfL), and glial fibrillary acid protein (GFAP). Decreased plasma A? 42/40 ratio is common in AD and DS.[90] It is also predictive of cerebral amyloidosis in cognitively normal older adults[91] and can distinguish AD from non-AD pathology.[92] Plasma pTau181, one of the most sensitive biomarkers of AD,[93] is elevated with brain neuroimaging markers of tau pathology and AD severity.[94, 95] Recently, pTau181 has been shown to detect AD in adults with DS through correlations with brain atrophy and hypometabolism in temporoparietal brain regions.[96] NfL is released into blood circulation during axonal distress and degeneration.[97] Plasma NfL is associated with cerebrospinal fluid markers of axonal injury, brain hypometabolism, and cognitive decline[98] and may be useful for identifying AD in adults with DS.[99] GFAP is essential for astrocyte function and is associated with white matter hyperintensities, thus showing relevance in processes such as astrogliosis.[100] It is also elevated in the plasma of individuals with AD. Additionally, karyotyping is performed to provide apolipoprotein E (APOE) allele status and type of DS (i.e., full trisomy, mosaic, or translocation).
+
+Sedentary behavior, physical activity, and sleep is measured using the ActiGraph GT9X Link (ActiGraph LLC, Pensacola, FL). The ActiGraph is being worn on the non-dominant wrist over a 7-day period and collecting data at 30 Hz. Aggregated data over 5-second epochs will be used to calculate daily minutes of SB, LPA, MVPA, and sleep with the R GGIR package version 2.4-0 or later.[56, 101-105] GGIR detects non-wear using the van Hees et al. [56] algorithm which applies non-wear to 60-minute overlapping time windows (i.e., 15-minute step, 45-minute window overlap) with a standard deviation of <13.0 milli-gravitational units (mg; 1 mg = 0.00981 m/s2) and a value range <50 mg from at least 2 out of 3 axes. Sleep quality (i.e., total sleep time, the length and number of awakenings, sleep efficiency, and the sleep fragmentation index) will be processed using the van Hees et al. [104] sleep detection algorithm. Sleep studies using portable accelerometers often rely on a lack of body movement to describe sleep outcomes, but distinguishing between sleep and wakefulness is complicated by the possibility of minor body movements during sleep[106] (e.g., periodic limb movement is common during sleep for adults with DS[107, 108]) and the absence of body movement during periods of quiet restfulness.[108] Thus, the van Hees et al. [104] sleep detection algorithm identifies periods of time where the z-angle of the ActiGraph accelerometer does not change by greater than 5 degrees for at least 5 minutes. This protocol was found to be comparable with other sleep detection algorithms validated in TD adults[109] even when a sleep diary was not used.[105] Sedentary time and PA will be determined using the activity intensity cut-points validated for adults with DS as part of aim 1 of this K01 award. These cut-points will be applied to estimate daily minutes of SB, LPA, and MVPA outside of the sleep period.
+
+
+3. Research vs. Standard Care: All tests and visits for this study will be performed solely for research purposes and are not a part of usual standard care for adults with DS.
+
+4. Body components used in the study: N/A
+
+5. Timeline: The study timeline includes 3 years for aim #1 and 2 years for aim #2. We will recruit 10-12 adults with DS over the first 3 years of the study to develop and validate free-living ActiGraph activity intensity cut-points. The secondary analysis for aim #2 will occur over the final 2 years of the K01 award.
+
+F. Risk/benefit assessment:  
+
+1. Physical risk�
+�
+Injury during physical activity: There is a chance for physical injury during physical activity such as muscle and joint sprains or strains, muscle cramps, and inflammation. These risks will be monitored and minimized by conducting a warm up before the simulated free-living protocol and giving rest periods between activities if needed.
+�
+2. Psychological risk��
+�
+Feeling uncomfortable when wearing a mask during exercise: Participants will be asked to wear a mask during the simulated free-living activity protocol in order for VO2 to be measured. This may cause some participants to feel uncomfortable, especially if they have never participated in a study that required this type of mask. To lessen this risk, participants will try out the mask before participating in the free-living activities and be allowed to remove the mask for a few minutes between activities if needed.
+��
+3. Social risk: N/A�
+�
+4. Economic risk: N/A�
+�
+5. Potential benefit of participating in the study
+�
+a. Individual subject: The benefits to the individual participant include the well-established acute benefits of physical activity, including short-term thinking or cognition improvements and being in a better mood. The participants may also have conversations with the research team about why it is important to participate in physical activity and how to get started.�
+
+b. Population: The information learned from this study will help our understanding of how to objectively classify physical activity in adults with DS, which may provide targeted interventions in future studies that aim to increase physical activity in this population and provide the long-term benefits of physical activity such as improved cardiovascular fitness and increased muscular endurance. It will also help us understand the impact that physical activity may have on cognition and plasma biomarkers of AD in adults with DS.
+
+c. Science: The results of this study will offer an opportunity for future research to examine the relationship between physical activity and brain health in adults with DS while providing more confidence in the accurate estimation of physical activity.�
+
+G. Location where study will be performed: All study activities will be performed at the Division of Physical Activity and Weight Management or the Clinical and Translational Science Unit (CTSU) at KUMC. Research records for online data will be kept in a secure HIPAA compliant database (i.e., REDCap). Paper records will be stored in a locked office in Suite 2210 at KUMC Fairway North (4330 Shawnee Mission Parkway Fairway, KS 66205) where the principal investigator has an office.
+H. Collaboration (with another institution, if applicable): N/A
+I. Single IRB Review for a Multi-site study (if applicable): N/A
+
+J. Community-Based Participatory Research (if applicable): N/A
+
+K. Personnel who will conduct the study: Study tasks will be delegated by the PI according to staff qualifications and scope of practice.
+
+L. Assessment of Subject Safety and Development of a Data and Safety Monitoring Plan
+
+An adverse event (AE) is any unfavorable medical occurrence in a human subject participant including any abnormal sign, symptom, or disease that is temporally associated with the participants� involvement in the research even if it is not considered related to the participation in the study. Signs and symptoms that are consistent with normal exercise including work-related dyspnea, fatigue, sweating, or light soreness or muscles will not be considered AEs. A serious adverse event (SAE) is defined as any adverse event that results in death, a life-threatening event, inpatient hospitalization, or a permanent disability.�
+�
+AEs and SAEs will be tracked by the research assistant, study coordinator, or principal investigator for each individual session. These events will be tracked on an adverse event form in REDCap and will include any events that occurred during or after the simulated free-living activity protocol. Each reported event will be documented if it meets the criteria for an AE or SAE. Documentation will include a description of the event, when and how it happened, and any documentation to determine event severity and relatedness to the research study. Follow-up for each occurrence will be initiated by the study team and continued until the event is resolved. The principal investigator for the study will review and evaluate adverse events within 72 hours and a summary of these events can be provided to the IRB on an annual basis. Deaths will be reported within 24 hours and unanticipated SAEs will be reported within 48 hours to the IRB. All other SAEs will be reported semi-annually.�
+�
+Muscular or joint-related injuries and cardiovascular events due to vigorous physical activity are the primary risks for this study, but this risk is attenuated with prior physician consent. This risk is also minimized by the short duration of the free-living activities (i.e., 6-8 minutes) with rest periods if needed. The data safety monitoring plan will include close monitoring of each participant during the free-living activity protocol by the research assistant and principal investigator who each have over 5 years of exercise testing experience in special populations, including those with Down syndrome. The principal investigator will be responsible for the immediate reporting of excessive or serious events to the IRB at The University of Kansas Medical Center. Safety reports will be compiled by the principal investigator throughout the study and the frequency of data review will differ based on the type and availability of the data collected and the perceived risk level. Data review will also include quarterly review of subject accrual (e.g., demographics, inclusion/exclusion) and compliance to the protocol; monthly review of adverse event rates; and semi-annual review of the stopping rules.�
+
+
+III. Subject Participation
+
+A. Recruitment:
+
+The KU ADRC�s Outreach and Recruitment Core and the KUMC Division of Physical Activity and Weight Management (DPAWM) will recruit participants for aim #1 of this study. The Core has recruited more than 2,000 participants, including adults with DS, for funded trials since its inception in 2004 and has a recently published description of their recruitment model.[110] The KU ADRC has experience recruiting individuals with DS as one of the study sites for the Longitudinal Investigation for the Enhancement of Down Syndrome Research (LIFE-DSR) project funded by the LUMIND Down Syndrome Foundation[111] and recruiting for a recently developed DS cohort. The KUMC DPAWM research team has successfully recruited large samples of adults with intellectual disabilities (ID), including DS, for 2 weight management trials (n=149, DK83539[66]; n=120, DK114121[67]), a pilot trial (n=30[68]), and 82 adults with DS for a currently funded intervention to increase PA in adults with DS (AG063909[69]). We will use recruitment strategies that have been successfully employed in previous trials including phone calls, email, and mail contact as well as in-person and Zoom� presentations to local community partners serving adults with DS, such as Special Olympics and Down Syndrome Innovations, who will distribute study information within their networks.
+
+B. Screening Interview/questionnaire: 
+Screening for potential study participants for aim #1 will be done using an interest and eligibility questionnaire (IEQ). The IEQ will have relevant qualification criteria based on the inclusion criteria for the study. It will have contact information for potential study participants to allow the study coordinator to reach the parent, legal guardian, or caregiver of the adult with DS. A REDCap link to the IEQ will be distributed on the flyer and data will be stored in the secure, HIPAA-compliant database. Potential participants who meet the eligibility criteria for the research study will be contacted to review the study and the informed consent. The questions that will be used in the IEQ are submitted as part of this IRB application.
+C. Informed consent process and timing of obtaining of consent:
+
+The PI or designated research staff will obtain informed consent following the ADRC�s standard operating procedure. The consent process for participants with known or suspected cognitive impairment includes an assessment of the capacity to provide consent for oneself. If the participant does not demonstrate capacity to consent, written consent will be obtained from the proper surrogate decision-maker, following Kansas law for DPOA and next-of-kin.  In these instances, the participant�s assent will be obtained and documented as well.
+
+Each ADRC team member qualified to consent has training on the ADRC SOP regarding consenting participants with impaired decision making and will follow the guidelines in the ADRC SOP Consenting Cognitively Impaired Participants to determine if subject is capable of consenting. In addition, the team members have experience consenting individuals with either DS or dementia or AD previously and the PI of this study has a decade of experience working with individuals with Down Syndrome and other intellectual disabilities.
+
+Remote video chat sessions (Zoom) will be scheduled with participants and their legal guardian deemed to be initially eligible to describe the project in detail, answer questions, verify eligibility, and to obtain consent and assent. Prior to the consenting session, the participant will be sent the consent form and cover letter through KUMC secure email system. The study team will use the �share screen� option on Zoom to walk through each section of the consent document while noting questions that arise and answering these questions fully. Participants who are willing to participate in the study will sign and date the consent and/or\
+ assent forms electronically via REDCap. The study team member who conducted the consent meeting will also sign and date after reviewing the signed consent forms and verifying completeness. Study staff will provide the participant with a full-signed consent form for their records. Participants will be required to obtain medical clearance from a medical provider prior to participating in the study.
+D. Alternatives to Participation: Participants may join other fitness and physical activity studies at The University of Kansas Alzheimer�s Disease Research Center.
+E. Costs to Subjects: There will be no costs to the participant or their family for this study.
+F. How new information will be conveyed to the study subject and how it will be documented: New information will be told to the participants before, during, or after their participation in the study by email that will be sent to all participants and their parents, legal guardians, or caregivers.
+G. Payment, including a prorated plan for payment: Adults with DS will receive $50 for the completion of assessments described for aim #1 (i.e., height, weight, REE, and the free-living activity protocol) on a university issued Clincard. Travel costs to KUMC will not be directly reimbursed.�
+H. Payment for a research-related injury: There will be no payment for a research-related injury.
+IV. Data Collection and Protection
+
+A. Data Management and Security: 
+
+1. This study will use a REDCap database for data management. Paper copies from the free-living activity protocol will be stored in a locked file cabinet inside a locked office that is only accessible by authorized study personnel.
+
+2. Data access: Only the study team at The University of Kansas Medical Center (i.e., principal investigator, co-investigators, study coordinator, and research assistant) will have access to the study folder and REDCap database.
+
+B. Sample / Specimen Collection: N/A 
+C. Tissue Banking Considerations: N/A
+D. Procedures to protect subject confidentiality: 
+Confidentiality for participants may be at risk during data collection, entry, and storage. However, we will use a secure, HIPAA compliant system (i.e., REDCap) to serve as the study database to store all of the demographic information that may lead to subject identification. We will store any electronic information that is unable to be collected via REDCap on the KUMC protected drive. All paper records will be kept in a locked file cabinet and information will not be released without written permission of the participant, except as necessary for monitoring by The University of Kansas Medical Center�s institutional review board.
+E. Quality Assurance / Monitoring
+
+To assure that the data collected are accurate, consistent, complete, and reliable, the research assistant collecting the data will receive a refresher training and complete reliability assessments for all physical measures 2-3 times throughout the year. This will also include a review of the free-living activity protocol and training on the ParvoMedics TrueOne 2400 Metabolic System. The same research assistant will be used for the data collection for all participants in the study. Data entered into REDCap by the study coordinator or research assistant will undergo data validation checks for a minimum of 40% (N=13) of the study participants by the principal investigator. The principal investigator will also be on site to monitor each of the assessments and these sessions will be recorded and reviewed to assure protocol adherence and the high-quality collection of data.
+
+V. Data Analysis and Reporting
+
+A. Statistical and Data Analysis:
+Aim #1: Counts (i.e., vertical axis, vector magnitude) and gravitational units will be aggregated over 5-second epochs during each activity for both the hip- and wrist-worn accelerometers. This epoch length has been sufficient in past research for differentiating between physical activity intensities.[112, 113] Euclidean Norm Minus One (ENMO)[56, 103] and Mean Amplitude Deviation (MAD)[57, 113] will be used to calculate movement in gravitational units. These metrics remove the static acceleration (i.e., gravity) from the acceleration signal to find an estimate of movement intensity. ENMO estimates movement intensity by subtracting 1 gravitational unit (1,000 milli-gravitational units) from the vector magnitude and MAD subtracts the mean vector magnitude within the time period of interest (i.e., 5-seconds) from the actual vector magnitude before averaging the values from across the time period. Previous research suggests that the variability of raw acceleration signals (i.e., standard deviation or variance) in short epochs (e.g., 1-5 seconds) removes gravity and provides a summary measure of movement intensity.[55, 114] Negative ENMO values are rounded to zero to reduce bias or error and both metrics perform similarly.[113] Participants will be randomly divided into a development (n=24) and validation (n=8) dataset using a 75:25 ratio and receiver operator characteristic (ROC) curve analyses will be performed to determine optimal intensity-based cut-points using the following procedures: 
+
+1. VO2 values from the COSMED K5 will be converted to METs using each participant�s REE and classified as sedentary (� 1.0 MET), light (1.1-2.9 METs), moderate (MPA; 3.0-6.0 METs) and vigorous (VPA; > 6.0 METs) PA intensity. This will be the criterion measure of activity intensity.
+2. Dichotomous variables will be created in the development sample (n = 24) to describe the transition between each intensity with limits set at 1.1, 3.0, and 6.0 METs. The outcome is considered negative if a measured MET value is less than the limit and the value is set to 0. Otherwise, the outcome will be set to 1 to indicate that the intensity was greater than or equal to the limit. 
+3. The Youden Index from ROC curves will be used to determine the cut-point accuracy and the cut-point will be adjusted higher or lower, if needed, to maximize sensitivity and specificity. We will average the cut-points within � 0.5% of the optimal Youden Index if the Youden Index is nearly identical for several different cut-points. This analysis technique has been used in previous accelerometer cut-point validation studies[73, 115] and is being used in TL1TR002368. This approach will be repeated until there are 3 cut-points for the 4 intensities (i.e., SB/LPA, LPA/MPA, MPA/VPA) using each of the 4 accelerometer outputs (i.e., vertical axis counts, vector magnitude counts, ENMO, and MAD) from the 3 wear locations (i.e., non-dominant hip, wrists) for a total of 36 cut-points. 
+
+We will test these cut-points in the validation sample (n = 8) by comparing the accelerometer predicted activity intensity to the criterion using classification accuracy scores calculated from confusion matrices for all activities within each category (i.e., sedentary, household chores, and ambulatory/exercise). Finally, we will perform sensitivity analyses by randomly selecting 1 of the � 4 activities within each category for each of the 8 participants to adjust for the possible correlation of repeated measures within the same category. We will report mean classification accuracy scores for each of the cut-points after repeating the sensitivity analysis >100 times for each category.
+
+Aim #2: This is an unpowered secondary analysis that will be used to calculate an effect size for an adequately powered trial. We will use linear regressions to determine the effect of SB, LPA, and MVPA on plasma biomarkers associated with AD, cognitive function, and sleep quality in adults with DS. The linear regressions will be adjusted for age, sex, body mass index, karyotype, APOE status, and diagnosis. The predictor variables (i.e., SB, LPA, and MVPA) will be expressed as a composition of accelerometer non-sleep wear time as recommended by previous studies[116-119] since changes in one behavior will modify at least one other behavior. We will apply an isometric log-ratio (ilr) data transformation to account for the co-dependence and collinearity between SB, LPA, and MVPA in the linear regressions. As described by Chastin et al. [116] in their supplementary files, this allows for isometric mapping and preservation of data points while obtaining 2 ilr-transformed variables that can be used in the linear regression. For example, the ilr data transformation for SB, LPA, and MVPA will be composed as:
+z_1= �(2/3) ln SB/�(2&LPA ?MVPA)
+z_2= �(1/2) ln LPA/�(1&MVPA)
+where z1 and z2 are the 2 ilr-transformed variables that can be used in a linear regression as: 
+
+?(Y|?)= ?_0+?_1 z_1+?_2 z_2+covariates
+
+The order of predictor variables will then be altered 2 additional times during the ilr data transformation (i.e., LPA is substituted for SB to calculate z1 and MVPA is substituted for SB to calculate z1) to determine whether the relative amount of time spent in each behavior is associated with plasma biomarkers related to AD, cognitive function, or sleep quality.
+
+B. Outcome: 
+We anticipate REE values to be ~30% lower in adults with DS, thus confirming a need to measure REE to adjust the MET values during the free-living activity protocol. We expect to be able to develop and validate free-living activity intensity cut-points against the continuously measured indirect calorimetry oxygen consumption of the adults with DS. Additionally, we expect to see an association between PA and cognition and plasma biomarkers of AD in adults with DS when applying these free-living activity intensity cut-points to data from the ABC-DS study.
+C. Study results to participants: Study results will not be sent to the participants.
+D. Publication Plan: The research results will be presented at a conference and published in a peer-reviewed journal upon completion of the pilot study.
+
+
+APPENDIX I: VULNERABLE POPULATIONS
+
+Cognitively or decisionally impaired individuals: Informed consent from parents, legal guardians, or caregivers and assent from the adults with DS will be obtained prior to the research study appointment. The informed consent and assent documents are included in this IRB application. Study procedures will be explained multiple times throughout the consent and testing appointments in lay language. Participants will also be given opportunities to ask any questions they might have about the study during the consent and testing appointments. Familiarization periods will be built into the study protocol in order to ensure the participant feels comfortable with all aspects of the REE and free-living activity protocols before beginning each assessment. Rest periods will be used to allow the participant ample breaks during the free-living activity protocol for recovery and hydration.
+
+
+
+KUMC � HRPP- 03/12/2015		Page 1 of 8	
+
+

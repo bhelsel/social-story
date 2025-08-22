@@ -1,0 +1,1372 @@
+Alzheimer Biomarker Consortium - Down Syndrome (ABC-DS)  
+ 
+ 
+ 
+Protocol Name/Number: ABCDS_004.0 
+Multiple Principal Investigators:  
+Benjamin L. Handen, PhD 
+Elizabeth Head, PhD 
+Bradley Christian, PhD 
+Mark Mapstone, PhD 
+ 
+Funded by: National Institutes of Health 
+Protocol Version Number:  v.4.0 
+Dated:   November 6, 2023 
+   
+ 
+  
+Protocol Name/Number:  ABCDS_004.0 
+ 
+ 
+ 
+SIGNATURE PAGE 
+ 
+(SIGNATURES ON FILE AT COORDINATING CENTER) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+_____________________________________                       _________________________ 
+Name:            Date (MM/DD/YYYY) 
+Clinical Performance Site PI   
+ 
+  
+STATEMENT OF COMPLIANCE ...................................................................................................................... 7 
+1  
+PROTOCOL SUMMARY ........................................................................................................................... 7 
+1.1 
+Synopsis......................................................................................................................................... 7 
+1.2 
+Schema .......................................................................................................................................... 8 
+1.3 
+Schedule of Activities (SoA) .......................................................................................................... 8 
+2 INTRODUCTION ........................................................................................................................................ 12 
+2.1 
+Study Rationale and Background ................................................................................................ 12 
+2.2 
+Background/Overview ................................................................................................................ 12 
+2.3 
+Risk/Benefit Assessment ............................................................................................................. 14 
+2.3.2 
+ Known Potential Benefits...................................................................................................................... 17 
+2.3.3 
+ Assessment of Potential Risks and Benefits .......................................................................................... 18 
+3  OBJECTIVES AND ENDPOINTS ................................................................................................................. 18 
+4  STUDY DESIGN ......................................................................................................................................... 19 
+4.1 
+Overall Design ............................................................................................................................. 19 
+4.2 
+Scientific Rationale for Study Design .......................................................................................... 19 
+4.3 
+End of Study Definition ............................................................................................................... 19 
+4.4 
+Classification of Dementia/Cognitive Status ............................................................................... 20 
+5  STUDY POPULATION................................................................................................................................ 21 
+5.1 
+Inclusion Criteria ......................................................................................................................... 21 
+5.2 
+Exclusion Criteria ......................................................................................................................... 22 
+5.3 
+Not Meeting Eligibility Criteria .................................................................................................... 22 
+5.4 
+Strategies for Recruitment and Retention .................................................................................. 24 
+5.5 
+Informed Consent ....................................................................................................................... 24 
+6.  PET TRACERS .......................................................................................................................................... 25 
+6.1 
+Dosing and Administration of Amyloid PET Tracers ................................................................... 26 
+6.2 
+Dosing and Administration of Tau PET Tracers ........................................................................... 26 
+6.3  
+Dosing and Administration of FDG PET ....................................................................................... 26 
+7 PARTICIPANT DISCONTINUATION/WITHDRAWAL ................................................................................... 27 
+7.1 
+Participant Discontinuation/Withdrawal from the Study ........................................................... 27 
+7.2 
+Lost to Follow-Up ........................................................................................................................ 27 
+8  STUDY ASSESSMENTS AND PROCEDURES ............................................................................................... 28 
+8.1 
+Telephone Screen/Pre-Screen .................................................................................................... 28 
+8.2 
+Clinical and Cognitive Assessments ............................................................................................ 28 
+8.2.1 
+ Physical and Neurological Examination � Participant with Down Syndrome only ............................... 28 
+8.2.2 
+ Medical/Health History ......................................................................................................................... 28 
+8.2.3 
+ Concomitant Medication ...................................................................................................................... 29 
+8.2.4 
+ Omic Samples........................................................................................................................................ 29 
+8.2.5 
+ Cognitive and Functional Assessments � Participants with Down syndrome ....................................... 29 
+8.3 
+Study Partner Measures ............................................................................................................................. 30 
+8.4 
+Lumbar Puncture ........................................................................................................................ 30 
+8.5 
+Brain MRI..................................................................................................................................... 31 
+8.6 
+Safety and Other Assessments ................................................................................................... 31 
+8.6.1 
+ Pregnancy Testing ................................................................................................................................. 31 
+8.6.2 
+ Clinical Laboratory Assessments ........................................................................................................... 32 
+8.7 
+Neuropathology .......................................................................................................................... 32 
+8.8 
+Adverse Events and Serious Adverse Events .............................................................................. 32 
+8.8.1 
+ Definition of Adverse Events ................................................................................................................. 32 
+8.8.2 
+ Definition of Serious Adverse Events (SAE) .......................................................................................... 33 
+8.8.3 
+ Classification of an Adverse Event ........................................................................................................ 33 
+8.8.4 
+ Time Period and Frequency for Event Assessment and Follow-Up ...................................................... 33 
+8.8.5 
+ Adverse Event Reporting ...................................................................................................................... 33 
+8.8.6 
+ Serious Adverse Event Reporting .......................................................................................................... 33 
+8.7.7 
+ Reporting Events to Participants .......................................................................................................... 34 
+8.8.8 
+ Events of Special Interest ...................................................................................................................... 34 
+8.8.9 
+ Reporting of Pregnancy ........................................................................................................................ 34 
+8.9 
+Unanticipated Problems ............................................................................................................. 34 
+8.9.1 
+ Definition of Unanticipated Problems (UP) .......................................................................................... 34 
+8.9.2 
+ Unanticipated Problem Reporting ........................................................................................................ 35 
+8.9.3 
+ Reporting Unanticipated Problems to Participants .............................................................................. 35 
+9 
+STATISTICAL CONSIDERATIONS ........................................................................................................... 35 
+10 
+SUPPORTING DOCUMENTATION AND OPERATIONAL CONSIDERATIONS ...................................... 36 
+10.1 
+ Regulatory, Ethical, and Study Oversight Considerations .......................................................... 36 
+10.1.1 
+  Considerations for Neuroimaging in Individuals with DS ................................................................ 36 
+10.1.2 
+  Study Discontinuation and Closure ................................................................................................. 36 
+10.1.3 
+  Confidentiality and Privacy .............................................................................................................. 37 
+10.1.4 
+  Future Use of Stored Specimens and Data ...................................................................................... 38 
+10.1.5 
+  Key Roles and Study Governance .................................................................................................... 38 
+10.1.6 
+  Safety Oversight............................................................................................................................... 40 
+10.1.7 
+  Clinical Monitoring .......................................................................................................................... 40 
+10.1.8 
+  Quality Assurance and Quality Control ............................................................................................ 41 
+10.1.9 
+  Data Handling and Record Keeping ................................................................................................. 41 
+10.1.10 
+  Study Data Collection and Storage .................................................................................................. 41 
+10.1.11 
+  Study Files and Participant Source Documents ............................................................................... 42 
+10.1.12 
+  Research Biospecimens and Genetic Material Storage ................................................................... 43 
+10.1.13 
+  MRI and PET Imaging Data Storage ................................................................................................. 43 
+10.1.14 
+  Protocol Deviations ......................................................................................................................... 43 
+10.1.15 
+  Publication and Data Sharing Policy ................................................................................................ 44 
+10.1.16 
+  Sharing of Study Data ...................................................................................................................... 44 
+10.1.17 
+  Sharing of Biospecimens and Genetic Material ............................................................................... 45 
+10.1.18 
+  Conflict of Interest Policy ................................................................................................................. 45 
+10.1.19 
+ Problem Resolution .......................................................................................................................... 45 
+10.2 
+ Additional Considerations ..................................................................................................................... 45 
+11 
+Abbreviations ............................................................................................................................................. 45 
+12 
+Protocol Amendment History ......................................................................................................... 48 
+Addendum 1:  MOMs study ....................................................................................................................... 50 
+SPECIFIC AIMS ............................................................................................................................................. 50 
+RESEARCH STRATEGY ................................................................................................................................. 51 
+SIGNIFICANCE .............................................................................................................................................. 51 
+INNOVATION ............................................................................................................................................... 52 
+APPROACH .................................................................................................................................................. 53 
+C.1. Pilot Data .......................................................................................................................................... 53 
+C.2. Specific Aims .................................................................................................................................... 54 
+C.3. Participants ...................................................................................................................................... 54 
+C.4. Procedure ......................................................................................................................................... 55 
+C.4.1 Parental Cognitive Assessment................................................................................................................... 55 
+C.4.2. Family and Health History ......................................................................................................................... 56 
+C.4.3. Symptoms of Dementia and Mental Health .............................................................................................. 56 
+C.4.4. Omics ......................................................................................................................................................... 57 
+DATA ANALYSIS PLAN.............................................................................................................................. 57 
+ 
+
+ 
+  
+STATEMENT OF COMPLIANCE 
+This study will be conducted in compliance with the protocol, in accordance with International Conference on Harmonization Good Clinical Practice (ICH GCP) guidelines, and in full conformity with Regulations for the Protection of Human Participants of Research codified in 45 CFR Part 46 � Protections of Human Participants, 24 CFR Part 50 � Protection of Human Participants, 21 CFR Part 56 � IRBs, and/or the ICH E6, HIPAA, State and Federal regulations and all other applicable local regulatory requirements and laws.   
+ 
+National Institutes of Health (NIH)-funded investigators and clinical trial site staff who are responsible for the conduct, management, or oversight of NIH-funded clinical studies are required to be qualified by education, training and experience and must have completed Human Subjects Protection and ICH GCP Training. 
+ 
+The protocol, informed consent form(s), recruitment materials, and all participant materials will be submitted to the Institutional Review Board (IRB) for review and approval.  Approval of both the protocol and the consent form must be obtained before any participant is enrolled.  Any amendment to the protocol will require review and approval by the IRB before the changes are implemented to the study.  In addition, all changes to the consent form will be IRB-approved; a determination will be made regarding whether a new consent needs to be obtained from participants who provided consent using a previously approved consent form. 
+ 
+No study document shall be destroyed without prior written agreement between the Coordinating Center and the Investigator.  Should the Investigator wish to assign study records to another party or move them to another location, he/she may do so only with the prior written consent of the Coordinating Center.  
+ 
+Only institutions holding a current Federal-Wide Assurance (FWA) issued by the Office of Human Research Protections (OHRP) may participate in the study. Refer to: http://www.hhs.gov/ohrp/assurances/. 
+1  PROTOCOL SUMMARY 
+ 
+1.1 Synopsis 
+ 
+Title: 
+  
+Alzheimer Biomarker Consortium - Down Syndrome (ABC-DS) 
+   
+ 
+Study Description: 
+ The overarching goal is to characterize AD in DS 
+ 
+ 
+Objectives: 
+ 
+ The overall purpose of this study is to identify potential AD-related biomarkers in a group of adults with Down syndrome (DS) and sibling controls. The structure of the Consortium includes 7 Cores and 3 Projects. To accomplish this, we will strive to maintain a cohort of 550 individuals with DS (i.e., replacing those lost to follow-up) and 50 sibling controls over the course of the five-year study. 
+ 
+
+
+ 
+ 
+Study Population: 
+ 550 adults with DS and 50 sibling controls 
+ 
+ 
+
+
+ 
+1.2 Schema 
+ 
+
+ 
+1.3 Schedule of Activities (SoA) 
+The following is a summary of visits and study procedures. Participants residing locally may have the study procedures completed over 2-3 visits (called Cycles) across a period of up to 3 months. Participants living a distance, whose visits typically include a 1-2 night overnight stay, will have the study procedures completed over 2-3 consecutive days. 
+ 
+Table 1. Schedule of Activities - DS 
+ 
+Cycle 
+ 1 
+
+ 2 
+
+ 3 
+
+ 4 
+
+ 
+Cognitive Battery 
+ X 
+ X 
+ X 
+ X 
+ 
+Physical/Neurological Exam 
+ X 
+ X 
+ X 
+ X 
+ 
+Study Partner
+ X 
+ X 
+ X 
+ X 
+ 
+Chart Reviews 
+ X 
+ X 
+ X 
+ X 
+ 
+Blood Draw 
+ X 
+ X 
+ X 
+ X 
+ 
+MRI 
+ X 
+ X 
+ X 
+ X 
+ 
+CSF (optional)* 
+ X 
+ See note below* 
+ X 
+ See note below* 
+ 
+Dementia Classification 
+ X 
+ X 
+ X 
+ X 
+ 
+
+
+*Initial CSF collection can occur at either Cycle 1 or Cycle 2. Subsequent CSF collections should be 32 months after the initial draw. 
+**See table below for options on PET imaging 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Type of  
+
+ Cycle 1 
+ Cycle 2 
+ Cycle 3 
+ Cycle 3 
+ 
+
+Scenario 1 
+(Original Protocol) 
+ Amyloid 
+ Yes 
+ No 
+ Yes 
+ No 
+ 
+Tau 
+ Yes 
+ No 
+ Yes 
+ No 
+ 
+FDG 
+ N/A 
+ Yes 
+ No 
+ Yes 
+ 
+Scenario 2 
+ Amyloid 
+ Yes 
+ No 
+ Yes 
+ No 
+ 
+Tau 
+ No 
+ No 
+ Yes 
+ No 
+ 
+FDG 
+ N/A 
+ Yes 
+ No 
+ Yes 
+ 
+Scenario 3 
+ Amyloid 
+ No 
+ Yes 
+ No 
+ Yes 
+ 
+Tau 
+ Yes 
+ No 
+ No 
+ Yes 
+ 
+FDG 
+ N/A 
+ Yes 
+ No 
+ No 
+ 
+Scenario 4 
+ Amyloid 
+ No 
+ Yes 
+ No 
+ Yes 
+ 
+Tau 
+ No 
+ Yes 
+ No 
+ Yes 
+ 
+FDG 
+ N/A 
+ No 
+ Yes 
+ No 
+ 
+
+
+ 
+ 
+ 
+Table 2. Schedule of 
+ 
+Cycle 
+ 1 
+ 2 
+ 3 
+ 4 
+ 
+Cognitive screen 
+ X 
+ X 
+ X 
+ X 
+ 
+Dementia screen  
+ X 
+ X 
+ X 
+ X 
+ 
+Blood Draw 
+ X 
+ X 
+ X 
+ X 
+ 
+MRI 
+ X 
+ X 
+ X 
+ X 
+ 
+CSF (optional)* 
+ X 
+ *See Note 
+ X 
+ *See Note Below 
+ 
+
+
+ 
+Assessment Battery-Sibling Controls:  Sibling controls will receive a brief evaluation focused on indications of MCI/Dementia. They will also complete all protocol scans, blood collection, and optional LP.   
+*Initial CSF collection can occur at either Cycle 1 or Cycle 2 . Subsequent CSF collections should be 32 months after the initial draw. 
+**See Table below for options for PET imaging 
+ 
+ Scan 
+ Cycle 1 
+ Cycle 2 
+ Cycle 3 
+ Cycle 4 
+ 
+
+Scenario 1 
+(Original Protocol) 
+ Amyloid 
+ Yes 
+ No 
+ Yes 
+ No 
+ 
+Tau 
+ Yes 
+ No 
+ Yes 
+ No 
+ 
+FDG 
+ N/A 
+ Yes 
+ No 
+ Yes 
+ 
+Scenario 2 
+ Amyloid 
+ Yes 
+ No 
+ Yes 
+ No 
+ 
+Tau 
+ No 
+ No 
+ Yes 
+ No 
+ 
+FDG 
+ N/A 
+ Yes 
+ No 
+ Yes 
+ 
+Scenario 3 
+ Amyloid 
+ No 
+ Yes 
+ No 
+ Yes 
+ 
+Tau 
+ Yes 
+ No 
+ No 
+ Yes 
+ 
+FDG 
+ N/A 
+ Yes 
+ No 
+ No 
+ 
+
+
+ 
+ Scan 
+ Cycle 1 
+ Cycle 2 
+ Cycle 3 
+ Cycle 4 
+ 
+
+Scenario 4 
+ Amyloid 
+ No 
+ Yes 
+ No 
+ Yes 
+ 
+Tau 
+ No 
+ Yes 
+ No 
+ Yes 
+ 
+FDG 
+ N/A 
+ No 
+ Yes 
+ No 
+ 
+
+
+ 
+2 INTRODUCTION 
+ 
+2.1 Study Rationale and Background 
+Over the past five years, the ABC-DS team has established one of the largest, prospective, cohort studies of adults with DS (n=385) and 40 sibling controls for DS-AD biomarker discovery. The current ABC-DS team is comprised of researchers from two initially independent groups funded in response to NIH 2014 RFA-AG-15-011(Biomarkers of Alzheimer�s Disease in Down syndrome). The Neurodegeneration in Aging Down Syndrome (NiAD) project includes the University of Pittsburgh (Coordinating Center), University of Wisconsin, Madison, the University of Cambridge, and Washington University. The Biomarkers of Alzheimer�s Disease in Adults with Down Syndrome (ADDS) project includes Columbia University/NYS Institute for Basic Research in Developmental Disabilities (Coordinating Center), Massachusetts General Hospital, University of California, Irvine, Johns Hopkins University, and The University of North Texas Health Sciences Center. These two projects were integrated over a nine-month period following initial award under the guidance of NIA and NICHD to form ABC-DS and now share harmonized protocols. A third project and cohort from the University of Kentucky (R01HD064993- Aging and Dementia in Down Syndrome: Connectivity, Inflammation, and Cerebrovascular Contributions) is also joining the ABC-DS, bringing a cohort of 75 people that have been followed for up to 9 years. Leadership of the ABC-DS will be provided by MPIs from each project (Benjamin Handen, Bradley Christian, Elizabeth Head and Mark Mapstone) with guidance being provided by previous leadership to ensure continuity (Nicole Schupf, Ira Lott, Wayne Silverman, William Klunk). 
+Update as of 9/1/2023:  The University of Kansas Medical center (KUMC) will be joining the ABC-DS team as the ninth study site.  They are funded through an Administrative Supplement and will enroll 20 participants with Down syndrome by the end of their grant period. 
+2.2 Background/Overview 
+Alzheimer�s disease (AD) was first described over 110 years ago by Alois Alzheimer who characterized the disease principally by the regionally specific accumulation of A. plaques, neurofibrillary tangles and neuronal loss seen in association with dementia. However, despite a significant global effort to identify 
+treatment targets and the implementation of clinical trials, we have to date, been unsuccessful in treating or preventing AD.  It is critical that we continue research into causes of AD and develop biomarkers through the combined efforts of researchers following cohorts with unique characteristics. For example, seminal studies of late onset AD (LOAD), autosomal dominant AD (ADAD), and the new study of early onset AD (LEADS) have been highly successful in developing robust biomarkers and in identifying common themes to AD pathogenesis. One such example is the evolution of the amyloid (A), tau (T), neurodegeneration (N) framework (AT(N)) that has already propelled our biomarker research into promising new directions. We propose here, that including the study of DS, will enrich, facilitate, and accelerate universal efforts aimed at finding a �cure� for AD.  
+DS is characterized by a well-defined phenotype that incudes early accumulation of AD pathophysiology and high risk for dementia some 20 to 30 years earlier than is typical for LOAD. By 40 years of age 4-6 virtually all people with full trisomy 21 have sufficient A. plaques and neurofibrillary tangles in brain for a neuropathological diagnosis of AD, requiring a new understanding of traditional AD trajectories for DS Figure 1. Increased vulnerability to AD in DS is thought to be due to overproduction of A., which is derived from amyloid precursor protein (APP), the gene for which is on the trisomic chromosome 21 (Ch21) in DS and overexpressed. We believe that the timeline and features of AD progression in DS overlap significantly with LOAD and possibly early onset AD (EOAD) but beginning at earlier stages and possibly in a shorter timeframe. Thus, studies including people with DS may be valuable for understanding the relationship between AD pathophysiology, particularly A. accumulation, and clinical phenotype as it relates to AD in the general population. As with AD in neurotypical individuals, there is no therapy proven to delay onset or slow progression, and current medical care focuses on symptom management and maximizing function. Progressive functional, cognitive, and physical decline lead to the need for increasing levels of care, creating a strain on family and healthcare resources. 
+
+Although we predict that AD progression in DS will mirror that of LOAD, we also observe varying individual trajectories of clinical onset in the presence of a common static load conferred by APP triplication in DS, which strongly suggests that factors other than A. deposition contribute to individual trajectories of disease. Modifiers of risk and progression to MCI-AD or dementia in DS provides unique opportunities to examine factors that may also contribute to LOAD. Inflammatory and oxidative stress pathways are thought to be dysregulated at birth and progressively worsen as children with DS mature 
+into adulthood (Figure 1). Several genes on Ch21 (e.g., S100., SOD1, PIGP) are associated with pathways including inflammation, oxidative stress response , and lipid and energy metabolism. Further, early accumulation of A. may lead to dysregulation of these and other pathways, which may modify individual DS-AD trajectories in ways to accelerate or delay symptom onset. Thus DS offers a unique opportunity to examine factors that modify AD pathophysiology at the individual level.   
+Finally, there are over 250,000 individuals in the US with DS, which is an order of magnitude more than the estimated 5.1 per 100,000 prevalence of ADAD. Thus, the study of AD in DS can have a significant impact on a large number of individuals if DS-specific mechanisms of risk or biomarkers are identified. 
+Members of our team have worked closely with other AD researchers studying LOAD, ADAD, and EOAD, and this experience will be invaluable for bringing DS-AD research into a common framework that recognizes the unique and mutually informative contributions of each AD cohort.  As such, this set of conceptually linked, but structurally independent research programs will provide the most comprehensive framework for addressing the challenging problem of developing valid and reliable biomarkers for DS-AD.  
+The study of DS represents an AD risk model with a strong genetic contribution and a large relatively homogenous population of patients. As such, DS provides an opportunity for researchers to ask fundamental questions, such as how A. accumulation in combination with other factors influence individual trajectories of physiological and clinical change. The ABC-DS, along with other networks studying advanced risk populations including the Alzheimer�s Disease Neuroimaging Initiative (ADNI), the Dominantly Inherited Alzheimer�s Network (DIAN) and the new Longitudinal Early-Onset Alzheimer�s Disease Study (LEADS) together will provide comprehensive information about commonalities and differences across the four cohorts. We anticipate that findings from ABC-DS will provide valuable insights into the pathophysiology of DS-AD and will reveal both similarities and differences with the currently held framework of progression in LOAD.  
+At present, there are no universally accepted biomarkers or measures that could be used in clinical trials in the DS population. Another central focus of this proposal is to identify biomarkers that predict onset of decline in adults with DS at a point where they would have the greatest benefit from disease modifying treatments. We will also identify biomarkers that are sensitive to disease progression throughout the course of dementia�DS that can be used to measure treatment response. 
+2.3 Risk/Benefit Assessment 
+ 
+2.3.1  Known Potential Risks 
+Psychological Stress: Participants and or/study partners may feel uncomfortable or embarrassed during the administration of neuropsychological testing or questionnaires. They may also become fatigued during testing or questionnaire sessions. 
+ 
+Loss of Privacy:  In this study, a great deal of information about participant health status is collected.  Study staff at the performance sites will be collecting personal protected health information such as name, date of birth, address, phone number, and email addresses (which will only be available to staff at the performance sites and to ATRI study monitors).  All participants will be given an ID as part of the process, and all data collected under this protocol will be associated with that ID.  The data, associated with the ID, will be distributed widely, but it will not be possible to identify an individual participant from the data.  However, there is a very unlikely possibility that there will be a security failure, and that somehow the protected health information will no longer be protected.  This is an extremely unlikely but possible occurrence and is a risk of this study. Deidentification technology will be utilized on imaging data to minimize the chance that a participant could be identified from their imaging data.  It is possible though, that methods and technologies to allow someone to link research data back to a participant could be developed in the future.  Authorized users must agree to not attempt to identify any study participants before data is shared. 
+Genetic Testing: The risks associated genetic testing include the potential for a breach of confidentiality which could affect future insurability, employability, or reproduction plans, or have a negative impact on family relationships and/or result in paternity suits or stigmatization. The Genetic Information Nondiscrimination Act (GINA) generally makes it illegal for health insurance companies and group health plans to use genetic information in making decisions regarding your eligibility or premiums. GINA also makes it illegal for employers with 15 or more employees to use your genetic information when making decisions regarding hiring, promoting, firing, or setting the terms of employment. The law does not protect you against genetic discrimination by companies that sell life, disability, or long-term care insurance. 
+Blood Draws: The risks of blood draw include mild discomfort, bruising, infection, bleeding, and fainting. Standard methods and precautions will be used to protect the puncture site from bleeding and infection. Study staff will work with participants and study partners to minimize the subject�s anxiety as much as possible.  
+ 
+MRI scan:  During the MRI, there is a substantial risk to persons who have metallic objects inside their bodies, as the magnet in the scanner can cause these to move and increase in temperature. Consequently, participants with pacemakers or metallic objects located in the body will be excluded. There is a potential risk of heart rhythm disturbances in patients who have previous heart rhythm abnormalities. Finally, there is the risk of feeling claustrophobic while in the scanner or feeling uncomfortable when required to remain still for an extended period of time.   
+ 
+PET scan: During any of the PET (or PET/CT or PET/MRI) scans, there is the risk of feeling claustrophobic while in the scanner or feeling uncomfortable when required to remain still for an extended period of time.   
+Radiotracers: Florbetapir has been approved by the Food and Drug Administration (FDA) and is being used in accordance with FDA regulations. A rare side effect of Florbetapir has been headache. Additional, even less common side effects include nausea, dysgeusia (change in the sense of taste), flushing itching hives, rash or irritation at the injection site, muscle aches, fatigue, anxiety, insomnia, dizziness, chills, and hypertension (high blood pressure). All reported events were mild or moderate in intensity and all subjects recovered from these events. There is also a very small chance of an allergic reaction to the tracer.  
+PiB is not currently approved by the FDA; however, its use in this research study is considered to be generally safe and effective when used in accordance with FDA regulations. There is a very small chance of an allergic reaction to the tracer. However, there are currently no reports of adverse reactions to this compound.  
+Flortaucipir (TAUVIDTM ) has been approved by the FDA and is being used in accordance with FDA regulations at some sites. Rare side-effects have included headache, injection site pain and blood pressure increase.  All reported events were mild or moderate in intensity and all subjects recovered from these events. There is also a very small chance of an allergic reaction to the tracer. For those sites not purchasing commercial TAUVIDTM , the radiotracer [F-18]AV-1451 will be used under these sites existing INDs for this radiotracer.  [F-18]AV-1451 is considered safe and effective and will be used in accordance with FDA IND regulations.  Rare side-effects in humans are the same as TAUVIDTM and included headache, injection site pain and blood pressure increase.  All reported events were mild or moderate in intensity and all subjects recovered from these events.  There is also a very small chance of an allergic reaction to the tracer. 
+[F-18]MK-6240 has not been approved by the FDA.  As of May 8, 2022, there have been approximately 9825 [F-18]MK-6240 exposures in multiple completed and ongoing studies.  Combined adverse event data related to the injection of MK-6240 is the following (% of all subjects): headache (0.10%), dizziness (0.04%), dysgeusia (0.01%), paresthesia (0.01%), parosmia (0.01%), insomnia (0.01%), dysuria (0.01%), abdominal distension (0.01%), arthralgia (0.01%), injection site bruising (0.01%) and injection site pruritis (0.01%).  Since MK-6240 is a new compound that is being studied in ongoing studies, there may be risks that are still unknown. 
+Fluorodeoxyglucose (FDG)-PET is currently approved by the FDA, but it is not approved for the use proposed in this research study. However, its use in this study does not involve an increase in risk, as compared to its approved uses. There is a very small chance of an allergic reaction to the tracer. However, there are currently no reports of adverse reactions to this compound.  
+Radiation Exposure: For each Florbetapir scan session, participants will receive a total radiation exposure equivalent to a uniform whole body dose of 0.7 rem (14% or about one-seventh of the annual whole body radiation exposure permissible to radiation workers by federal guidelines). For each PiB scan session, participants will receive a total radiation exposure equivalent to a uniform whole body dose of 0.3 rem (a unit of radiation exposure) (5% or about one-twentieth of the annual whole body radiation exposure permissible to radiation workers by federal guidelines). For each Flortaucipir scan session, participants will receive a total radiation exposure equivalent to a uniform whole body dose of 0.9 rem (18% or about one fifth of the annual whole body radiation exposure permissible to radiation workers by federal guidelines). For each MK-6240 scan session, participants will receive a total radiation exposure equivalent to a uniform whole body does of 0.59 rem (12% or about one tenth of the annual whole body radiation exposure permissible to radiation workers by federal guidelines). For each (FDG)- PET (or PET/CT) scanning session, participants will receive a total radiation exposure equivalent to a uniform whole body dose of 0.5 rem (10% or approximately one-ninth of the annual whole body radiation exposure permitted to radiation workers by federal guidelines). If an x-ray exam is completed, the participant will be exposed to additional radiation in the area of the body being evaluated. The maximum amount of radiation exposure that will be received from the x-ray exam is approximately 0.3 rems. The total amount of radiation is not expected to produce any harmful effects, although there is no known minimum level of radiation exposure for non-radiation workers considered to be totally free of 
+the risk of causing genetic defects or cancer. The risk associated with the amount of radiation exposure participants receive in this study is considered low and comparable to everyday risks.  
+Women of Child-Bearing Potential and Pregnant Women: The effects of PET imaging and the tracers on fertility or a fetus are not known. However, it is known that higher levels of radiation can cause damage to a fetus. For this reason, all women capable of becoming pregnant, will be required to have a pregnancy test to confirm that they are not pregnant 48 hours prior to the administration of any PET tracer. 
+Lumbar puncture: During or immediately after the lumbar puncture, back pain or stiffness, pain at the area where the needle was placed, numbness in the leg, or neck and shoulder pain are possible. On rare occasions a tingling sensation is felt when the needle is inserted into the spinal canal, but this sensation goes away when the needle is repositioned. Although very rare (less than 1 out of 100 people), some participants may have an allergic reaction to the local anesthetic (lidocaine, 1%) used for the lumbar puncture or from the bandage applied after the procedure. The symptoms of an allergic reaction include excessive pain, redness, or swelling near the site of injection, a body rash after injection, or wheezing and difficulty breathing after injection. 
+Following the procedure, the most common complaint is a headache. Up to 5 in 100 people who have a lumbar puncture get a headache that lasts 1-2 days (if fluoroscopy is used, up to 3 in 100 people may get a headache). Headaches that last more than 1-2 days or headaches that are of severe intensity may be due to a leak of the cerebrospinal fluid from the spinal space where the needle was inserted. A leak such as this can be treated with a blood patch. Rare or very uncommon complaints include low blood pressure and dizziness, bleeding into the spinal canal, or an infection of the cerebrospinal fluid (known as meningitis). These rare complaints could be serious. 
+ 
+2.3.2  Known Potential Benefits 
+The study focuses on adults with DS (all of whom have intellectual disability and some of whom may not be unable to fully understand the risks and benefits of study participation). There are several potential direct benefits for our research participants. First, our protocol may uncover concerns that could be suggestive of dementia or of other medical issues that could be impacting functioning. Referral for an appropriate follow-up evaluation will be made in such cases. Secondly, the battery of neuropsychological test could serve as an important baseline evaluation for future neuropsychological evaluations, which are quite relevant given this population�s high risk of eventual cognitive deterioration. Thirdly, if any clinically significant findings are noted, these will be shared with the study partner and participant�s PCP. Clinical lab results will be shared with all participants.  Finally, in recent years many young adults with DS have become self-advocates who appropriately seek equal access to opportunities available to people who do not have DS, including their participation in research studies that may benefit this population.  
+There are also a few indirect benefits to study participation. Society as a whole stands to benefit by knowledge gained concerning the role of potential biomarkers in preceding and leading to AD in adults with DS. This knowledge could prove critical in decisions to assess and treat pre-clinical dementia/AD, in adults with and without DS. Data obtained from this research will become important as anti-amyloid therapies become available. For example, if it becomes clear that pre-clinical amyloid depositions 
+progress to clinical AD in adults with DS with high frequency, then it will become important to identify and treat non-demented, amyloid-positive DS individuals. It is at this early stage that anti-amyloid therapies will likely be most effective. It also is at this stage when treatment could actually prevent clinical symptoms before they occur. Given the high rate of pre-clinical amyloid deposition and relatively high rate of clinical AD in this population, the DS population offers a unique opportunity to study the pre-clinical course of AD.  
+2.3.3  Assessment of Potential Risks and Benefits 
+Given the above listed risks and benefits, we believe that the potential benefit to society in general outweighs the risks to individual participants. 
+3  OBJECTIVES AND ENDPOINTS 
+Specific Aims: 
+Aim 1: Establish an organizational infrastructure to follow and comprehensively characterize a clinical cohort of 600 individuals. Using a traditional Core structure for program oversight, recruitment, and deep phenotyping through longitudinal data collection and analysis, we will follow an expanded cohort of 720 participants to retain an active cohort of 600 (550 with DS and 50 sibling controls) who will be studied at 16-month intervals. We will collect clinical, cognitive, neuroimaging, and other data in addition to bio-specimens as detailed in the Core descriptions. Many participants will be �carry-over� enrollees from our prior longitudinal studies (NiAD, ADDS, University of Kentucky R01).  However, we will place a priority on recruiting from minority families for new participants. 
+Aim 2: Examine biomarkers of DS-AD in the AT(N) framework and determine if risk is modified by selected factors. In Project 1, we will examine existing and novel biomarkers of DS-AD and determine if they are similar to LOAD, and if not, how they differ, in the context of the AT(N) framework. We will then determine if selected factors (e.g., sex, co-occurring medical conditions, cerebrovascular pathology, and inflammation) modify AT(N) or other novel biomarkers in adults with DS. 
+ 
+Aim 3: Examine genetic factors that modify DS-AD risk. In Project 2, we will examine the direct and downstream effects of genetic variants from whole genome sequencing to characterize individual DS-AD trajectories. We will investigate broad genetic contributions to DS-AD phenotypes by examining intermediate risk phenotypes generated from other omic modalities and imaging markers to refine the risk assessment of DS-AD. Subsequently, identified genetic factors will be evaluated in DS and non-DS cohorts to enhance generalizability. 
+ 
+Aim 4: Develop precision medicine ready biomarkers for DS-AD clinical trials. In Project 3, we will develop novel multi-modal biomarkers from genetic, proteomic, metabolomic, imaging, and clinical/cognitive information and relate these to neuropathology findings (when available). The goal is to provide a hierarchy of informative biomarkers that progress from less- to more-invasive and costly,  to guide selection of participants, stratify endophenotypes, and serve as surrogate outcomes for next-generation DS-AD clinical trials.  
+Aim 5: Disseminate data and biospecimens to qualified researchers outside the ABC-DS. We will provide data and specimen sharing for the broader scientific community through NIH-funded, public-
+facing dissemination nodes hosted by the Laboratory for Neuro Imaging (LONI), the Alzheimer�s Therapeutic Research Institute (ATRI), and the National Centralized Repository for Alzheimer�s Disease and Related Dementias (NCRAD). 
+Endpoints: 
+� Retention of PiB and florbetapir in various brain regions as measured by SUVR (regional concentration of amyloid tracer relative to cerebellar gray matter concentration of amyloid tracer); 
+
+� Retention of Tau in various brain regions as measured by SUVR; 
+
+� Glucose metabolism (via FDG PET); 
+
+� Hippocampal volume (via T1), structural connectivity (via DTI), cerebral blood flow (via ASL);  
+
+� Presence or absence of the apolipoprotein-E4 allele, blood/CSF amyloid and tau levels, NfL, proteomics and lipidomics profiles;  
+
+� Cognitive functioning (e.g., verbal memory, attention, language, visuospatial ability and executive functioning)  
+
+
+4  STUDY DESIGN 
+ 
+4.1 Overall Design 
+This prospective, longitudinal study will follow a cohort of 550 well-described adults with DS and 50 sibling controls over a 5-year period with follow-up visits occurring at 16-month intervals. Eight clinical performance sites will be involved in participant recruitment and assessment: The University of Pittsburgh, Columbia University/NYS Institute for Basic Research in Developmental Disabilities, University of Cambridge, University of California Irvine, University of Wisconsin Madison, Harvard University, Washington University, and the University Kentucky. In September, 2023, the University of Kansas Medical Center (KUMC) joined the ABC-DS Study through an administrative supplement.  The protocol includes examination of clinical, cognitive, blood and CSF-based fluid biomarkers, MRI and PET measures, as well as genetic polymorphisms associated with AD progression. All eight clinical performance sites have large legacy cohorts comprised of adults with DS who have been followed for a number of years. Of these, we anticipate that 430 current legacy participants will be available to enroll in the new ABC-DS study. Based upon an estimated 13% attrition over 5 years, we will need to recruit and enroll a total of 720 individuals (an additional 290 participants) to establish and maintain a desired active, steady state cohort of 600.  
+4.2 Scientific Rationale for Study Design 
+The rationale for the study design (a longitudinal cohort study) is to enroll and follow this cohort of adults with Down syndrome to assess biomarkers of Alzheimer�s disease. 
+4.3 End of Study Definition 
+Participants in ABC-DS end study participation when they are lost to follow up (e.g., death, do not have a Study Partner able to participate in the study) or funding is no longer available. 
+4.4 Classification of Dementia/Cognitive Status 
+Determination of overall AD-related clinical status is based on overall profile of performance on the directly-administered neuropsychological measures and study partner-reported measures of dementia symptoms, combined with clinical judgment and in consideration of baseline/premorbid IQ, medical/psychiatric history, neurological exam, and recent life events. All available time points of data (i.e., previous study visits) are reviewed in this process. Staff are blind to imaging and biofluid data. Following the collection of all data for a given test cycle, a summary of the visit information (and prior information) is provided to team members and each team member independently reviews current and past data and determines clinical status. If there is complete agreement among team members, the clinical status is recorded and entered into the data base. Conversely, if there is any disagreement among team members regarding the clinical status, a consensus conference meeting is held to discuss the case. It is recommended that each site conduct monthly or bimonthly conferences so that the observations regarding participants are �fresh� in the minds of team members. 
+ 
+Each ABC-DS clinical performance site will have its own Consensus Team that will minimally include three team members such as the site coordinator, PI and neuropsychologist/the staff who conducted the neuropsychological assessment. Depending upon how an individual site functions, other team members could include the medical professional who conducted the physical/neurological exam as well as the staff member who conducted the study partner interview. In addition, there will typically be at least one outside member of the team from the ABC-DS Clinical Core (an investigator) as well as the Global ABC-DS Consensus Conference Coordinator. This system will ensure that the process remains standardized across sites.  The participation of outside team members and the Global ABC-DS Consensus Conference Coordinator will decrease over time, once the local teams are able to demonstrate the ability to conduct standardized consensus conferences. 
+ 
+All information from the most recent study visit and any longitudinal data from past test cycles (including data from legacy and U01 study cycles as well as consensus team diagnostic decisions from prior visits) will be available to the consensus team on a summary sheet, with the exception of MRI, PET scan and blood-based/CSF biomarkers data. These summary sheets will be prepared by and distributed to the team by Global ABC-DS Consensus Conference Coordinator. Specific sources of information include: Demographic information (age, biological sex, FSIQ and/or premorbid level of functioning), Medical and psychiatric history, Physical and neurological exam results, Clinical Lab results (e.g., thyroid lab results), Neuropsychological test results, and Study partner questionnaire results. 
+ 
+Clinical status categories are:  
+� Cognitively Stable (CS), indicating with reasonable certainty that significant impairment was absent 
+
+� Mild Cognitive Impairment-Down Syndrome (MCI-DS), indicating that there was indication of subtle cognitive and/or functional decline over and above what would be expected with aging, though of insufficient severity to suggest the presence of dementia 
+
+� Possible Dementia, indicating that some signs and symptoms of dementia were present, but declines over time were judged to need further evidence of progression 
+
+� Definite Dementia, indicating with a high degree of confidence that dementia was present based upon substantial decline over time 
+
+� Status Uncertain Due to Complications, indicating that declines were observed that might be caused by some other concern unrelated to neuropathology, (e.g., psychiatric diagnosis, disruptive life event. 
+
+
+� Indeterminable, indicating that the individual�s preexisting developmental disability was of such severity that detection of decline indicative of dementia was not possible. This is a rare event, however, if a participant receives a Clinical Consensus Diagnosis rating of Indeterminable, there should be a discussion of ending their participation in ABC-DS. 
+
+
+5  STUDY POPULATION 
+ 
+Total Number of Participants (Including Participants to be Screened) 
+Over the 5-year period of this proposal, we plan to maintain a cohort of 550 well-described adults with DS and 50 sibling controls. To accomplish this, we plan to initially enroll approximately 430 individuals who are currently participating in our legacy studies.  Based upon an estimated 13% attrition over 5 years, we will need to recruit and enroll a total of 720 individuals (an additional 290 participants beyond the 430 legacy participants) to establish and maintain a desired active, steady state cohort of 600. As we are particularly interested in enrolling individuals from under-represented minority groups, among the additional 290 participants our goal is to recruit approximately 32 African American individuals, 32 Hispanic individuals, and 16 Asian individuals.  
+Eligibility Criteria  
+There are no specific inclusion/exclusion criteria for individuals already enrolled in our legacy studies who choose to participate in the current study. Hence, among those with Down syndrome, this will include individuals with MCI-DS, dementia as well as those who are cognitively stable. Sibling controls from our legacy studies who choose to enroll in the current study will similarly not be required to meet any specific inclusion/exclusion criteria. 
+However, newly enrolled participants with Down syndrome as well as sibling controls will need to meet inclusion and exclusion criteria below. 
+5.1 Inclusion Criteria 
+Inclusion Criteria for new Participants with Down syndrome:  
+1. Age 25 years of age and older;  
+
+2. Estimated IQ > 30 or a mental age (MA) of 36 months (or premorbid IQ > 30 or MA of 36 months for participants with MCI-DS); 
+
+3. Karyotype of full trisomy 21, partial trisomy or mosaic DS (as confirmed by updated genetic testing or medical record review);   
+
+4. A reliable Study Partner capable of providing information about clinical symptoms and history;  
+
+5. Provision of legally valid consent and assent.  
+
+6. Agreement of Study Partner and clinician that the participant is able to cooperate with the protocol tasks; 
+
+7. Adequate visual and auditory acuity to complete neuropsychological testing. 
+
+
+Inclusion Criteria for new Sibling Controls: 
+1. Age 25 years of age and older; 
+
+2. Willingness to cooperate with the protocol tasks; 
+
+
+3. Full or half-sibling of individual with Down syndrome who is a study participant; 
+
+4. Adequate visual and auditory acuity to complete assessments. 
+
+
+ 
+ 
+Exceptions to these guidelines may be considered on a case-by-case basis at the discretion of the site PI and Admin Core/Multiple PIs.  Note:  ABC-DS will enroll both English- and Spanish-only speaking participants. 
+5.2 Exclusion Criteria 
+Exclusion Criteria for new Participants with Down syndrome: 
+1. Diagnosis of DS-AD 
+
+2. Any significant disease or unstable medical/psychiatric condition that could affect neuropsychological testing (i.e., unstable cardiac problems, chronic renal failure, chronic hepatic disease) at Cycle 1 ; 
+
+3. Presence of motor or sensory impairments severe enough to interfere with neuropsychological testing. 
+
+
+Item 4-6 only for those who undergo scanning. 
+4. Claustrophobia; 
+
+5. Participants in whom magnetic resonance imaging (MRI) is contraindicated including, but not limited to, those with a pacemaker, presence of metallic fragments near the eyes or spinal cord, or cochlear implant. (Dental fillings do not present a risk for MRI) at Cycle 1  or problems with blood draws at Cycle 1; 
+
+6. Pregnancy, breast feeding at Cycle 1;  
+
+
+Exclusion Criteria for new Sibling Controls: 
+ 
+1. A diagnosis of MCI, AD or other type of Dementia (based upon Cycle 1 assessment); 
+2. Any significant disease or unstable medical condition that could affect neuropsychological 
+    testing (i.e., unstable cardiac problems, chronic renal failure, chronic hepatic disease, 
+    severe pulmonary disease) at Cycle 1; 
+3. Participants in whom magnetic resonance imaging (MRI) is contraindicated including, but  
+    not limited to, those with a pacemaker, presence of metallic fragments near the eyes or 
+    spinal cord, or cochlear implant. (Dental fillings do not present a risk for MRI) at Cycle 1 
+4. Claustrophobia; 
+5. Pregnancy, breast-feeding at Cycle 1; 
+Criteria for Study Partner(s): Study Partner(s) must know the participants well, have regular contact with them (e.g., once a week for an extended period) and be able to describe their functioning. 
+Exceptions to these guidelines may be considered on a case-by-case basis at the discretion of the site PI and Admin Core/Multiple PIs. 
+5.3 Not Meeting Eligibility Criteria 
+For Participants with Down syndrome: 
+A �Screen Failure� occurs after a participant and/or their LAR have signed a study consent form to begin cycle 1 procedures, after which it is determined that the participant does not meet study inclusion criteria. A �Phone Screen Failure� or �Pre-Screen Failure� occurs whenever a phone screen is initiated and it is determined that the participant does not meet study inclusion criteria (or the LAR decides to not enroll the potential participant in the study). A �Pre-Screen Failure� could occur during the consenting process when the LAR and/or participant decide against signing the consent for study enrollment. However, once a consent is signed, the participant will be given a participant ID. In the event that the participant is subsequently found to not meet study inclusion criteria, no further data is entered into the EDC and the data would not be sent to LONI.  
+Cognitive Status:  If a new participant with Down syndrome is determined to have dementia, they will not be enrolled into the study and will be classified as a screen failure.     
+Trisomy 21: If a study partner reports on the phone screen that the participant does not have Trisomy 21, or, at the Cycle 1 visit, if the participant does not have the Down syndrome phenotype, as determined by the physical/neurological exam they will not be enrolled into the study and will be classified as a screen failure.  
+Trisomy 21 status will be confirmed later by one of the following methods: 
+1. Obtain a copy of the participant�s original karyotyping results (from participant or study partner) 
+
+2. Review participant�s medical chart containing a copy of the results 
+
+3. Repeat Trisomy 21 karyotyping  
+
+
+Kaufman Brief Intelligence Test:  The KBIT-2 must be administered at Cycle 1 to all ABC-DS participants, unless the participant has a previous legacy study CCD of Possible or Definite Dementia.  This guidance also applies to participants who are co-enrolled in the Trial Ready Cohort-Down Syndrome (TRC-DS). 
+For Participants with Down syndrome & Sibling Controls: 
+Pregnancy Test: This measure will be completed (for females who are not at least 1 year post-menopausal or have had surgical sterilization) prior to each MRI and/or PET scan. The pregnancy test will be via serum or urine and will be conducted by MRI or PET Center staff.  
+For Sibling Controls: 
+Sibling controls will be administered the following brief screening tools: 
+Montreal Cognitive Assessment Test (MoCA):  The MoCA is a cognitive screening test designed to assist Health Professionals for detection of mild cognitive impairment (MCI) and early AD. A score of 26 or greater is considered to be normal. If a sibling control has a score of less than 26 on the MoCA at Cycle 1, they will not be enrolled into the study and be considered a screen failure.   
+AD8 Dementia Screening Interview (AD8):  The AD8 is a simple tool designed to discern very early dementia in routine clinical settings. A score of 0 or 1 indicates normal cognition. If a sibling control has a score of 2 or greater on the AD8 at Cycle 1, they will not be enrolled into the study and will be considered a screen failure.  
+5.4 Strategies for Recruitment and Retention 
+Participants will be recruited both from the US and UK and enrolled in the site most convenient to them (i.e., Pittsburgh, Madison, New York, St Louis, Boston, Irvine, Lexington and Cambridge).  We will work with Down Syndrome Centers, regional Down syndrome parent-professional support groups, and prioritize community outreach.  We will direct interested individuals to our website at https://www.nia.nih/gov/research/abc-ds and include the website on our advertisements. 
+The eight Clinical Performance sites currently have a combined 470 participants with DS and 40 sibling controls enrolled in ongoing research efforts, and it is anticipated that approximately 430 of these individuals will elect to enroll in the new study.  All participants will be 25 years of age and older. Individuals with DS will be required to have a Study Partner available for participation. Based upon participant recruitment to date across Clinical Performance sites, we anticipate approximately equal numbers of males and females. 
+  
+Down Syndrome Participants: Recruitment materials will be distributed to Down syndrome groups and providers and via community outreach events. We may also recruit via DS-Connect�, a registry sponsored by the National Institutes of Health (NIH) and other local research registries. All materials (letters, emails, flyers, social media, etc.) will be approved by the IRB prior to distribution. Additionally, we will recruit study participants from current and past projects (i.e. Natural History of Amyloid Deposition in Adults with Down Syndrome, NiAD, and ADDS). We will talk with all our currently enrolled participants about enrolling in the new (ABC-DS) study.  
+  
+Control Participants: We will attempt to identify our control group by approaching siblings of our current participants. Siblings will first be contacted by their DS sibling participants. Participants with DS and Study Partner(s) will be provided with a recruitment letter to provide to their sibling(s). Siblings interested in participating will then contact the study team. Only sites that enrolled sibling controls in the legacy study (including the University of Kentucky) will continue to enroll and follow them in the ABC-DS study.  
+Maintaining Contact: Between study visits, study staff will maintain contact with participants and Study Partner(s) via emails, phone calls, birthday cards, newsletters, etc. 
+5.5 Informed Consent 
+The informed consent process will typically be obtained in person (or remotely in some cases) and all appropriate signatures obtained prior to any study procedures being conducted.,  The process will be conducted by the PI, designee, or appropriate and qualified study personnel following all local regulations. As a telephone screen will have been performed earlier in the process, the participant and their Study Partner will have had adequate time to reflect upon participation and to opt out if desired. Additionally, procedures may be conducted across several days in order to provide adequate time to reflect upon participation in more risk-intense procedures such as PET scanning.  
+At some performance sites, informed consent may be obtained prior to the Cycle 1 visit for some participants.   At the time of the telephone screen, if criteria is met, the consent form will be mailed to the participant and/or legally authorized representative (LAR) with a stamped return envelope.  The study team member will contact the participant and/or LAR to have a detailed discussion about the study and all procedures, review the consent form together and answer any questions.  If the participant 
+and/LAR are interested in participating, they are asked to fill out the consent form and send it back in the provided stamped return envelope.  Once the signed consent form is received, a copy (signed by appropriate study staff) will be sent back to them.  The participants/LARs/direct care staff are then contacted to schedule the initial Cycle 1 visit. 
+Each of the performance sites must follow their own state/local regulations regarding consent.  This includes specifications for proxy consent evaluation, LAR determination, and procedure restrictions.  Also of note, sites should consider the participant�s state of residence, as this may also affect how regulations are interpreted and enforced. 
+Regardless of whether potential participants are legally able to provide consent or assent, the overall consent process is designed to ensure that each participant�s autonomy and welfare are adequately protected. Study staff will carefully assess the potential participant�s ability to understand and consent/assent to study participation. The consent process will always include the potential participant and a Study Partner who can provide updated information regarding the participant�s current level of functioning and serve as an advocate for the participant. Identifying an appropriate Study Partner and/or legally authorized representative (LAR) will vary by site and must comply with state and local regulations. 
+The consent/assent process will involve explaining the study in developmentally appropriate language and include the use of pictures, a visual consent, and/or videos when appropriate.  Both the participant and Study Partner will be encouraged to ask questions to ensure they understand the study and feel comfortable participating. Additionally, study procedures will be reviewed at the start of each subsequent cycle to remind the participant of the study procedures. It is recommended that pictures, videos, and other visuals be used at these timepoints as well. 
+At performance sites where it is required that a determination be made as to whether the adult with DS is capable of signing the study consent for themselves, the investigators would have a conversation with the participant, ascertaining whether they understand and can respond to the following consent principles:  1) Do they agree to be in the study? 2) Do they understand that they can change their mind? and 3) Do they understand that if they get scared when in the machine, they can ask to stop the scan?  Based on this conversation and discussion during the consent process, the investigators will make a determination at that time regarding whether the adult with DS can consent for themselves or if there is a need for proxy consent. A copy of the fully signed consent (with all appropriate signatures) will be provided to the participant/Study Partner. 
+6.  PET TRACERS 
+Amyloid PET (Florbetapir or PiB) and Tau PET AV-1451 (aka T807, flortaucipir, tauvid) or MK-6240  scans will be conducted at the Cycle 1 and Cycle 3 visits. The FDG PET scan will be conducted at the Month 16 and Month 48 visits (Cycles 2 and 4). If these PET scans cannot be acquired on this schedule, there will be an option to acquire them at a subsequent Cycle visit. It is anticipated that approximately 5-10% of the amyloid, tau, or FDG PET scans may fail the Quality Control (QC) reviews due to the participant�s motion or technical problems. Depending upon local IRB/RDRC policy, a second attempt at a PET scan may be allowed. If participant motion was the cause of the QC failure, study staff will make every effort to ensure that it does not occur in the repeat scan by staying near the participant while s/he is in the PET scanner and providing comfort and encouragement. 
+6.1 Dosing and Administration of Amyloid PET Tracers 
+Amyloid PET:  Sites will use either PiB or Florbetapir imaging agents. PiB will be prepared by the individual site in accordance with a respective FDA-approved IND or by a Drug Master File by the Radioactive Drug Research Committee (RDRC). For sites using Florbetapir, the tracer will be obtained commercially. On the day of the scan, a qualified healthcare professional will place a venous catheter in the participant�s arm or hand so that the radiotracer can be injected during the study. Participants will receive 15 milliCuries (mCi) (nominal) of the radiotracer PiB or 10 mCi (nominal) of the radiotracer Florbetapir, (depending upon the performance site). The radiotracer will be injected while the participant sits or reclines comfortably about 40 min before being positioned in the scanner. During the scan, participants will be asked to lie on their back and remain very still on a padded table. A low dose CT scan (from the PET/CT) may be performed (depending on the individual site�s scanner). The PET scanner camera will take images to determine if there are amyloid deposits in their brain. This scan will take about 30 minutes. To promote the removal of the radiotracer from the body and thus decrease radiation exposure, participants will be instructed to urinate immediately after the scanning session and to drink several glasses of water or other liquid. 
+6.2 Dosing and Administration of Tau PET Tracers 
+Tau PET: Tau PET scans will be acquired with either AV-1451 (aka T807, flortaucipir, tauvid) or MK-6240 as the imaging agent.  It will either be made on-site or purchased commercially in accordance with the corresponding FDA-accepted IND application.  
+Imaging with AV-1451: On the day of the scan, a qualified healthcare professional will place a venous catheter in the participant�s arm or hand so that the radiotracer can be injected during the study. Participants will receive approximately 10 milliCuries (mCi) (nominal) of the radiotracer. The radiotracer will be injected while the participant sits or recline comfortably about 70 minutes before being positioned in the scanner. During the scan, participants will be asked to lie on their back and remain very still on a padded table. A low dose CT scan may be performed (depending on the individual site�s scanner). The PET scanner camera will take images to determine if there are tau deposits in their brain. This scan will take about 40 minutes. To promote the removal of the radiotracer from the body and thus decrease radiation exposure, participants will be instructed to urinate immediately after the scanning session and to drink several glasses of water or other liquid. 
+Imaging with MK-6240:  On the day of the scan, a qualified healthcare professional will place a venous catheter in the participant�s arm or hand so that the radiotracer can be injected during the study.  Participants will receive approximately 5 milliCuries (mCi) (nominal) of the radiotracer.  The radiotracer will be injected while the participant sits or reclines comfortably about 60-80 minutes before being positioned in the scanner.  During the scan, participants will be asked to lie on their back and remain very still on a padded table.  A low does CT scan may be performed (depending on the individual site�s scanner), then the PET scanner camera will take images to determine if there are tau deposits in their brain.  This scan will take about 20-40 minutes.  To promote the removal of the radiotracer from the body and thus decrease radiation exposure, participants will be instructed to urinate immediately after the scanning session and to drink several glasses of water or other fluid. 
+6.3  Dosing and Administration of FDG PET 
+FDG PET:  Sites will use FDG to measure the brain�s utilization of glucose. It will either be made on-site following FDA guidelines or purchased commercially. Participants will be asked to fast for at least 4 hours prior to their scheduled FDG PET scan. On the day of the scan, a qualified healthcare professional will place a venous catheter in the participant�s arm or hand so that the radiotracer can be injected during the study. In addition, prior to injecting the radiotracer for the FDG scan, a blood sample (a few drops or less than . teaspoon) will be withdrawn to test the blood glucose level. The blood sample will be tested using a commercial glucometer. Blood glucose levels must not exceed 175 mg/dL prior to the FDG injection. FDG administration and scan will not be performed if blood glucose exceeds 175 mg/dl. Participants will receive 5 milliCuries (mCi) (nominal) of FDG. The radiotracer will be injected while the participant sits or reclines comfortably in a dimly lit room about 25 min before being positioned in the scanner. During the scan, participants will be asked to lie on their back and remain very still on a padded table. A low dose CT scan (for a PET/CT) may be performed (depending on the individual site�s scanner). The PET scanner camera will take images to determine how the participant�s brain is utilizing glucose. This scan will take about 40 minutes. To promote the removal of the radiotracer from the body and thus decrease radiation exposure, participants will be instructed to urinate immediately after the scanning session and to drink several glasses of water or other liquid. 
+7 PARTICIPANT DISCONTINUATION/WITHDRAWAL 
+ 
+7.1 Participant Discontinuation/Withdrawal from the Study 
+Participants are free to withdraw from participation in the study at any time upon request. An Investigator may discontinue or withdraw a participant from the study for the following reasons: 
+. Non-compliance: The participant/study partner is non-compliant with completion of study-related evaluations. 
+
+. In the investigator�s judgment, it is in the participant�s best interest to discontinue participation in the study. However, as many measures as appropriate will continue to be collected. 
+
+. Consent is withdrawn.  The participant wishes to withdraw from the study, or the legally authorized representative wish the participant to be withdrawn.  
+
+. Lost to follow up.  Participant could not be recalled back to conduct follow up visits. 
+
+. Loss of informed Study Partner.  The participant no longer has an informed Study Partner 
+
+. Participant is actively involved in a treatment/prevention trial for Alzheimer�s disease. (ABC-DS study involvement will be suspended until the end of the trial.) 
+
+. Death 
+
+
+7.2 Lost to Follow-Up 
+If a participant fails to return for two scheduled cycles and is unable to be contacted by the study site staff, they may be considered lost to follow-up at study team discretion.  
+ 
+The following actions must be taken if a participant fails to return to the site for a study visit: 
+. The site will attempt to contact the participant to reschedule the missed visit and/or ascertain if the participant wishes to and/or should continue in the study. 
+
+. Before a participant is deemed lost to follow-up, the investigator or designee will make every effort to regain contact with the participant (where possible, multiple telephone calls, emails and, if necessary, a letter to the participant�s last known mailing address or local equivalent 
+
+
+methods). These contact attempts should be documented in the participant�s medical record or study file.  
+
+. Should the participant continue to be unreachable, he or she will be considered to have withdrawn from the study with a primary reason of lost to follow-up. 
+
+
+ 
+8  STUDY ASSESSMENTS AND PROCEDURES 
+All participants undergo a complete consenting process during the first visit of Cycle 1. Otherwise, with one exception, the Cycle 1 and Cycle 3 visits are identical and the Cycle 2 and Cycle 4 visits are identical. The exception is that, for participants who were unable to receive an amyloid PET scan and/or a Tau PET scan at Cycle 1, that option will be available at subsequent Cycles.  Each Cycle may involve multiple days, which can either be completed consecutively or during separate visits, preferably over a period of no more than three months. Sibling controls will undergo the same neuroimaging procedures and blood draw. However, there will only be a brief neuropsychological assessment and a medical history questionnaire.  
+All neuropsychological assessments and Study Partner assessments will be completed by study staff who have been trained in their administration. Within approximately two months of the study visit, a diagnosis consensus conference will be held by the site study team to determine the participant�s diagnosis. 
+Participants will be asked to agree to be video recorded during their neuropsychological assessment. This will help to ensure that all of the study sites are maintaining assessment tool integrity. Toward this end, randomly selected, de-identified videos will be sent to the relevant Quality Control personnel for viewing.   
+8.1 Telephone Screen/Pre-Screen 
+We will be using a telephone script for initial screens as well as when we re-contact Study Partner(s) for follow-up. The script provides specific directions to staff regarding who is to be contacted for returning visits. 
+8.2 Clinical and Cognitive Assessments 
+Procedures for both participants with Down syndrome and Sibling Controls are listed below. 
+8.2.1  Physical and Neurological Examination � Participant with Down Syndrome only 
+A physical and neurological assessment will be conducted by a qualified medical professional during each study visit. Sibling Controls do not complete a physical/neurological examination. 
+8.2.2  Medical/Health History 
+The Medical/Health History is obtained by study staff during the first study cycle and is updated at each subsequent cycle.  Information is obtained from the participant�s medical chart (if available), self-report, and/or the Study Partner.   
+8.2.3  Concomitant Medication 
+The concomitant medications currently taken by the participant will be obtained by study staff during the first study cycle and is updated at each subsequent cycle.  Information is obtained from the participant�s medical chart (if available), self-report, and/or the Study Partner.   
+8.2.4  Omic Samples 
+Blood will be drawn for metabolomics, proteomics and genomic analyses (or for biobanking). Approximately 37 mL will be collected at each Cycle. Samples will be pre-processed at each site and stored at -80 O C until they are shipped in batch to either the University of North Texas Health Science Center or the biospecimen repository at NCRAD. All samples will be tracked with unique identifiers by bar-code systems. Additional analyses will be conducted for all newly enrolled participants. These will include apolipoprotein-E genotyping for both sibling controls and participants with DS. DNA samples will be stored for additional genetic analyses. In addition, trisomy 21 karyotyping will be conducted for participants with DS who are unable to provide unambiguous karyotyping results (via medical chart review). This will involve an additional blood draw of approximately 4 mL of blood. 
+Blood draws can be conducted at the PET scan visit or at a separate appointment/study visit. If the participant is unable to complete the lab work at the first attempt (e.g., the vein is compromised), the participant may be invited to return for a separate visit to reattempt the blood draw.  
+8.2.5  Cognitive and Functional Assessments � Participants with Down syndrome 
+All participants with DS will be administered an extensive neuropsychological battery to assess cognitive areas. The battery takes approximately 90-120 minutes to complete and will be conducted at each cycle.  Included in the battery are measures of verbal memory, attention, language, visuospatial ability and executive functioning. The battery can be abbreviated for those who develop dementia and may have significant cognitive limitations. Following local IRB and state guidelines, some sites may make the results of the neuropsychological testing available to participants upon request. 
+The battery includes: 
+(a) The Down Syndrome Mental Status Examination (DSMSE) measures of neuropsychological functioning, assessing recall of personal information, orientation, immediate and delayed memory, language, visuospatial function and praxis. 
+
+(b) The Tinetti Assessment Tool: Gait  quantifies gait in 8 domains by observing participants while walking  
+
+(c) The Modified Cats and Dogs Task measures the ability to inhibit a natural response (naming the pictures of a dog, as �dog�) and to replace it with an incongruent one (naming the pictures of a dog as �cat�).  
+
+(d) The NEPSY (2nd ed.) Word Generation Semantic Fluency subtest assesses verbal productivity through the ability to generate as many words as possible in 20 sec. within a specific semantic category. 
+
+(e) The Cued Recall Test (CRT) measures verbal learning and memory through accuracy of participant recall of pictures presented, 4 at a time, with each item accompanied by a unique category cue.  
+
+
+(f) The Purdue Pegboard measures manual dexterity and bimanual coordination as a participant places pins in a pegboard with two parallel rows.  
+
+(g) The Beery-Bukentica Developmental Test of Visual Motor Integration (VMI) involves copying of figures of progressive complexity using paper and pencil.   
+
+(h) The WISC-IV Block Design subtest / Haxby Extended Block Design Test measures visuo-spatial organization by asking participants to recreate block patterns.  
+
+(i) The Cancellation Task measures processing speed, visual selective attention, vigilance, perceptual speed and visuomotor ability by asking participants to circle a target stimulus/picture on a page containing both target pictures and distractor pictures. 
+
+(j) The Hand Movements and Imitation (7 items)  from the Rapid Assessment for Developmental Disabilities (RADD-2) assesses the ability of the individual to copy simple hand movements. 
+
+
+8.3 Study Partner Measures 
+Study partner-based interviews will be completed at each study visit and will focus on participants� adaptive, cognitive, neuropsychiatric status and possible observed AD symptomatology. These will be conducted with a close Study Partner and take approximately 90-120 minutes to complete: 
+a) Dementia Questionnaire for People with Learning Disabilities (DLD) assesses short-term memory, long-term memory spatial and temporal orientation, speech, practical skills, mood, activity and interest, and behavioral disturbances.   
+b) NTG Early Detection Screen for Dementia (NTG-EDSD) includes sections on developmental history, demographics, health history, recent life events, and behavioral/cognitive domains that could reflect indications of AD clinical progression. Only the behavioral/cognitive domains will be completed. 
+c) Vineland Adaptive Behavior Scales 3rd edition (VABS-3) provides descriptions of everyday living skills across the domains of communication, daily living, and socialization. The domain-level caregiver form will be used, with the option of completing the VABS-3 on a paper form or on a tablet. 
+d) The Neuropsychiatric Inventory (NPI-Q) assesses neuropsychiatric symptoms in dementia, including: delusions, hallucinations, agitation/ aggression, dysphoria/depression, anxiety, euphoria/elation, apathy/indifference, disinhibition, irritability/lability, aberrant motor behaviors, nighttime behavioral disturbances, and appetite/ eating disturbance.  
+e) The Stress Index will assess the presence of any significant life stressors experienced over the past year.  
+f) Reiss Screen for Maladaptive Behavior assesses mental health problems in adults with ID. It comprises 38 items factor analyzed into eight subscales: a) Aggressive Behavior, b) Autism, c) Psychosis, d) Paranoia, g) Depression (behavioral signs), f) Depression (physical signs), g) Dependent Personality Disorder, and h) Avoidant Disorder. 
+8.4 Lumbar Puncture 
+The lumbar puncture (LP) is optional and the first one can be conducted during either the Cycle 1 or Cycle 2 visit. The second LP should be conducted 32 months after the first one. Prior to the LP, additional blood may be drawn (up to 20 mL) to check for the presence of blood clotting disorders (this may vary by site).  The LP will be done by a qualified healthcare professional. Fluoroscopy may be used to aid in 
+the performance of the LP procedure based on clinical judgement of the study investigators or the healthcare professional performing the procedure. Participants will be positioned lying on their side and curled up in a ball, sitting up and bent forward, or prone (if using fluoroscopy). The lower part of the back will be cleaned with antiseptic. A qualified healthcare professional will inject local anesthetic (lidocaine, 1%) into the skin of the lower back. When the area is numb, a very thin needle will be inserted into the spinal canal in the lower back, well below the level where the spinal cord ends but where some lower spinal nerves pass through. Up to 25 milliliters (5 teaspoons) of spinal fluid will be removed for analysis at each LP.  After the lumbar puncture is completed, the participant will remain in the clinic for at least 30 minutes (or at least 2 hours if using fluoroscopy) and will be given something to eat and drink before he/she leaves. The collected CSF will be shipped to the Washington University CSF lab for analyses and banking.  A second LP may be performed 32 +- 3 months after the first. 
+8.5 Brain MRI 
+An MRI will be conducted at each study cycle. Participants will first undergo a screening assessment to assure their safety in the magnetic field. Depending upon the screening results, some participants may also undergo an x-ray to ensure there is no metallic material in the body that would interfere with the MRI scan. A simulated MRI scan may be conducted, when available, in cases where the participant, study partner, and/or study staff are concerned that the participant may be unable to complete the MRI scan; however, this will not be standardly required. The MRI session will include several separate MRI scans, or sequences, that are used to visualize different aspects of the structure and function of the brain. No contrast agents will be used. The MRI total scanning session will take less than an hour, but if the session is not successfully completed, the participant may be asked to return at a later date for another attempt or to stay longer at the session to repeat specific sequences.  All MRI scans will be reviewed by qualified medical personnel for incidental clinically significant findings.  Any findings will be shared with the participant with DS (if appropriate), Study Partner and/or participant�s PCP (with consent). If the participant is a sibling control, we will contact them and their PCP (with consent) to determine the best course of action. 
+Participant Monitoring During MRI Studies: An experienced technician or study coordinator will typically be in constant visual and verbal contact with the participant during the study. In addition, the participant will be able to communicate at all times with the MRI technician or study coordinator during the MRI scanning procedure. If the participant voices any difficulty or desire to be removed from the scanner or if the technician sees any indication that the participant is experiencing discomfort, the participant will be immediately removed from the scanner and verbally reassured. If, on questioning, a specific problem can be identified and remedied (e.g. need to visit the bathroom), the participant will be asked if they would like to try again and, if they agree, the study will be resumed; otherwise the study will be discontinued. If no such simple solution can be achieved, the MRI will be terminated. A Study Partner may be allowed to stay in verbal, visual and physical contact with participants with DS throughout the study (depending on their passing typical MR screening requirements for metal, pacemakers, etc.) if desired. 
+8.6 Safety and Other Assessments 
+See below: 
+8.6.1  Pregnancy Testing 
+All women (with the exception of women who have undergone a surgical sterilization procedure or who are at least one year post-menopausal) will undergo pregnancy testing to rule out pregnancy within 48 hours before the PET (and for some sites, before the MRI) scanning procedures are initiated.  
+8.6.2  Clinical Laboratory Assessments 
+Non-fasting blood samples of approximately 13 ml will be collected via routine phlebotomy at each Cycle.  The blood draw will obtain samples for standard clinical studies to assess overall health conditions unrelated to AD that could impact functioning (e.g., thyroid, chemistry panel, hematology differential), consistent with recommendations developed by the American Academy of Neurology for informing differential diagnosis of suspected dementia; samples will be processed by a CLIA-certified laboratory. 
+Blood draws can be conducted at the PET scan visit or at a separate appointment/study visit. If the participant is unable to complete the lab work at the first attempt (e.g., the vein is compromised), the participant may be invited to return for a separate visit to reattempt the blood draw. The blood for clinical laboratory assessments may be collected at a separate time than the blood collected for research purposes. 
+8.7 Neuropathology 
+The participants/families will be approached by an investigator at an appropriate time to discuss participation in the ABC-DS brain donation/autopsy program.  Interested participants/study partners will be given informational materials about the brain donation program. Arrangements for brain donation are coordinated by the Neuropathology Core in collaboration with each of the ADRCs at the seven performance sites located in the United States (the University of Cambridge site is not included in the brain donation protocol). The Neuropathology Core and the ADRCs have 24-hour coverage should a study participant die during their involvement in ABC-DS. A protocol has been developed for the specific handling of brains from participants with DS. 
+8.8 Adverse Events and Serious Adverse Events 
+See below: 
+8.8.1  Definition of Adverse Events 
+An adverse event (AE) is defined as any untoward medical occurrence that occurs during or is the result of a study procedure. All adverse events deemed related to the study compounds (e.g. PET tracers) or procedures (e.g. LP) will be tracked during the study. 
+ 
+All AEs will be assessed by the study clinician using a protocol defined grading system. The following  
+guidelines will be used to describe severity.  
+ 
+� Mild � Events require minimal or no treatment and do not interfere with the participant�s daily activities.  
+
+� Moderate � Events result in a low level of inconvenience or concern with the therapeutic measures. Moderate events may cause some interference with functioning. 
+
+
+� Severe � Events interrupt a participant�s usual daily activity and may require systemic drug therapy or other treatment. Severe events are usually potentially life-threatening or incapacitating.  Of note, the term �severe� does not necessarily equate to �serious�. 
+
+
+ 
+An AE is considered �unexpected� if it is not listed in the study protocol. Events that occur between study visits are not considered to be AEs. 
+8.8.2  Definition of Serious Adverse Events (SAE) 
+A serious adverse event is defined as an adverse event or suspected adverse reaction that occurs during or is the result of a study procedure and resulting in any of the following outcomes:  
+1. Death 
+2. A life-threatening event 
+3. In-patient hospitalization or prolongation of existing hospitalization (see below for more information regarding hospitalization) 
+4. A persistent or significant incapacity or substantial disruption of the ability to conduct normal life functions 
+5. A congenital anomaly/birth defect 
+ 
+8.8.3  Classification of an Adverse Event 
+Standards for reporting Aes will be provided in the relevant procedures manual. Other findings on study-related procedures will be at the discretion of the site investigator to determine if it qualifies as an AE.  
+8.8.4  Time Period and Frequency for Event Assessment and Follow-Up 
+The investigator is obliged to follow participants with Aes until the events have subsided, the conditions are considered medically stable, or the participants are no longer available for follow up. Participants who discontinue due to adverse experiences will be treated and followed according to established medical practice. All pertinent information will be entered into the eCRF. 
+8.8.5  Adverse Event Reporting 
+The principal investigators and ATRI staff will monitor the study procedures for overall safety and scientific relevance on an ongoing basis. The local site PI (in conjunction with, as needed, the data safety monitoring board (DSMB) will evaluate each adverse event for safety and causality and will determine whether the adverse event affects the risk/benefit ratio of the study and whether modifications to the protocol or consent form are required. 
+ 
+8.8.6  Serious Adverse Event Reporting 
+Any SAE must be reported to the administrative core within 24 hours of learning of the event.  Sites will inform their local IRB and Advarra of the event based on local IRB requirements.  
+ 
+All SAEs will be followed until satisfactory resolution or until the site investigator deems the event to be chronic or the participant is stable. Other supporting documentation of the event may be requested by the administrative core and should be provided as soon as possible. 
+ 
+If there is an IND holder of a PET tracer used in this study, they will be responsible for notifying the Food and Drug Administration (FDA) of any unexpected fatal or life-threatening suspected adverse reaction as soon as possible, but in no case later than 7 calendar days after the administrative core�s receipt of the information.   
+8.7.7  Reporting Events to Participants 
+N/A 
+8.8.8  Events of Special Interest 
+Covid-19:  During the fluctuating situation of the Covid-19 pandemic, all sites will adhere to University-specific and regional guidelines and mandates.  Additionally, the MPIs and Administrative Core will monitor the risk-to-benefit ratio for all participants/study partners and will also consider the health and safety of all study staff who are directly interacting with these participants. They will recommend alterations to study procedures as needed (e.g. remote questionnaires).  The impact of Covid-19 will be assessed and considered in statistical analysis. 
+8.8.9  Reporting of Pregnancy 
+Pregnancy is not an adverse event, but some studies will require unique considerations if pregnancy was to occur during the study. A participant who is enrolled in ABC-DS who becomes pregnant can continue in the cohort but participation in MRI scans may not be possible and PET scans will not be possible. 
+8.9 Unanticipated Problems 
+ 
+8.9.1  Definition of Unanticipated Problems (UP) 
+Unanticipated problems involving risks to participants or others to include, in general, any incident, experience, or outcome that meets all the following criteria:  
+. Unexpected in terms of nature, severity, or frequency given (a) the research procedures that are described in the protocol-related documents, such as the IRB approved research protocol and informed consent document; and (b) the characteristics of the participant population being studied  
+
+. Related or possibly related to participation in the research (�possibly related� means there is a reasonable possibility that the incident, experience, or outcome may have been caused by the procedures involved in the research);   
+
+. Suggests that the research places participants or others at a greater risk of harm (including physical, psychological, economic, or social harm) than was previously known or recognized. 
+
+
+ 
+Study monitors and the Administrative Core will monitor the unanticipated problems for overall safety and scientific relevance on an ongoing basis and provide information to the Data Safety Monitoring Board.  
+ 
+8.9.2  Unanticipated Problem Reporting 
+The investigator will report unanticipated problems (Ups) to the reviewing Institutional Review Board (IRB) and to the Admin Core via the AE eCRF. The UP report will include the following information: 
+ 
+� Protocol identifying information: protocol title and number, PI�s name, and the IRB project number; 
+
+� A detailed description of the event, incident, experience, or outcome;  
+
+� An explanation of the basis for determining that the event, incident, experience, or outcome represents an UP;  
+
+� A description of any changes to the protocol or other corrective actions that have been taken or are proposed in response to the UP. 
+
+
+ 
+To satisfy the requirement for prompt reporting, Ups will be reported using the following timeline:   
+ 
+� Ups that are serious adverse events (SAEs) will be reported to the IRB and to the Administrative Core within 24 hours of the investigator becoming aware of the event.  
+
+� Any other UP will be reported to the IRB and to the Administrative Core within 10 days of the investigator becoming aware of the problem.  
+
+� All Ups should be reported by the site to appropriate institutional officials (as required by an institution�s written reporting procedures), upon receipt of the report of the problem from the investigator.  
+
+
+ 
+8.9.3  Reporting Unanticipated Problems to Participants 
+Participants will be informed by the Investigator or designated site clinician as deemed clinically necessary by the Administrative Core.  
+9 STATISTICAL CONSIDERATIONS 
+Each of the three projects has conducted its own power analysis. The following power analysis is from Project 1, which will examine the Amyloid/Tau/Neurodegeneration [AT(N)] framework with regard to the development of symptomatic cognitive decline in DS (aim 1). In addition, this project will examine the contribution of select factors that modify the risk or progression to cognitive decline and lead to individual variability in the DS population (aim 2).  
+Sample size and power calculation for Aims 1 and 2. We used existing ABC-DS sibling controls and MCI-DS participants� data at Cycle 1 for hypothesis testing calculations (data from our legacy studies). We will be able to achieve 80% at 0.05 significance level and achieve the following detectable group mean differences: 0.3 to 0.35 SD which correspond to small and medium Cohen�s d effect sizes. These calculations suggest that this project has sufficient sample sizes, for biomarkers within each of the AT(N) 
+categories, to identify biomarker difference between unaffected and MCI-DS individuals. For power analysis with age at onset of MCI-DS, with 25%-35% incidence rate in 10 years follow-up, calculations have been conducted based on the Cox regression model by fixing the given sample size, 0.05 significance level and 80% power for detecting a specified range of hazard ratio (HR) using PASS 13 Power Analysis and Sample Size Software (2014). This suggests that, based on the number of participants in the study, we have a sufficient sample size to detect the biomarker effect.  
+For the longitudinal models (it applies to the amyloid, tau outcome, etc.), assuming that there are four measurements over time, a fixed correlation between the repeated measurements of 0.4, a two-sided significance level of 0.05, we have 80% power to detect an effect size of 0.24 (which is equivalent to about half standard deviation difference in the average estimates over time).  
+10 SUPPORTING DOCUMENTATION AND OPERATIONAL CONSIDERATIONS 
+See below: 
+10.1  Regulatory, Ethical, and Study Oversight Considerations 
+See below: 
+10.1.1   Considerations for Neuroimaging in Individuals with DS 
+Based on the study population, the following rules and strategies will be used to minimize the discomfort that participants might experience during neuroimaging procedures: 
+1. A minimum IQ cutoff of 30 or a mental age of 3.0 years at initial study entry has been established to increase understanding and cooperation with the imaging protocol (except for those with dementia/AD).  
+
+2. Study staff will explain the demands of the study protocol in detail (per informed consent procedures) and only attempt neuroimaging procedures with participants who are judged to be amenable to study procedures. Additionally, all participants will be asked about prior experiences with MRI scans and blood draws during the telephone screen. 
+
+3. Participants and study partners will have the opportunity to view a 10-minute video that shows an adult with DS going through both the MRI and PET scan procedures. The Study Partner will be encouraged to discuss the video with the participant. The video may be made available prior to the consent process (to allow participants to become familiar with the procedures).  
+
+4. While the full MRI acquisition protocol will take up to 60 minutes to complete, the protocol can be discontinued at any time. 
+
+5. There will be no arterial line placed for the PET studies, as is common in many PET studies; only an IV line will be used for tracer administration.  
+
+
+10.1.2   Study Discontinuation and Closure 
+This study may be temporarily suspended or prematurely terminated if there is sufficient reasonable cause.  If the study is prematurely terminated or suspended, the site Principal Investigator (PI) will promptly inform study participants and their Study Partners, the Institutional Review Board (IRB), and sponsor and will provide the reason(s) for the termination or suspension.  Study participants and their Study Partners will be contacted, as applicable, and be informed of changes to study visit schedule. 
+  
+Circumstances that may warrant termination or suspension include, but are not limited to: 
+. Determination of unexpected, significant, or unacceptable risk to participants 
+
+. Insufficient compliance to protocol requirements 
+
+. Data that are not sufficiently complete and/or evaluable 
+
+
+ 
+Study may resume once concerns about safety, protocol compliance, and data quality are addressed, and satisfy the sponsor, IRB and/or Food and Drug Administration (FDA). 
+ 
+10.1.3   Confidentiality and Privacy 
+Participant confidentiality and privacy is strictly held in trust by the participating investigators, their staff, and the funder(s). This confidentiality is extended to cover testing of biological samples and genetic tests in addition to the clinical information relating to participants. Therefore, the study protocol, documentation, data, and all other information generated will be held in strict confidence. No information concerning the study, or the data will be released to any unauthorized third party without prior approval by the ABC-DS Publications Committee.  
+ 
+All research activities will be conducted in as private a setting as possible. 
+ 
+The study monitor, representatives of the Institutional Review Board (IRB), appropriate performance site University representatives, and regulatory agencies may inspect all documents and records required to be maintained by the investigator, including protected health information (PHI) for the participants in this study. The performance site will permit access to such records. 
+ 
+The study participant�s contact information will be securely stored at each performance site for internal use during the study. At the end of the study, all records will continue to be kept in a secure location for as long a period as dictated by the reviewing IRB, Institutional policies, or NIH requirements. 
+ 
+Study participant research data, which is for purposes of statistical analysis and scientific reporting, will be transmitted to and stored at ATRI. Individual participants and their research data will be identified by a unique study identification number. The study data entry and study management systems used by performance sites and by ATRI research staff will be secured and password protected. At the end of the study, all study databases will be de-identified and archived at ATRI/LONI.  However, a genetics database may be stored at a national repository, such as dbGAP 
+ 
+In addition, a de-identified dataset (including processed and raw data) will be made available to qualified researchers on the LONI Image and Data Archive. This will include clinical data, medical data, neuroimaging, genetics, and omics data. Requests for data access will be reviewed and approved by the ABC-DS Publications Committee. 
+ 
+Certificate of Confidentiality  
+ 
+To further protect the privacy of study participants, a Certificate of Confidentiality will be issued by the National Institutes of Health (NIH).  This certificate protects identifiable research information from forced disclosure. It allows the investigator and others who have access to research records to refuse to 
+disclose identifying information on research participation in any civil, criminal, administrative, legislative, or other proceeding, whether at the federal, state, or local level. By protecting researchers and institutions from being compelled to disclose information that would identify research participants, Certificates of Confidentiality help achieve the research objectives and promote participation in studies by helping assure confidentiality and privacy to participants. 
+10.1.4   Future Use of Stored Specimens and Data 
+All biospecimens will be available, without embargo, to qualified outside investigators. De-identified Biological (plasma) specimens will be stored at NCRAD and de-identified CSF samples will be stored at the Washington University CSF lab. A biospecimen review committee has been established to examine and approve/disapprove biospecimen requests from both ABC-DS investigators and outside investigators. However, specimens required for specific procedures described in the study protocol will not require committee review.  
+Participants are asked to allow blood and genetic material and proteins obtained from samples to be stored indefinitely for future studies.  The samples will be processed and stored for the purpose of examining for genes or gene products important for the diagnosis and treatment of cognitive or neurodegenerative disorders.  Immediate or future processing of samples may include culturing of blood in the laboratory to generate human cell-based models including fibroblasts from individuals with DS and iPSC-derived neuronal cultures. This processing of samples also may include preparation of cells in a manner that permits long-term survival in laboratory cultures as well as cell culturing under other laboratory conditions.  Results of genetic testing (e.g., ApoE, Trisomy 21 karyotyping) may be made available upon request (per individual performance site policy). The researchers listed on this study will maintain and be responsible for deciding how the samples and related information obtained from them will be used.  The participant�s name will never be on a sample but instead will be identified by a password-protected code.  The researchers may make some of these samples available to investigators at other scientific institutions, but names will not be released to such investigators. 
+All participants will have a uniquely generated ID number, which will be associated with use of biological specimens. Each unique ID number is maintained by study staff and stored in a secure location. 
+10.1.5   Key Roles and Study Governance 
+ 
+University of North Texas 
+O�Bryant
+
+
+
+Structure of ABC-DS. The Administrative Core of ABC-DS oversees all components contained within the large gray rectangle; coordinating activities, budgets, reports, meetings, regulatory activities, etc. The other six cores are shown in gold rectangles along with the components of the Omics Core at UNT and Georgetown and the component of the BDM Core at Hopkins in white squares.  The performance sites include: University of Pittsburgh (Handen, Cohen, Connor); University of Wisconsin (Christian, Hartley); University of Cambridge (Zaman); Washington University in St. Louis (Ances); New York [Columbia University (Lee) and Institute for Basic Research (Krinsky-McHale)]; University of California-Irvine (Lott, Hom); Massachusetts General Hospital (Lai, Rosas);  University of Kentucky (Schmitt, Harp) and University of Kansas Medical Center (Burns, Ptomy).  Key supporting elements shown in white squares include NCRAD (fluid biospecimen banking), the Fagan CSF Lab, ATRI (EDC and site monitoring), LONI (data repository), the Koeppe Lab at U. Mich (Pet QC) and the Jack Lab at Mayo Clinic (MRI QC).  The Admin Core will be reviewed and advised by an External Advisory Committee and guided by a Steering Committee with representation by Cores, Sites as well as NIA and family members.  Tight working relationships exist between the ADDORE, Clinical and Imaging Cores and the Performance Sites for daily operations.  Following an ADNI-like model, data (blue arrows) will flow from Performance sites, Cores, NCRAD and the Fagan CSF Lab to ATRI and LONI.  Imaging data will be QC�d and processed by the Koeppe (PET) and Jack (MRI) labs and returned to LONI.  There is a tight interaction between the BDM Core and LONI for both use and management of the data.  Data will flow from LONI to the BDM Core and the Projects, who will also get other derived data directly from the Omics and Imaging Cores.  The BDM Core will provide statistical and databasing support (green arrows) to all other Cores and all three Projects.  Blood  (red arrows) will be sent from the Performance sites to NCRAD and the lab at the University of North Texas and CSF will be sent to the Fagan CSF lab.  Blood for clinical labs will be delivered/sent to a CLIA-certified lab.  Autopsies will be coordinated between the local performance sites and the 
+Neuropathology Core (where tissue will ultimately be banked).  Analysis of the blood and CSF will be done by the Omics Core (which includes the Fagan CSF Lab).  External Investigators may request data and biospecimens through the ABC-DS Publications and Ancillary Studies and Biospecimens Committees. 
+10.1.6   Safety Oversight 
+Data and Safety Monitoring Board.  An independent 3-4 member Data and Safety Monitoring Board (DSMB) has been created to review and monitor the data and safety of the ABC DS study. The DSMB includes experts in AD, DS and biostatistics. Members consist of persons independent of the investigators who have no financial, scientific, or other conflict of interest with the study. Written documentation attesting to absence of conflict of interest is required. The first meeting took place before initiation of the study to discuss the protocol, approve the commencement of the study, and to establish guidelines to monitor the study. An emergency meeting of the DSMB will be called at any time by the DSMB Chairperson or ABC-DS Study MPIs should questions of participant safety arise.  
+A DSMB meeting will be held approximately every six months to review adverse event data, participant recruitment and study progress and will provide a written report of its meetings. The DSMB (along with the IRB) will also be contacted in the event of a Serious Adverse Event (SAE).  
+The DSMB responsibilities will be to: 
+1. Review the research protocol, informed consent documents and plans for data and safety monitoring; 
+2. Evaluate the progress of the study, including periodic assessments of data quality and timeliness, participant recruitment, accrual and retention, participant risk versus benefit, adverse events, unanticipated problems, performance of the field sites, and other factors that can affect study compliance; 
+3. Consider factors external to the study when relevant information becomes available, such as scientific or therapeutic developments that may have an impact on the safety of the participants or the ethics of the study; 
+4. Review overall clinical performance, make recommendations and assist in the resolution of problems reported by the MPI�s; 
+5. Protect the safety of the study participants; 
+6. Report on the safety and progress of the study; 
+7. Make recommendations to the MPI�s, and if required, to the NIH and/orFDA concerning continuation, termination or other modifications of the study; 
+8. Monitor the confidentiality of the study data and the results of monitoring; 
+9. Assist the MPI�s by commenting on any problems with study conduct, enrollment, and sample size and/or data collection. 
+10.1.7   Clinical Monitoring 
+Each of the Clinical Performance site PIs will be responsible for monitoring all non-medical issues such as breaks in confidentiality and for reporting any adverse events at their respective sites IRBs. Given the nature of the study, the main risks are confidentiality and the risks associated with the PET and LP procedures. The Clinical Performance site PIs will be in regular contact with the research staff that test study participants, score and enter the data, and will monitor their procedures to ensure that confidentiality is maintained. All clinical methodology is reviewed regularly at each Clinical Performance site to ensure that risk is minimized, and participant comfort maximized. Any concerns will be reported directly to the Clinical Performance site PI (and Administrative Core of the study), who will be responsible for reporting them to their respective University Institutional Review Boards. All significant adverse events will be monitored on a bi-monthly basis during regularly scheduled Steering Committee teleconferences. The Clinical Performance site PIs will ensure that the Central IRB is immediately notified of any serious adverse event. Expected and unexpected serious (including fatal) adverse reactions and major unresolved disputes between the research investigator(s) and the research participant or between research investigator(s) will be expeditiously reported, per IRB policy. At the time of renewal, the central IRB will be provided with a summary indicating the frequency of the monitoring, cumulative adverse event data, information regarding participant safety or ethics changes, confidentiality issues, benefit-to-risk changes and recommendations on continuing, changing or terminating the study. 
+ATRI will provide monitors who will remotely review the study data.  In addition, a monitor will visit each performance site at study start up, then annually and at any potential study shut-down or site shut-down. 
+10.1.8   Quality Assurance and Quality Control 
+Fidelity: Administration/scoring fidelity of cognitive measures will be ensured by review of video-recorded assessments by Clinical Core personnel. All staff conducting the neuropsychological assessments will be directly trained and supervised by a site Ph.D. psychologist. All performance site staff who administer neuropsychological study partner measures will be certified by Clinical Core Personnel and reviewed periodically. 
+Blinding: All evaluations and consensus determinations will be completed blind to all �biological� biomarker findings during all assessment cycles. A unique participant code number will be used to link individuals to all data and samples collected. 
+10.1.9   Data Handling and Record Keeping 
+ATRI and the Data Core Leads are responsible for overseeing research clinical data collection and standardization, data management, data transfer, and quality control.  
+10.1.10   Study Data Collection and Storage 
+Written or electronic data of record must be entered on the electronic Case Report Form (eCRF) provided for that purpose, except where instructed to use only the computerized system for capture of a particular assessment.  In some instances, no prior written or electronic record of data may exist, and data recorded directly on the eCRF is considered source data.  The site will be suitably trained on the use 
+of the eCRF and other computerized systems used for data collection and appropriate site personnel will be authorized to provide electronic signatures. 
+ 
+All data will be collected in secure web sites or computer systems.  If corrections are necessary to the eCRFs or data collected via other systems, the Principal Investigator or designee will correct the data and provide documentation for the reason for change.  
+Sites will complete eCRFs and administer and submit data from computerized assessments according to ATRI�s instructions.  ATRI will review all data to determine their acceptability.  If necessary, data correction requests will be generated for resolution by the performance site.    
+10.1.11   Study Files and Participant Source Documents 
+All research-related interviews and screening assessments will be conducted in a designated space. Only the information required for the conduct of the study will be collected.  
+All source documents and videotapes will be kept in locked cabinets that are located in locked rooms within secure areas and/or on a secure drive/server. Computer-based files will be de-identified, and the storage drives and servers will be password protected. A unique ID number will be generated for each participant. Identifiers will be removed from study-related materials whenever possible. 
+Source documents will be stored separately from other research documents (which will only contain a participant unique ID number). All data will be kept indefinitely. Data submitted to the data core or other facilities involved in this study (e.g., PET Scans) will have a unique ID number attached and include no more than a limited dataset of PHI). Data stored at other facilities involved in the project will be stored in password protected drives and available only to those directly involved in the study. However, a requirement of NIA is this data be rapidly made available to researchers not directly involved in the study. The ABC-DS Publications and/or Biospecimens Committee will review requests for these data, tissue samples, DNA samples, etc. 
+If a participant decides to withdraw from study participation, any identifiable research or medical information record for or resulting from participation in this research study prior to the date that the participant formally withdraws consent may continue to be used and disclosed by the investigators for research purposes. In fact, as this data is required to be made rapidly available to researchers outside of study PIs and co-investigators, it is possible that this data will have already been accessed and analyzed.  
+MATERIALS: Information gathered specifically for this study include test results from standardized neuropsychological measures, study partner questionnaires, blood samples, CSF, neuropathology samples, and data derived from neuroimaging studies. All performance sites will maintain a source document file, a participant specific binder and data document file in locked cabinets within locked rooms and facilities. The source document file (which is the only file that contains participant names and addresses) will be kept separately from participant specific binder and data document files.  Access to identifiable private information will be limited to study staff. However, as outlined in the study consent forms, university over-site groups (e.g., Central IRB, DSMB, site monitors) and outside agencies (e.g., NIA, NICHD) will also have the right to access identifiable study materials. Results of cognitive testing, clinical lab results and genetic testing (e.g., ApoE, Trisomy 21 karyotyping) may be made available upon request (per individual performance site policy). Additionally, if any clinically significant or incidental findings occur, participants and their Study Partner will be made aware that they will be notified, and 
+their PCP contacted (with consent). The study protocol, documentation, data, and all other information generated will be held in strict confidence. The study monitor, representatives of the Institutional Review Board (IRB), appropriate performance site University representatives, and regulatory agencies may inspect all documents and records required to be maintained by the investigator, including protected health information (PHI) for the participants in this study. The performance site will permit access to such records. 
+ 
+Any data, specimens, forms, reports, and other records that leave the site will be identified by a participant identification number (Participant ID, PID) to maintain confidentiality.  All physical records will be kept in a locked file cabinet.  All computer entry and networking programs will be done using PIDs only.  
+ 
+Information about study participants will be kept confidential and managed according to the requirements of the Health Insurance Portability and Accountability Act of 1996 (HIPAA).  Those regulations require a signed participant HIPAA Authorization informing the participant of the following:  
+ 
+. What protected health information (PHI) will be collected from participants in this study 
+
+. Who will have access to that information and why 
+
+. Who will use or disclose that information 
+
+. The rights of a research participant to revoke their authorization for use of their PHI.  
+
+
+ 
+In the event that a participant revokes authorization to collect or use PHI, the investigator, by regulation, retains the ability to use all information collected prior to the revocation of participant authorization. Each site PI, under the guidance of their IRB, is responsible for ensuring that all applicable HIPAA regulations and State laws are met. 
+10.1.12   Research Biospecimens and Genetic Material Storage 
+All research biospecimens, including DNA and other residual samples and derivatives from processing and analysis, will be coded, and stored securely by NCRAD.  Sample tubes will be identified only by a code number and descriptive data (e.g. date of draw). Participants can withdraw consent for sample storage at any time and every effort will be made to identify and destroy the relevant samples.  Participants will be made aware that de-identified samples already shared may not be able to be destroyed.   CSF will similarly be stored at Washington University. 
+ 
+10.1.13   MRI and PET Imaging Data Storage 
+MRI and PET scans will be labeled with Study assigned Participant ID and scanner specific series descriptions as detailed in the PET and MRI Technical Manuals. All imaging data will be coded using participant identifiers as detailed in the Technical Manuals and checked centrally to confirm the absence of participant identifying information.  
+10.1.14   Protocol Deviations 
+A protocol deviation is any noncompliance with the study protocol or the International Conference on Harmonization Good Clinical Practice (ICH GCP). The noncompliance may be either on the part of the 
+participant, the investigator, or the performance site staff. As a result of deviations, corrective actions are to be developed by the site and implemented promptly.  
+ 
+These practices are consistent with ICH GCP:  
+� 4.5 Compliance with Protocol, sections 4.5.1, 4.5.2, and 4.5.3  
+
+� 5.1 Quality Assurance and Quality Control, section 5.1.1  
+
+� 5.20 Noncompliance, sections 5.20.1, and 5.20.2.  
+
+
+ 
+The investigator may not implement any protocol deviation without prior notification to the Administrative Core and prior review and documented approval of the IRB, except where necessary to eliminate an immediate hazard to study participants, or when change(s) involve only logistical or administrative aspects of the trial (ICH 4.5.4).  
+10.1.15   Publication and Data Sharing Policy 
+The results of this study will be published.  The Committee on Publications and Ancillary Studies (CPAS) has primary oversight of the ABC-DS resource sharing plan.  Both the CPAS and the Biospecimens Sharing Committee review issues related to internal and external requests for ABC-DS data and biospecimens.    
+10.1.16   Sharing of Study Data 
+Data from this research will be shared with other researchers pursuant to the 02/26/2003 �NIH Final Statement on Sharing Research Data� and pursuant to the 8/24/2014 �NIH Genomic Data Sharing Policy�.  
+ 
+NIH believes that data sharing is important for further translation of research results into knowledge, products, and procedures to improve human health.  The NIH endorses the sharing of final research data to serve these and other important scientific goals.  To protect participants� rights and confidentiality, identifiers will be removed from the data before they are shared. 
+ 
+ABC-DS Co-Enrollment 
+The ABC-DS study has partnered with another DS study, �Alzheimer�s Clinical Trial Consortium for Down Syndrome (ACTC-DS) - Trial-Ready Cohort - Down Syndrome (TRC-DS)� (ATRI-006 / Pro00042575). The TRC-DS study is overseen by the University of Southern California (USC) Alzheimer�s Therapeutic Research Institute (ATRI). Coordinating Center. The TRC-DS is an ambitious program, addressing wide-ranging issues in trial recruitment and site management for the DS population.  
+ 
+ABC-DS participants who express interest in potentially joining a clinical trial in the future and who meet TRC-DS eligibility criteria, may choose to co-enroll in TRC-DS.  Co-enrolled participants will adhere to the ABC-DS protocol and schedule of activities, and will provide an additional consent to share their ABC-DS study data with the TRC-DS team and to receive invitations for future participation in clinical trials.  
+ 
+In the event that participation in ABC-DS is discontinued for any reason but the participant is still interested in clinical trial participation, they will be invited to consent to the TRC-DS study. 
+ 
+10.1.17   Sharing of Biospecimens and Genetic Material 
+Research biospecimens and DNA from consenting participants will be banked and may be shared with other researchers studying AD, aging, Down syndrome, or other health conditions to facilitate future research.  Banking of these samples will permit qualified investigators to probe candidate biomarkers and genetic polymorphisms as predictors of outcomes in future studies. 
+Genetics, genomics, and related data will be shared with other researchers pursuant to the NIA Alzheimer�s Disease Genetic Sharing Policy.  National Institute on Aging Genetics of Alzheimer�s Disease Data Storage Site (NIAGADS), along with other NIA-approved sites, will make genetic, genomic and related data and associated phenotypic data available to qualified investigators in the scientific community for secondary analysis in accordance with standards established by NIA.  These data repositories are under strict security provisions, including multiple firewalls, separate servers, and data encryption protocols.  Investigators and their sponsoring institutions seeking access to data from the NIA-approved data repository must submit a data access request (that specifies both the data to which access is sought and the planned research use) and agree to the term of access set forth in the Data Use Certification.   
+10.1.18   Conflict of Interest Policy 
+The independence of this study from an actual or perceived influence, is critical.  Therefore, any actual conflict of interest of persons who have a role in the design, conduct, analysis, publication, or any aspect of this study will be disclosed and managed.  The study leadership in conjunction with NIA has established policies and procedures for all study group members to disclose all conflicts of interest and will establish a mechanism for the management of all reported dualities of interest. 
+10.1.19  Problem Resolution 
+Using the existing Administrative Core committee structure, appropriate core leaders and other investigators will be directed to develop strategies to correct an identified problem. These action plans would be presented to the Steering Committee for discussion, approval and implementation.  As necessary, an ad hoc committee could be added and could include DS organizations and others outside the ABC-DS with specific expertise in the problem area. In addition, we would solicit advice from our External Advisory Committee, who represent other national and international DS and AD thought leaders. The Committee�s role is to review the progress of the ABC-DS and to provide advice on administrative functions, core and project operations. Hence, the EAC would ensure the provision of an objective assessment of the issue and feedback based on their own unique experiences. 
+10.2  Additional Considerations 
+N/A 
+11 Abbreviations 
+ 
+ACTC-DS 
+ Alzheimer�s Clinical Trial Consortium for Down Syndrome 
+ 
+
+AD 
+ Alzheimer�s Disease 
+ 
+AE 
+ Adverse Event 
+ 
+APOE/APOE4 
+ Apolipoprotein E (APOE) epsilon 4 (APOE4) 
+ 
+ATRI 
+ Alzheimer�s Therapeutic Research Institute 
+ 
+CFR 
+ Code of Federal Regulations 
+ 
+CLIA 
+ Clinical Laboratory Improvement Amendments 
+ 
+CNS 
+ Central Nervous System 
+ 
+COC 
+ Certificate of Confidentiality 
+ 
+CSF 
+ Cerebrospinal Fluid 
+ 
+DNA 
+ Deoxyribonucleic Acid 
+ 
+DSMB 
+ Data Safety Monitoring Board 
+ 
+ECG 
+ Electrocardiogram 
+ 
+EC 
+ Ethics Committee 
+ 
+eCRF 
+ Electronic Case Report Form 
+ 
+FDA 
+ Food and Drug Administration 
+ 
+GCP 
+ Good Clinical Practice 
+ 
+GWAS 
+ Genome-Wide Association Studies 
+ 
+
+
+HIPAA 
+ Health Insurance Portability and Accountability Act  
+ 
+IB 
+ Investigator�s Brochure 
+ 
+ICH 
+ International Conference on Harmonisation  
+ 
+IND 
+ Investigational New Drug Application 
+ 
+IRB 
+ Institutional Review Board 
+ 
+ISO 
+ International Organization for Standardization 
+ 
+MR/MRI 
+ Magnetic Resonance / Magnetic Resonance Imaging 
+ 
+NCT 
+ National Clinical Trial 
+ 
+NIH  
+ National Institutes of Health 
+ 
+OHRP 
+ Office for Human Research Protections 
+ 
+PI 
+ Principal Investigator 
+ 
+QA 
+ Quality Assurance 
+ 
+QC 
+ Quality Control 
+ 
+SAE 
+ Serious Adverse Event 
+ 
+SAP 
+ Statistical Analysis Plan 
+ 
+SOA 
+ Schedule of Activities 
+ 
+SOP 
+ Standard Operating Procedure 
+ 
+UP 
+ Unanticipated Problem 
+ 
+
+
+ 
+12 Protocol Amendment History 
+Protocol Version # 
+ Description of Change 
+ Brief Rationale 
+ 
+
+1.0 (Original Version) 
+ n/a 
+  
+ 
+2.0 
+ After consultation with all eight sites, made minor changes throughout protocol. 
+ Changes deemed necessary for accuracy and maximum consistency across sites. 
+ 
+2.1 
+ 1-Name of study updated 
+2-Changed �Covance� to �CLIA-approved lab� 
+3-Updated TRC-DS sections 
+4-Included serum as a possible pregnancy test 
+5-Added blood samples going to University of North Texas 
+ 1-Updated to match NGA name for administrative consistency 
+2-Process for clinical labs is undetermined as of August 2021 
+3-Provide more clarity 
+4-Provide options for all sites� standard procedures for pregnancy tests 
+5-This was always in the plan, just inadvertently left out of the figure and legend 
+ 
+2.2 
+ 1-Changed amount of clinical blood collected from approximately 10 to 13 
+ Shift from Covance to IU Health Path Laboratory required 3 more ml for the clinical lab blood draw 
+ 
+2.3 
+ 1-Changed language in consent process 
+2-Updated the Neuropsychological testing and Study Partner testing section 
+3-Added specification for Tau PET section 
+ 1-More accurately describes the process at all sites 
+2-Updates from Clinical Core 
+3-Required for variability at all sites 
+ 
+3.0 
+ 1-Included language for option to use MK-6240 as the Tau radiotracer 
+2-Included the protocol for the MOMs study supplement as Addendum 1 
+3-Allowed for flexibility for PET scans at cycle 2 instead of FDG 
+ 1-Some sites require more options in radiotracers to complete the PET scans 
+2-Supplement was funded and added into the �parent� protocol 
+3-Increasing flexibility for timing of PET scans 
+ 
+3.1 
+ 1-Changing �plasma� to �samples� for banking of biospecimens for MOMs study 
+ 1-This was in process but was just resolved after version 3.0 was approved. 
+ 
+
+
+Protocol Version # 
+ Description of Change 
+ Brief Rationale 
+ 
+
+4.0 
+ 1-Added University of Kansas Medical Center (KUMC) as a new clinical site 
+ 1-The University of Kansas Medical Center (KUMC) was added as a funded Administrative Supplement 
+ 
+
+
+ 
+  
+Addendum 1:  MOMs study 
+SPECIFIC AIMS 
+Alzheimer disease (AD) is the most common cause of dementia in the general population and the number of people living with AD is increasing rapidly as people are living longer. As the focus of pharmacologic treatment of AD has shifted toward prevention trials, there has been increased interest in individuals who have biomarkers (e.g., the ApoE4 allele) that place them at greater risk for dementia associated with AD. One group of particular interest is adults with Down syndrome (DS), almost all of whom will be diagnosed with AD-related dementia by the age of 70.1-2 Virtually all people with DS develop significant AD neuropathology, especially amyloid plaques, by middle age.3-5 In this population, early accumulation of amyloid plaques is thought to arise from overproduction of A., which is derived from the .-amyloid precursor protein; the gene for .-amyloid precursor protein (APP) is located on the trisomic chromosome 21.6-8 While the mean age for developing dementia associated with AD among adults with DS is approximately 53 years, there is considerable variability in the age of onset, ranging from prior to age 40 to over age 70.9 Therefore, other factors such as genetics, lifestyle, and comorbid health issues likely contribute to the variability in age of AD onset.  
+Another possible factor contributing to age of AD onset is family history, especially a maternal history of AD-dementia, which is known to increase the risk for AD in the general population.10-13 The impact of family history can also be seen on preclinical biomarkers, as non-DS individuals with a maternal family history of dementia have been found to have a greater A. burden,10 reduced gray matter volume11-12 and decreased brain glucose metabolism13 in comparison to those with no family history or only a paternal history of dementia. While we are unaware of any studies that have examined maternal contributions to AD risk in offspring with DS, members of our own team were among the first to note an increased frequency of dementia among some mothers of children with DS.  Research completed over two decades ago found that mothers who were <35 years of age when giving birth to their child with DS experienced a 5x greater frequency of dementia than mothers of adults with other forms of intellectual disability (controls). Conversely, the frequency of dementia among those who gave birth to their children with DS when they were >35 years of age did not differ significantly from controls. Similarly, there was no difference in the frequency of dementia among fathers of adults with DS.14-15 Hence, maternal factors may influence both the risk of developing dementia in mothers themselves as well as in their offspring with DS.  
+We propose to leverage the currently funded Alzheimer Biomarker Consortium � Down Syndrome study (ABC-DS) to pilot a project focusing on parents of adults with DS, allowing us to address important questions related to the potential impact of a range of maternal genetic factors on both maternal AD risk and AD risk to their offspring with DS. We propose to conduct a cross-sectional study examining blood-based AD biomarkers and genetic factors among a cohort of healthy middle-aged and senior men and women whose adult children with DS are serving as participants in ABC-DS. The ABC-DS has been following over 400 adults with DS since 2015 and was recently re-funded to increase this cohort to 550 individuals. Results will demonstrate the feasibility of enrolling parents of adults with DS 
+in a biomarker study. The pilot data will be used to support the submission of a larger R01 proposal. We propose to enroll approximately 100 mothers and 50 fathers of current and future ABC-DS participants to address the following aims: 
+Aim 1: To conduct a feasibility study to demonstrate the ability of ABC-DS sites to enroll parents of ABC-DS participants into a study of parental AD biomarkers and genetic risk factors.   
+Aim 2: To gather the necessary pilot data to conduct a power analysis for determination of the appropriate sample size for a future submission of a larger R01 focusing on parental AD biomarkers and genetic risk factors.  
+ 
+RESEARCH STRATEGY 
+SIGNIFICANCE  
+Down syndrome (DS) is a developmental disability most commonly due to a third copy of chromosome 2116 and estimated to occur in 1 in 691 live births.17 Nearly all adults with DS evidence AD neuropathology (e.g., A. plaques and neurofibrillary tangles) by their 40s,18 and 70-80% of adults with DS exhibit clinical AD (i.e., dementia) by their 60s and 70s.19  The early onset and increased incidence of AD in DS is attributed to the overproduction of A. due to the triplication of chromosome 21, which contains the gene for the amyloid precursor protein (APP) involved in the production of A..20-21  With advancements in health care over the past several decades, a growing number of adults with DS are living into their 60s and beyond.  The high incidence of AD in DS means that the DS population offers a unique scientific opportunity to explore risk and protective factors related to the unfolding of the early, preclinical stages of AD neuropathology. Such information will also be relevant to populations without DS.  
+Our current �parent grant,� ABC-DS (U19AG068054), will follow 550 adults with DS for up to five years. The study focuses on the examination of biomarkers of AD risk obtained through neuroimaging (FDG PET, Amyloid PET and Tau PET), CSF (e.g., CSF tau, and CSF A.1-42), and plasma (e.g., plasma A.1-42, NfL, ptau181) as well as genetic risk factors (e.g., ApoE). Participants are seen for up to four study cycles, separated by 16 months. While there is a growing knowledge base regarding early biomarkers that precede clinical AD symptoms in adults with DS, little is known about preclinical biomarker risk among their parents (who number over half a million in the US). The ABC-DS provides a unique opportunity to pilot a project examining parents of adults with DS, allowing us to address important questions related to the potential impact of a range of factors on both maternal AD risk and AD risk in their offspring with DS. 
+ Members of our own team were among the first to note an increased frequency of dementia among some mothers of children with DS14.  Research completed over two decades ago found that mothers who were <35 years of age when giving birth to their child with DS experienced a 5x greater frequency of dementia than mothers of adults with other forms of intellectual disability (controls). Conversely, the frequency of dementia among those who gave birth to their children with DS when they were >35 years of age did not differ significantly from controls. There was no difference in the frequency of dementia among fathers of adults with DS.14-15 Since most of the non-dysjunction events in DS are of maternal 
+origin, it was hypothesized that any increased frequency of AD would be among mothers rather than fathers. Additionally, the risk of having a child with DS among older women was thought to have been influenced primarily by normal aging while the risk for younger women may have involved an accelerated aging process, leading to an increased risk of bearing a child with DS and of developing AD. This suggests a shared genetic susceptibility to DS and AD. Since this research was completed over two decades ago, the AD field has significantly increased its ability to identify and assess potential biomarkers of risk for AD prior to the onset of symptoms. 
+While there are clear genetic risk factors associated with the development of AD in DS as well as in autosomal dominant inheritance disorders, genetic inheritance also impacts AD risk in the general population. In particular, there is increasing evidence of maternally transmitted genetic risk factors for AD, a finding that was first suggested in the 1990�s.22-23 For example, Honea et al.10 examined a cohort of ADNI participants (99 underwent Pittsburgh Compound B (PiB) PET and 403 had a lumbar puncture/cerebral spinal fluid (CSF) analysis) to assess the association between parental dementia history and AD biomarkers. A maternal family history of AD (MH) was found to be associated with increased PiB uptake in a number of regions (e.g., parietal, precuneus and sensorimotor cortices) in comparison to those with a paternal AD history (PH) or no history (NH). In addition, measures of CSF A. were decreased while the CSF tau/ A. ratio was increased for those with MCI and MH. Similar findings were reported by Mosconi et al.24 who examined CSF and found individuals with MH to have a decreased A.42/40 ratio and increased CSF F2-isoprostanes (a marker for oxidative stress) in comparison to those without such a history (either PH or NH). However, no group differences were found for P-Tau231 or Total Tau. Maye et al.25 examined the amyloid burden in 147 non-demented neuro-typical adults (mean age 75 years) via a PiB PET scan. Those with MH had greater levels of PiB retention than those without MH and those whose mothers were diagnosed at a younger age had the greatest amyloid burden. Differences in cerebral blood flow were examined by Okonkwo et al.26 via arterial spin labeling in 327 well-characterized adults. Asymptomatic individuals with MH were found to have hypoperfusion in the hippocampal and parieto-frontal regions (suggestive of decreased cerebral blood flow) in comparison to those with NH. Similar differences were noted when comparing the former group with those with only PH.  
+Other research groups have documented greater changes in regional brain volume and glucose metabolism among those with a maternal AD history. For example, Honea et al.11 reported significantly smaller gray matter volume in the inferior frontal, middle frontal, precuneus, and lingual gyri in individuals with MH versus those with PH or NH. Similar findings were reported by this same research group after following individuals for two years, noting gray matter reductions in the precuneus and parahippocampal gyrus when comparing individuals with MH versus those with a PH or NH.12 Finally, Mosconi et al. (2010)13 found individuals with MH to have poorer F-fluorodeoxyglucose (FDG PET) metabolism (a downstream topographical marker indicative of the distribution of neural injury or synaptic dysfunction) in comparison to those without such a history.  
+Successful completion of this feasibility/pilot study will demonstrate the ability of ABC-DS sites to enroll a large cohort of parents of the well-characterized ABC-DS participants into a study of parental AD biomarkers and genetic risk factors and will provide the necessary pilot data to conduct a power analysis for a future submission of a larger sample.  
+INNOVATION   
+The proposed study is innovative for a number of reasons.  First, the study will demonstrate our ability to leverage and complement the ABC-DS, a project that involves the collection of a wide array of 
+AD biomarkers in adults with DS. Second, it will provide pilot data for a power analysis for a future R01 submission examining the association between maternal blood-based biomarkers/genetic risk factors for AD and AD biomarker status in adult children with DS. This R01 would also allow us to extend research conducted by our team over 25 years ago that identified an increased risk for AD in younger mothers (<35 years of age at time of child�s birth) of children with DS. Using newer technologies, we would now be able to test two competing hypotheses, biological aging (via the methylation clock) versus neurodegeneration, to explain the earlier findings. Finally, the current proposal would utilize the existing multisite infrastructure and recruited sample to meets these aims.   
+APPROACH  
+C.1. Pilot Data 
+Epidemiologic model.  Schupf, Lee and colleagues in 199427 postulated that shared genetic susceptibility between DS and AD is likely to be explained by accelerated aging in mothers of DS probands. Given that over 90% of the nondisjunction in DS are maternal in origin,28 shared susceptibility to DS and AD should be observed in mothers. Furthermore, the authors postulated that the likelihood of having a child with DS increases substantially after maternal age of 35; thus, mothers, who have children with DS at a younger age (<35 years of age), are likely to be experiencing accelerated biological aging. Taking these together, the authors predicted that: (1) the risk of dementia would be elevated in mothers who had their offspring at <35 years when compared with mothers of controls as well as mothers who had their offspring with DS at �35 years of age; and (2) the elevated risk of dementia will not be observed in fathers.  As shown in the figure above, these 2 predictions were exceptionally well supported by their epidemiologic findings, where mothers who had offspring at <35 years of age were 5 times more likely to have dementia when compared with controls and mothers who had offspring with DS at �35 years of age.  The observed differential risks of dementia were absent in fathers. To better understand the molecular basis of the shared genetic susceptibility of DS and AD in DS trios (DS probands plus parents), we will need to examine genomic and additional biomarker data from DS probands as well as their parents.   
+Diagram, engineering drawing
+
+Description automatically generated
+Genomic model. Lee, Schupf and colleagues have conducted several candidate gene analyses to examine several candidate genes associated with AD related clinical outcomes as well as some biomarkers of neurodegenerative processes in DS dementia.29-31 In addition, multiple genome wide analyses are currently ongoing using multiomic datasets generated by the ABC-DS and the legacy PPG studies, which will allow us to extend the findings from the proposed ancillary study.  
+ ABC-DS Pilot Data. A total of 376 individuals with DS were enrolled and followed in the NiAD  (U01AG051406) and ADDS (U01AG051412) protocols between 2015 and 2021 (most of whom are anticipated to enroll in ABC-DS). Of these, 186 (49%) currently live with their families. Approximately 40 of the parents with an adult child with DS living at home are over the age of 80. A number of additional study participants, typically residing in group homes, have living parents who did not join study visits but could be contacted and invited to participate in this supplement. Based upon health history questionnaires, 16 of the 186 individuals living at home had a parent diagnosed with dementia. One hundred and thirty (70%) of participants living at home were born to mothers <35 years of age (see Table 1).  It is anticipated that the parents to be enrolled in the current supplement will have fairly similar demographics.  
+
+C.2. Specific Aims  
+The proposed study leverages data being collected through the Alzheimer�s Biomarker Consortium � Down Syndrome (ABC-DS), a National Institute on Aging (NIA) multisite longitudinal study (U19AG068054). The primary goal of ABC-DS is to examine the progression of AD neuropathology via imaging and fluid biomarkers (PET A., PET tau, PET fluordeoxyglucose [FDG], structural and functional MRI, plasma biomarkers [e.g., NfL, ptau181], cerebral spinal fluid [CSF] A. and tau, and plasma A.) in 550 adults with DS and to track their relation to cognitive declines and AD status across time. Fifty unaffected siblings serve as a comparison group. This proposed administrative supplement seeks funds to collect comprehensive data on the parents (both mothers and fathers) of current ABC-DS participants.  Specifically, we will collect data at one time point (T1) on 150 parents of our participants with DS. This will primarily serve as a feasibility study to demonstrate our ability to enroll and characterize parents and will also serve to provide pilot data for a subsequent R01 submission. The R01 will focus on identifying and characterizing genetic risk factors that contribute to neurodegeneration versus accelerated aging in mothers who have given birth to a child with DS when <35 years of age and examining the potential association between maternal blood-based biomarkers/genetic risk factors for AD and AD biomarker status in adult children with DS. The specific aims of the study are:   
+Aim 1: To conduct a feasibility study to demonstrate the ability of ABC-DS sites to enroll parents of ABC-DS participants into a study of parental AD biomarkers and genetic risk factors.   
+Aim 2: To gather the necessary pilot data to conduct a power analysis for determination of the appropriate sample size for a future submission of a larger R01 focusing on parental AD biomarkers and genetic risk factors.  
+ 
+C.3. Participants  
+Participants will be recruited from the ABC-DS, a multisite 5-year NIA/NICHD-funded study involving the University of Pittsburgh, New York State Institute for Basic Research (NYSIBRDD)/Columbia University, University of Wisconsin-Madison, Washington University, University of Kentucky, Massachusetts General Hospital, Cambridge University, and University of California�Irvine. A total of 550 adults with DS (age >25 years) will be enrolled. The current proposal will enroll participants (parents of ABC-DS participants) from 7 of the 8 ABC-DS sites. Five sites with the greatest number of participants residing with their parents (Pittsburgh, Kentucky, Wisconsin, Washington University and California) will focus on completing both the parent and the adult with DS assessments during the same visit. Conversely, two sites (Massachusetts General Hospital and NYSIBRDD/Columbia University) with older participants (typically residing in community residences) will focus on demonstrating our ability to conduct parent assessments in the community (conducting most assessments in the parents� homes). It is anticipated that approximately 100 mothers and 50 fathers will be enrolled in the current feasibility study. One or both parents from the same individual with DS can be enrolled. There will be no lower or upper age limits and participants with prior diagnoses of MCI or dementia can be included.  
+C.4. Procedure  
+Measures to be collected include those planned for participants with DS during their scheduled ABC-DS study visit and supplemental measures to be obtained from parents. Five sites will focus on enrolling parents who are accompanying their adult child with DS to a study visit so that parental measures can also be obtained at the same time. Two sites will conduct community/home visits to obtain the study measures. The following measures will be obtained:  
+C.4.1 Parental Cognitive Assessment 
+We have selected a set of cognitive tests to create an outcome cognitive composite variable that is sensitive to cognitive changes among older adults with preclinical AD. These tests were chosen a priori based on the original Preclinical Alzheimer�s Cognitive Composite (PACC) as described by Donohue et al. (2014),32 with some additional tests to create a more comprehensive cognitive composite. Four key domains are assessed: episodic memory, complex attention/executive function, semantic fluency, and orientation, areas that tend to exhibit decline 7-10 years prior to MCI or AD in the general population.33-35 As most of the parents enrolling in this study are anticipated to be cognitively intact and in a wider (e.g., younger) age range than is typically included in AD studies, selected tasks are slightly more challenging than would be used in batteries for a more at-risk population, using the Australian Imaging, Biomarkers, and Lifestyle (AIBL) study PACC as a template.36 
+The California Verbal Learning Test-3rd Edition (List A Delayed Free Recall) (CVLT-3):37 The CVLT-3 is a test of episodic memory, comprising an initial List A that includes 16 nouns read aloud in a fixed order over 5 trials. After each trial, individuals are asked to recall as many of the words as possible (in any order). Next, a second 16-item List B is presented, and individuals asked to recall those items. This is followed 
+by a free and then cued recall of List A. After 20-minutes, there is a delayed recall trial of List A, followed by a delayed cued recall trial of List A.  
+Craft Story 21 Recall (Delayed Recall):38-39 The Craft Story 21 Recall is a test of episodic memory. A short story is read to the participant who is asked to immediately recall the story from memory. The participant is cued to remember the story for later. Following a 20-minute delay, the participant is asked to recall the story again from memory.  
+Symbol Digit Modalities Test (SDMT):40 The SDMT assesses psychomotor speed and complex attention/executive function. Participants match numbers with corresponding symbols presented in a key at the top of the page. In the written condition, the participant copies the appropriately matching number into blank spaces below symbols. In the oral condition, the participant says the appropriately matching number for each symbol in order.  
+Animal Fluency Test:41 The Animal Fluency Test is a measure of verbal semantic fluency. Participants are asked to name as many animals as possible within 1 minute. The total number of distinct animals named will be used for the cognitive composite. 
+Trail Making Test (TMT) Parts A and B:42-43 The TMT is a test of visual attention and cognitive flexibility. The TMT Part A requires participants to connect numbers on a page sequentially as quickly as possible. Part B then requires participants to connect numbers and letters, in alternating ascending order (e.g., 1-A-2-B-3, etc.) as quickly as possible.  
+Montreal Cognitive Assessment (MoCA):44 The MoCA is a mental status screen comprising the assessment of a wide range of domains including orientation, basic attention, naming, executive function, language, and memory.  
+Calculation of the Cognitive Composite: Raw scores from each of the 6 cognitive outcome measures will be standardized to z-scores using the mean and standard deviation derived from the current sample, in accordance with previous studies.32,36 Standardizing scores in this method reduces skew that occurs with external normative references and increases ease of interpretation.45 Standardized scores will be averaged into a single outcome measure.  
+C.4.2. Family and Health History 
+Cumulative Illness Rating Scale (CIRS):46 The CIRS is a 14-item questionnaire that provides information on an individual�s health history/current health problems. Each of the 14 items target a different health category (e.g., cardiac, neurological, psychiatric). Ratings from 0-4 are provided for each category, with higher score indicating greater severity of problems.  
+C.4.3. Symptoms of Dementia and Mental Health 
+Everyday Cognition 2 (ECog2):47 The ECog2 is a 41-item self-report scale that assesses an individual�s ability to perform various everyday tasks in comparison to their performance 10 years earlier. Domains 
+include Memory, Language, Visual-spatial and Perceptual Abilities, and Executive Functioning. This version of the ECog2 has been updated to have applicability in individuals from a broad range of cultural and sociodemographic backgrounds. 
+GAD-7:48 The GAD-7 is a 7-item, self-report scale for anxiety symptoms commonly associated with Generalized Anxiety Disorder (GAD). Each item is rated on a scale from 0-3, with higher score indicating greater severity. The total score (0-21) has cut-off values for minimal, mild, moderate, and severe anxiety symptoms.  
+Patient Health Questionnaire (PHQ)-9:49 The PHQ-9 is a 9-item, self-report scale of depression symptoms. Items are rated on a 0-3 scale, with higher score indicating greater severity. The total score (0-27) has cut-off values for minimal, mild, moderate, and severe depression symptoms. 
+Penn State Worry Questionnaire (PSWQ):50 The PSWQ is a 16-item self-report questionnaire to measure the trait of worry. The questionnaire correlates with several psychological measures related to worry but more importantly does not correlate with other measures more remote to the construct, e.g., other measures of anxiety or depression. 
+The Brief Symptom Inventory (BSI).51,52 The BSI is a 53-item self-report questionnaire of psychological symptoms derived from the SCL-90 (citation). Individuals rate themselves on a Likert scale ranging from 0-4. The symptoms fall into 9 dimensions: depression, anxiety, somatization, obsessive-compulsivity, interpersonal sensitivity, hostility, phobic anxiety, paranoid ideation, and psychoticism. The items also comprise 3 global indices of psychological distress: general severity index, positive symptom total, and positive symptom distress index. 
+C.4.4. Omics 
+Blood Collection. Non-fasting blood samples of approximately 15 ml via routine phlebotomy will be collected for metabolomics, proteomics, and genetic analyses. Standardized blood collection kits will be provided by NCRAD. Blood will be collected and processed in the same manner as for participants with DS. Samples will be sent to University of North Texas Health Science Center for proteomics analyses. For purposes of the current pilot study, omics assays will be limited to the Simoa platform (Abeta40/42, NfL, total tau, ptau181). As in the parent U19 grant, DNA samples for parents will be sent to the Center for Applied Genomics (CAG) at Children�s Hospital of Philadelphia (CHOP).  Using the same Illumina Global Screening Array version 2.4, 700K+ SNPs will be generated genome-wide. The subsequent processing of the genomic data is described below. The remaining samples will be stored for future omics and genetics analyses (to be funded either via another supplement submission or R01). Parent participants will not undergo neuroimaging or an LP as part of the current proposal.  
+DATA ANALYSIS PLAN 
+Descriptive analyses: All collected measures will be reviewed and flagged for missing, out-of-range, and outlying values. These flagged values will be investigated for errors in data collection, processing, or entry.  Under the guidance of Co-I Tudorascu, the distributions of each quantitative variable of interest will be summarized with descriptive statistics (means, medians, standard deviations (SD) and inter-
+quartile ranges). Data will be evaluated for normality through goodness-of-fit tests and q-q plots. If systematic deviations from normality are detected, the corresponding variables will be appropriately transformed using logarithm or other Box-Cox transformations. If data normality cannot be achieved, then non-parametric analysis will be employed such as Spearman rank correlations and quantile regression where appropriate. 
+For continuous measures: To assess the relationship between mothers� blood markers and children�s genetic risk factors Pearson correlations will be performed. In addition, multiple linear regression models will be employed which can be controlled for covariates of interest or nuisance variables such as (site effects). The effect sizes will be computed in the form of Pearson�s correlation coefficients. 
+For binary or categorical measures: To assess the association between binary measures of biomarkers Chi-square tests of Fisher�s exact test will be employed as appropriate. In order to adjust for important covariates, multiple logistic regression models for binary outcomes or categorical logistic regression models for categorical outcomes will be used. These models will be adjusted for covariates of interest and nuisance variables (site and scanner effects) as appropriate. Effect sizes derived from these models will be reported.  
+Analyses for power calculations for future R01s: Based on the effect sizes that will be obtained, we will compute the appropriate sample sizes to achieve at least 80% power for testing our hypothesis. Additionally, we will conduct preliminary restricted genetic association analyses including:  (1) For genotype data, we will restrict the set of genes to candidate genes that were identified from the largest AD GWAS study to date in non-DS cohorts by Kunkle, plus a few candidate gene studies performed on DS cohorts (See Lee et al).53 Within each gene, we will examine genotype-phenotype relations for all available (i.e., genotyped or imputed) variants. (2) For phenotype data, we will restrict our analyses to phenotypes that are found to be significant or clinically relevant, including AD status, age at onset of AD, and biomarkers that are found to be significantly associated with AD status. These preliminary results will be used to conduct in-depth examination in a subsequent R01 study with a larger dataset. 
+   
+ 
+

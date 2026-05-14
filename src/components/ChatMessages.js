@@ -49,7 +49,7 @@ function ResearchProtocolChat() {
     try {
       const result = await callGeminiAPI(
         `${protocolContext}\n${messageText}`,
-        "gemini-1.5-flash"
+        "gemini-2.5-flash",
       );
       addMessage(result.response, "model", true);
     } catch (error) {

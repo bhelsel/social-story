@@ -6,7 +6,7 @@ const NETLIFY_FUNCTION_URL = isDevelopment
   ? "http://localhost:8888/.netlify/functions/gemini"
   : "https://ku-social-story.netlify.app/.netlify/functions/gemini";
 
-async function callGeminiAPI(prompt, model = "gemini-1.5-flash") {
+async function callGeminiAPI(prompt, model = "gemini-2.5-flash") {
   try {
     const response = await fetch(NETLIFY_FUNCTION_URL, {
       method: "POST",

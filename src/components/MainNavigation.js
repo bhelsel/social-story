@@ -31,7 +31,10 @@ function MainNavigation() {
         </ul>
       </nav>
       <div className={classes.logoRight}>
-        <img src="logo256.png" alt="Logo" />
+        <img
+          src="https://github.com/bhelsel/social-story/raw/main/public/logo256.png"
+          alt="Logo"
+        />
       </div>
     </header>
   );
